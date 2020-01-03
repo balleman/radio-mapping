@@ -32,6 +32,14 @@ def main():
                 point = fld.newpoint(name=site['site'])
                 point.description = site['name']
                 point.coords = [(site['loc']['lon'], site['loc']['lat'])]
+                if not 'type' in site:
+                    point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png"
+                elif site['type'] == 'tower':
+                    point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+                elif site['type'] == 'pole':
+                    point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"
+                else:
+                    point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png"
         
     kml.save(target + "/radio-mapping.kml")
 
