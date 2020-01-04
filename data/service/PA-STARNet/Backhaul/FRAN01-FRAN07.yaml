@@ -1,0 +1,4 @@
+service: FRAN01-FRAN07
+type: link
+site: FRAN01
+dest: FRAN07
