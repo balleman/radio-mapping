@@ -1,0 +1,6 @@
+site: CUMB-EOC
+name: Cumberland County PA Emergency Operations Center
+loc:
+        lat: 40.21527
+        lon: -77.159722
+type: tower

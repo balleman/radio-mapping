@@ -1,0 +1,4 @@
+service: ADAM40-FRAN02
+type: link
+site: ADAM40
+dest: FRAN02

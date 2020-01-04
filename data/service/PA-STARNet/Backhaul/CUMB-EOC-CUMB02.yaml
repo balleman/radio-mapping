@@ -1,0 +1,4 @@
+service: CUMB-EOC-CUMB02
+type: link
+site: CUMB-EOC
+dest: CUMB02

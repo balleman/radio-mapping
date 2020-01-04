@@ -1,0 +1,4 @@
+service: FRAN01-FULT01
+type: link
+site: FRAN01
+dest: FULT01

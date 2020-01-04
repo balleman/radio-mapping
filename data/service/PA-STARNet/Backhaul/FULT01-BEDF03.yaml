@@ -1,0 +1,4 @@
+service: FULT01-BEDF03
+type: link
+site: FULT01
+dest: BEDF03

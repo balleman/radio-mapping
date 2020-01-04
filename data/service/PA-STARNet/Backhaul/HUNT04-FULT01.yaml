@@ -1,0 +1,4 @@
+service: HUNT04-BLAI02
+type: link
+site: HUNT04
+dest: BLAI02

@@ -1,0 +1,4 @@
+service: BLAI02-BEDF13
+type: link
+site: BLAI02
+dest: BEDF13

@@ -1,0 +1,4 @@
+service: CUMB02-CUMB04
+type: link
+site: CUMB02
+dest: CUMB04

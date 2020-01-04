@@ -1,0 +1,4 @@
+service: SOME06-SOME07
+type: link
+site: SOME06
+dest: SOME07

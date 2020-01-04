@@ -1,0 +1,4 @@
+service: HUNT01-HUNT04
+type: link
+site: HUNT01
+dest: HUNT04

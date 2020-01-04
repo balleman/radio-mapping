@@ -1,0 +1,6 @@
+site: PTC-NEWVILLE
+name: Newville
+loc:
+        lat:  40.20286
+        lon: -77.37997 
+type: tower
