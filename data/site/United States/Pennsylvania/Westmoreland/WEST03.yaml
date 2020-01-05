@@ -1,0 +1,6 @@
+site: WEST03
+name: Beacon
+loc:
+        lat: 40.384222
+        lon: -79.692805
+type: tower

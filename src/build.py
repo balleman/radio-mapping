@@ -65,12 +65,12 @@ def main():
                     if "type" not in svc:
                         point = fld.newpoint(name=svc['service'])
                         point.description = svc['service']
+                        site = sites[svc['site']]
+                        point.coords = [(site['loc']['lon'], site['loc']['lat'])]
+                        point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/shapes/target.png"
+                        point.style.iconstyle.scale = 2                        
                         if "callsign" in svc:
-                            site = sites[svc['site']]
-                            point.coords = [(site['loc']['lon'], site['loc']['lat'])]
                             point.description += "<br />Callsign: " + svc['callsign']
-                            point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/shapes/target.png"
-                            point.style.iconstyle.scale = 2                                      
                     elif svc['type'] == "link":
                         line = fld.newlinestring(name=svc['service'])
                         site0 = sites[svc['site']]
