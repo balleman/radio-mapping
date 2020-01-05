@@ -1,0 +1,6 @@
+site: ARMS01
+name: ARMS01
+loc:
+        lat:  40.90863
+        lon: -79.44474
+type: tower

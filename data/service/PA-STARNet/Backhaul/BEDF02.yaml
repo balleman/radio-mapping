@@ -1,0 +1,35 @@
+service: BEDF02-BEDF601
+type: link
+site: BEDF02
+dest: BEDF601
+class: minor
+---
+service: BEDF02-BEDF602
+type: link
+site: BEDF02
+dest: BEDF602
+class: minor
+---
+service: BEDF02-BEDF604
+type: link
+site: BEDF02
+dest: BEDF604
+class: minor
+---
+service: BEDF02-BEDF605
+type: link
+site: BEDF02
+dest: BEDF605
+class: minor
+---
+service: BEDF02-BEDF630
+type: link
+site: BEDF02
+dest: BEDF630
+class: minor
+---
+service: BEDF02-BEDF641
+type: link
+site: BEDF02
+dest: BEDF641
+class: minor
