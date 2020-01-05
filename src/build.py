@@ -59,25 +59,29 @@ def main():
             filename = os.path.join(dirpath, name)
             if (filename.endswith(".yaml")):
                 stream = open(filename, 'r')
-                svc = yaml.safe_load(stream)
-                fld = folders[dirpath]
-                if "type" not in svc:
-                    point = fld.newpoint(name=svc['service'])
-                    point.description = svc['service']
-                    if "callsign" in svc:
-                        site = sites[svc['site']]
-                        point.coords = [(site['loc']['lon'], site['loc']['lat'])]
-                        point.description += "<br />Callsign: " + svc['callsign']
-                        point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/shapes/target.png"
-                        point.style.iconstyle.scale = 2                                      
-                elif svc['type'] == "link":
-                    line = fld.newlinestring(name=svc['service'])
-                    site0 = sites[svc['site']]
-                    site1 = sites[svc['dest']]
-                    line.coords = [(site0['loc']['lon'], site0['loc']['lat']), (site1['loc']['lon'], site1['loc']['lat'])]
-                    line.extrude = 1
-                    line.style.linestyle.width = 3
-                    line.style.linestyle.color = simplekml.Color.yellow
+                svcs = yaml.safe_load_all(stream)
+                for svc in svcs:
+                    fld = folders[dirpath]
+                    if "type" not in svc:
+                        point = fld.newpoint(name=svc['service'])
+                        point.description = svc['service']
+                        if "callsign" in svc:
+                            site = sites[svc['site']]
+                            point.coords = [(site['loc']['lon'], site['loc']['lat'])]
+                            point.description += "<br />Callsign: " + svc['callsign']
+                            point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/shapes/target.png"
+                            point.style.iconstyle.scale = 2                                      
+                    elif svc['type'] == "link":
+                        line = fld.newlinestring(name=svc['service'])
+                        site0 = sites[svc['site']]
+                        site1 = sites[svc['dest']]
+                        line.coords = [(site0['loc']['lon'], site0['loc']['lat']), (site1['loc']['lon'], site1['loc']['lat'])]
+                        line.extrude = 1
+                        if "class" not in svc or svc["class"] == "major":
+                            line.style.linestyle.width = 3
+                        elif svc["class"] == "minor":
+                            line.style.linestyle.width = 1
+                        line.style.linestyle.color = simplekml.Color.yellow
                     
         
     kml.save(target + "/radio-mapping.kml")
