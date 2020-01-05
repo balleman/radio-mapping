@@ -1,0 +1,5 @@
+service: YORK16-YORK34
+type: link
+site: YORK16
+dest: YORK34
+callsign: WPSS422

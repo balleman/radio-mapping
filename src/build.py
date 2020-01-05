@@ -30,6 +30,9 @@ def main():
                 stream = open(filename, 'r')
                 site = yaml.safe_load(stream)
                 sites[site['site']] = site
+                if "aliases" in site:
+                    for alias in site['aliases']:
+                        sites[alias] = site
                 fld = folders[dirpath]
                 point = fld.newpoint(name=site['site'])
                 point.description = site['name']

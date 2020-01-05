@@ -1,0 +1,9 @@
+site: YORK01
+name: Bunches
+loc:
+        lat:  40.19194
+        lon: -76.86719
+type: tower
+aliases:
+  - PTC-BUNCHES
+asrn: 1026848
