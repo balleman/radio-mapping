@@ -1,0 +1,6 @@
+site: INDI01
+name: INDI01
+loc:
+        lat:  40.66728 
+        lon: -78.99683 
+type: tower

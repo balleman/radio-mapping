@@ -1,0 +1,6 @@
+site: CRAW01
+name: CRAW01
+loc:
+        lat:  41.66745
+        lon: -79.83914 
+type: tower

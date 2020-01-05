@@ -1,0 +1,6 @@
+site: CLIN02
+name: CLIN02
+loc:
+        lat:  41.39742
+        lon: -77.85431 
+type: tower
