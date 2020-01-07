@@ -1,0 +1,12 @@
+service: P25-MERC31
+site: MERC31
+callsign: WQVF450
+range: 25
+p25:
+  nac: 94C
+  site: 10
+  rfss: 1
+adjacent:
+  - BUTL01
+  - CRAW37
+  - VENA12

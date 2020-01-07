@@ -1,0 +1,9 @@
+service: P25-DAUP01
+site: DAUP01
+callsign: WQVR895
+range: 25
+p25:
+  nac: 941
+  site: 4
+  rfss: 1
+

@@ -1,0 +1,9 @@
+service: P25-BUTL01
+site: BUTL01
+callsign: WQUY802
+range: 25
+p25:
+  nac: 94D
+  site: 5
+  rfss: 1
+

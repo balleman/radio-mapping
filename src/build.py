@@ -3,6 +3,7 @@
 import yaml
 import os
 import simplekml
+from polycircles import polycircles
 
 def main():
     target = "../target"
@@ -15,6 +16,7 @@ def main():
     fld_phy = kml.newfolder(name="Physical Sites")
     folders = dict()
     sites = dict()
+    miles_to_meters = 1609.344
                 
     site_path = "../data/site"
     for (dirpath, dirnames, filenames) in os.walk(site_path):
@@ -63,7 +65,8 @@ def main():
                 for svc in svcs:
                     fld = folders[dirpath]
                     if "type" not in svc:
-                        point = fld.newpoint(name=svc['service'])
+                        fld_this = fld.newfolder(name=svc['service'])
+                        point = fld_this.newpoint(name=svc['service'])
                         point.description = svc['service']
                         site = sites[svc['site']]
                         point.coords = [(site['loc']['lon'], site['loc']['lat'])]
@@ -71,6 +74,33 @@ def main():
                         point.style.iconstyle.scale = 2                        
                         if "callsign" in svc:
                             point.description += "<br />Callsign: " + svc['callsign']
+                        if "p25" in svc:
+                            p25 = svc['p25']
+                            if "nac" in p25:
+                                point.description += "<br />P25 NAC: " + str(p25['nac'])
+                            if "rfss" in p25:
+                                point.description += "<br />P25 RFSS: " + str(p25['rfss'])
+                            if "site" in p25:
+                                point.description += "<br />P25 Site: " + str(p25['site'])
+                        if "range" in svc:
+                            polycircle = polycircles.Polycircle(latitude=site['loc']['lat'],
+                                                               longitude=site['loc']['lon'],
+                                                               radius=svc['range']*miles_to_meters,
+                                                               number_of_vertices=36)
+                            polygon = fld_this.newpolygon(name=svc['service'] + " Range",
+                                                          outerboundaryis=polycircle.to_kml())
+                            polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.green)
+                        if "adjacent" in svc:
+                            fld_adj = fld_this.newfolder(name="Adjacent Sites")
+                            for adj in svc['adjacent']:
+                                line = fld_adj.newlinestring(name=svc['service'] + "-" + adj)
+                                site0 = site
+                                site1 = sites[adj]
+                                line.coords = [(site0['loc']['lon'], site0['loc']['lat']), (site1['loc']['lon'], site1['loc']['lat'])]
+                                line.extrude = 1
+                                line.style.linestyle.color = simplekml.Color.beige
+                                
+                                                            
                     elif svc['type'] == "link":
                         line = fld.newlinestring(name=svc['service'])
                         site0 = sites[svc['site']]

@@ -1,0 +1,17 @@
+service: WEST03-WEST30
+type: link
+site: WEST03
+dest: WEST30
+callsign: WPTA847
+---
+service: WEST03-ALLE28
+type: link
+site: WEST03
+dest: ALLE28
+callsign: WPTA847
+---
+service: WEST03-ALLE21
+type: link
+site: WEST03
+dest: ALLE21
+callsign: WPTA847

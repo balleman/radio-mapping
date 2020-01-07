@@ -1,5 +1,7 @@
 site: ERIE92
 name: Washington Stockpile
+aliases:
+  - Edinboro
 loc:
         lat: 41.88267 
         lon: -80.19007 

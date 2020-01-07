@@ -1,0 +1,9 @@
+service: P25-WARR34
+site: WARR34
+callsign: WQVR394
+range: 16
+p25:
+  site: 2
+  rfss: 1
+adjacent:
+  - WARR17

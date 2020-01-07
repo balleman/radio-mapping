@@ -1,0 +1,7 @@
+service: P25-FORE07
+site: FORE07
+callsign: WQVG590
+range: 16
+p25:
+  site: 8
+  rfss: 1

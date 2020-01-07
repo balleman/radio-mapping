@@ -1,0 +1,5 @@
+service: WEST30-CAMB02
+type: link
+site: WEST30
+dest: CAMB02
+callsign: WPTX983

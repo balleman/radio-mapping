@@ -1,0 +1,8 @@
+service: P25-ERIE92
+site: ERIE92
+callsign: WRAM426
+range: 10
+p25:
+  nac: 94B
+  site: 14
+  rfss: 1

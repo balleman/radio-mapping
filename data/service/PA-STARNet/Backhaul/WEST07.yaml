@@ -1,0 +1,5 @@
+service: WEST07-WEST911
+type: link
+site: WEST07
+dest: WEST911
+callsign: WQSL436
