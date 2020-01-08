@@ -1,0 +1,10 @@
+service: P25-CAMB02
+site: CAMB02
+callsign: WQUX679
+range: 25
+p25:
+  nac: 949
+  site: 35
+  rfss: 1 
+
+   

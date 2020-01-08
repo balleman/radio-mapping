@@ -1,0 +1,12 @@
+service: P25-SOME02
+site: SOME02
+callsign: WQUZ231
+range: 25
+p25:
+  nac: 94A
+  site: 39
+  rfss: 1
+adjacent:
+  - CAMB02
+  - WEST30
+   

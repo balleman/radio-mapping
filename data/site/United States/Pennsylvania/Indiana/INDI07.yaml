@@ -1,0 +1,6 @@
+site: INDI07
+name: Rossiter
+loc:
+        lat:  40.88756 
+        lon: -78.83350 
+type: tower

@@ -1,0 +1,13 @@
+service: P25-INDI07
+site: INDI07
+callsign: WQUC589
+range: 25
+p25:
+  nac: 94E
+  site: 38
+  rfss: 1
+adjacent:
+  - ARMS32
+  - CAMB02
+  - INDI01
+   

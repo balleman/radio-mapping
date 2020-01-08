@@ -1,0 +1,12 @@
+service: P25-CLAR05
+site: CLAR05
+callsign: WQUX675
+range: 25
+p25:
+  nac: 94D
+  site: 23
+  rfss: 1
+adjacent:
+  - BUTL01
+  - BUTL03
+  - ARMS32  

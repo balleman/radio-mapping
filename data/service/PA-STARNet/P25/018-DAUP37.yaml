@@ -1,0 +1,8 @@
+service: P25-DAUP37
+site: DAUP37
+callsign: WRAD754
+range: 10
+p25:
+  site: 18
+  rfss: 1
+  
