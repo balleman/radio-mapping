@@ -1,0 +1,17 @@
+service: HUNT01-HUNT04
+type: link
+site: HUNT01
+dest: HUNT04
+callsign: WPRR404
+---
+service: HUNT01-HUNT40
+type: link
+site: HUNT01
+dest: HUNT40
+callsign: WPRR404
+---
+service: HUNT01-MIFF40
+type: link
+site: HUNT01
+dest: MIFF40
+callsign: WPRR404

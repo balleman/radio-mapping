@@ -1,0 +1,12 @@
+service: P25-CLIN41
+site: CLIN41
+range: 25
+callsign: WQVG226
+p25:
+  nac: 941
+  site: 45
+  rfss: 1
+adjacent:
+  - CENT16
+  - CENT08
+   

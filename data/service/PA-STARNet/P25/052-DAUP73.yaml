@@ -1,0 +1,9 @@
+service: P25-DAUP73
+site: DAUP73
+callsign: WRAD754
+range: 10
+color: red
+p25:
+  nac: 947
+  site: 52
+  rfss: 1

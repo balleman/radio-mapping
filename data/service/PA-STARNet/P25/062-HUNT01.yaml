@@ -1,0 +1,15 @@
+service: P25-HUNT01
+site: HUNT01
+callsign: WQUY467
+range: 20
+p25:
+  nac: 941
+  site: 62
+  rfss: 1
+adjacent:
+  - FULT01
+  - CAMB02
+  - SOME02
+  - CENT04
+  - CENT08
+  - HUNT04

@@ -1,0 +1,11 @@
+service: BEAV05-ALLE28
+type: link
+site: BEAV05
+dest: ALLE28
+callsign: WPTC472
+---
+service: BEAV05-BEAV608
+type: link
+site: BEAV05
+dest: BEAV608
+callsign: WQSL230

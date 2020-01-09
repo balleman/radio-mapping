@@ -2,6 +2,7 @@ service: P25-ERIE84
 site: ERIE84
 callsign: WRAV921
 range: 10
+color: blue
 p25:
   nac: 940
   site: 17

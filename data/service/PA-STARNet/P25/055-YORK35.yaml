@@ -1,0 +1,9 @@
+service: P25-YORK35
+site: YORK35
+callsign: WRAJ230
+range: 15
+color: red
+p25:
+  nac: 949
+  site: 55
+  rfss: 1 

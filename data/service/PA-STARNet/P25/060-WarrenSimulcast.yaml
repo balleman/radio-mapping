@@ -1,0 +1,15 @@
+service: P25-WarrenSimulcast.WARR35A
+site: WARR35A
+callsign: WQUU666
+range: 25
+p25:
+  site: 60
+  rfss: 1
+---
+service: P25-WarrenSimulcast.WARR37
+site: WARR37
+callsign: WQUU666
+range: 25
+p25:
+  site: 60
+  rfss: 1

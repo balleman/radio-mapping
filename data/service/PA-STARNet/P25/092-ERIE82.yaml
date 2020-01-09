@@ -1,0 +1,12 @@
+service: P25-092-ERIE82
+site: ERIE82
+range: 10
+p25:
+  nac: 94F
+  site: 92
+  rfss: 1
+adjacent:
+  - WARR17
+  - CRAW01
+  - VENA12
+  - ERIE80

@@ -2,6 +2,7 @@ service: P25-ERIE92
 site: ERIE92
 callsign: WRAM426
 range: 10
+color: red
 p25:
   nac: 94B
   site: 14

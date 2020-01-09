@@ -1,0 +1,11 @@
+service: BEAV01-LAWR06
+type: link
+site: BEAV01
+dest: LAWR06
+callsign: WPUE416
+---
+service: BEAV01-BUTL90
+type: link
+site: BEAV01
+dest: BUTL90
+callsign: WPUE416

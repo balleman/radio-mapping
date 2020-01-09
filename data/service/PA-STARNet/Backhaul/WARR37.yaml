@@ -1,0 +1,6 @@
+service: WARR37-WARR695
+type: link
+site: WARR37
+dest: WARR695
+callsign: WQST963
+class: minor

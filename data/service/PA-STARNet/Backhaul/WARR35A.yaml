@@ -1,0 +1,18 @@
+service: WARR35A-WARR17
+type: link
+site: WARR35A
+dest: WARR17
+callsign: WQFE988
+---
+service: WARR35A-WARR34
+type: link
+site: WARR35A
+dest: WARR34
+callsign: WQFE988
+---
+service: WARR35A-VENA92
+type: link
+site: WARR35A
+dest: VENA92
+callsign: WQFE988
+

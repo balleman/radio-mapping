@@ -2,6 +2,7 @@ service: P25-ERIE82
 site: ERIE82
 callsign: WRAM703
 range: 10
+color: red
 p25:
   nac: 940
   site: 13

@@ -1,0 +1,17 @@
+service: HUNT40-CENT16
+type: link
+site: HUNT40
+dest: CENT16
+callsign: WPSJ863
+---
+service: HUNT40-HUNT01
+type: link
+site: HUNT40
+dest: HUNT01
+callsign: WPSJ863
+---
+service: HUNT40-CENT09
+type: link
+site: HUNT40
+dest: CENT09
+callsign: WPSJ863

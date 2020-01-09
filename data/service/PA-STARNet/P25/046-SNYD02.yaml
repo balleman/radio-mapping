@@ -1,0 +1,15 @@
+service: P25-SNYD02
+site: SNYD02
+range: 20
+callsign: WQVL665
+p25:
+  nac: 942
+  site: 46
+  rfss: 1
+adjacent:
+  - DAUP01
+  - DAUP37
+  - CENT16
+  - CENT08
+  - CLIN41
+   

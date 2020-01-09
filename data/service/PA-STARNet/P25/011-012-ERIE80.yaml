@@ -11,6 +11,7 @@ service: P25-ERIE80-800
 site: ERIE80
 callsign: WRAM426
 range: 15
+color: red
 p25:
   nac: 948
   site: 12

@@ -1,0 +1,13 @@
+service: P25-103-ERIE93
+site: ERIE93
+range: 10
+color: blue
+p25:
+  nac: 940
+  site: 103
+  rfss: 1
+adjacent:
+  - ERIE80
+  - ERIE93
+  - ERIE40
+  - ERIE84

@@ -1,0 +1,12 @@
+service: P25-DAUP01-800
+site: DAUP01
+callsign: WRAD754
+range: 10
+color: red
+p25:
+  nac: 946
+  site: 53
+  rfss: 1
+adjacent:
+  - DAUP37
+  - DAUP73

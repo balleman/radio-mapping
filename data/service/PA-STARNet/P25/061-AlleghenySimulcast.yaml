@@ -1,0 +1,39 @@
+service: P25-AlleghenySimulcast.BEAV05
+site: BEAV05
+callsign: WQVA470
+range: 35
+p25:
+  site: 61
+  rfss: 1
+---
+service: P25-AlleghenySimulcast.BEAV02
+site: BEAV02
+callsign: WQVA470
+range: 35
+p25:
+  site: 61
+  rfss: 1
+---
+service: P25-AlleghenySimulcast.WEST03
+site: WEST03
+callsign: WQVA470
+range: 35
+p25:
+  site: 61
+  rfss: 1
+---
+service: P25-AlleghenySimulcast.ALLE41
+site: ALLE41
+callsign: WQVA470
+range: 35
+p25:
+  site: 61
+  rfss: 1
+---
+service: P25-AlleghenySimulcast.ALLE59
+site: ALLE59
+callsign: WQVA470
+range: 35
+p25:
+  site: 61
+  rfss: 1

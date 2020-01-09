@@ -1,0 +1,14 @@
+service: P25-HUNT04
+site: HUNT04
+range: 25
+callsign: WQUY816
+p25:
+  nac: 948
+  site: 47
+  rfss: 1
+adjacent:
+  - FULT01
+  - CENT08
+  - FRAN01
+
+   

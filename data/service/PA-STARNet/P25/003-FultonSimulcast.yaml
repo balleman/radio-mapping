@@ -1,4 +1,4 @@
-service: P25-FultonSimulcast.1
+service: P25-FultonSimulcast.FULT01
 site: FULT01
 callsign: WQUV758
 range: 25
@@ -9,7 +9,7 @@ p25:
 adjacent:
   - FRAN01
 ---
-service: P25-FultonSimulcast.2
+service: P25-FultonSimulcast.FULT40
 site: FULT40
 callsign: WQUV758
 range: 25

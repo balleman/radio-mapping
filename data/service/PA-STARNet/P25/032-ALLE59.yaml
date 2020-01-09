@@ -2,6 +2,7 @@ service: P25-ALLE59
 site: ALLE59
 callsign: WRAD370
 range: 15
+color: red
 p25:
   nac: 942
   site: 32

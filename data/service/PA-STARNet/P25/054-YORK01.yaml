@@ -1,0 +1,11 @@
+service: P25-YORK01
+site: YORK01
+callsign: WPGX766
+range: 15
+color: red
+p25:
+  nac: 948
+  site: 54
+  rfss: 1
+adjacent:
+  - DAUP73

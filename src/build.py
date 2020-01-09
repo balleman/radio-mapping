@@ -89,7 +89,12 @@ def main():
                                                                number_of_vertices=36)
                             polygon = fld_this.newpolygon(name=svc['service'] + " Range",
                                                           outerboundaryis=polycircle.to_kml())
-                            polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.green)
+                            if "color" not in svc:
+                                polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.green)
+                            elif svc["color"] == "blue":
+                                polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.blue)
+                            elif svc["color"] == "red":
+                                polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.red)
                         if "adjacent" in svc:
                             fld_adj = fld_this.newfolder(name="Adjacent Sites")
                             for adj in svc['adjacent']:

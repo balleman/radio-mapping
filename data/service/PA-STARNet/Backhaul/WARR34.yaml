@@ -1,0 +1,18 @@
+service: WARR34-MCKE03
+type: link
+site: WARR34
+dest: MCKE03
+callsign: WPTG653
+---
+service: WARR34-WARR37
+type: link
+site: WARR34
+dest: WARR37
+callsign: WPTG653
+---
+service: WARR34-WARR35A
+type: link
+site: WARR34
+dest: WARR35A
+callsign: WPTG653
+

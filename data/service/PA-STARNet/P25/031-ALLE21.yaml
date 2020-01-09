@@ -2,6 +2,7 @@ service: P25-ALLE21
 site: ALLE21
 callsign: WRAD357
 range: 15
+color: red
 p25:
   nac: 947
   site: 31

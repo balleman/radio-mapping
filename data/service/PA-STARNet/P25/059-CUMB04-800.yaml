@@ -1,0 +1,15 @@
+service: P25-CUMB04-800
+site: CUMB04
+callsign: WRAD754
+range: 20
+color: red
+p25:
+  nac: 942
+  site: 59
+  rfss: 1
+adjacent:
+  - PERR01
+  - DAUP73
+  - DAUP01
+  - YORK01
+  - YORK35

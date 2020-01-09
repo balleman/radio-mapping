@@ -1,0 +1,12 @@
+service: P25-YORK89
+site: YORK89
+callsign: WRAJ230
+range: 15
+color: red
+p25:
+  nac: 94B
+  site: 57
+  rfss: 1
+adjacent:
+  - YORK35
+  - YORK34

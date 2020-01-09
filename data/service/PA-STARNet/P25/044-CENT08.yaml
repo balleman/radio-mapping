@@ -1,0 +1,11 @@
+service: P25-CENT08
+site: CENT08
+range: 20
+p25:
+  nac: 946
+  site: 44
+  rfss: 1
+adjacent:
+  - CENT04
+  - CENT08
+   

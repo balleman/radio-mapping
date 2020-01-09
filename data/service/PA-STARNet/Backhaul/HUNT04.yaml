@@ -1,0 +1,23 @@
+service: HUNT04-FULT01
+type: link
+site: HUNT04
+dest: FULT01
+callsign: WPRR405
+---
+service: HUNT04-BLAI02
+type: link
+site: HUNT04
+dest: BLAI02
+callsign: WPRR405
+---
+service: HUNT04-HUNT01
+type: link
+site: HUNT04
+dest: HUNT01
+callsign: WPRR405
+---
+service: HUNT04-PERR01
+type: link
+site: HUNT04
+dest: PERR01
+callsign: WPRR405

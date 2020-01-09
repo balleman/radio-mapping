@@ -1,0 +1,17 @@
+service: BEAV02-ALLE28
+type: link
+site: BEAV02
+dest: ALLE28
+callsign: WPTD552
+---
+service: BEAV02-WASH39
+type: link
+site: BEAV02
+dest: WASH39
+callsign: WPTD552
+---
+service: BEAV02-ALLE601
+type: link
+site: BEAV02
+dest: ALLE601
+callsign: WPTD552

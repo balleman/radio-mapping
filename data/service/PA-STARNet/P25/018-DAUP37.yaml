@@ -2,6 +2,7 @@ service: P25-DAUP37
 site: DAUP37
 callsign: WRAD754
 range: 10
+color: red
 p25:
   site: 18
   rfss: 1
