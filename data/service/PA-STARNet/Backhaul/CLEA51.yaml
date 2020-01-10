@@ -1,0 +1,13 @@
+service: CLEA51-CLEA640
+type: link
+site: CLEA51
+dest: CLEA640
+class: minor
+callsign: WQSM403
+---
+service: CLEA51-ELKC621
+type: link
+site: CLEA51
+dest: ELKC621
+class: minor
+callsign: WQSM403

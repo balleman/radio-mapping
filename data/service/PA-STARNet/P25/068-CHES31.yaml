@@ -1,0 +1,8 @@
+service: P25-068-CHES31
+site: CHES31
+range: 15
+color: red
+p25:
+  nac: 941
+  site: 68
+  rfss: 1

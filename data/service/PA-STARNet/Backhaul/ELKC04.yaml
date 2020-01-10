@@ -1,0 +1,12 @@
+service: ELKC04-CLEA03
+type: link
+site: ELKC04
+dest: CLEA03
+callsign: WQNS257
+---
+service: ELKC04-ELKC687
+type: link
+site: ELKC04
+dest: ELKC687
+class: minor
+callsign: WQST964

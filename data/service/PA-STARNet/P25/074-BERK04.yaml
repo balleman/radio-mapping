@@ -1,0 +1,7 @@
+service: P25-074-BERK04
+site: BERK04
+range: 15
+callsign: WRBP862
+p25:
+  site: 74
+  rfss: 1

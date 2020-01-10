@@ -1,0 +1,35 @@
+service: JEFF02-FORE07
+type: link
+site: JEFF02
+dest: FORE07
+callsign: WPTG313
+---
+service: JEFF02-CLEA07
+type: link
+site: JEFF02
+dest: CLEA07
+callsign: WPTG313
+---
+service: JEFF02-CLAR05
+type: link
+site: JEFF02
+dest: CLAR05
+callsign: WPTG313
+---
+service: JEFF02-JEFF53
+type: link
+site: JEFF02
+dest: JEFF53
+callsign: WPTG313
+---
+service: JEFF02-CLAR33
+type: link
+site: JEFF02
+dest: CLAR33
+callsign: WPTG313
+---
+service: JEFF02-JEFF90
+type: link
+site: JEFF02
+dest: JEFF90
+callsign: WPTG313

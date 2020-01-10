@@ -1,0 +1,6 @@
+site: CHES01
+name: Morgantown
+loc:
+        lat:  40.13369
+        lon: -75.86658
+type: tower

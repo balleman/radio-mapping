@@ -1,0 +1,11 @@
+service: P25-079-CHES33
+site: CHES33
+range: 20
+p25:
+  nac: 947
+  site: 79
+  rfss: 1
+adjacent:
+ - LANC01
+ - LANC33
+ - CHES02

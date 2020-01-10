@@ -1,0 +1,13 @@
+service: P25-073-LEBA74
+site: LEBA74
+range: 7
+color: red
+callsign: WRAD754
+p25:
+  nac: 941
+  site: 73
+  rfss: 1
+adjacent:
+  - DAUP37
+  - DAUP73
+  - SCHU03

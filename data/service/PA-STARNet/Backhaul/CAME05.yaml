@@ -1,0 +1,13 @@
+service: CAME05-CAME617
+type: link
+site: CAME05
+dest: CAME617
+class: minor
+callsign: WQST966
+---
+service: CAME05-ELKC613
+type: link
+site: CAME05
+dest: ELKC613
+class: minor
+callsign: WQST966
