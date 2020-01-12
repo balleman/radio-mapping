@@ -1,0 +1,13 @@
+service: P25-090-DAUP17
+site: DAUP17
+range: 10
+color: red
+p25:
+  nac: 944
+  site: 90
+  rfss: 1
+adjacent:
+  - DAUP73
+  - YORK35
+  - CUMB04
+  - MIFF35

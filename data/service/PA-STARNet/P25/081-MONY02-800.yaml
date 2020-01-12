@@ -1,0 +1,9 @@
+service: P25-081-MONY02-800
+site: MONY02
+range: 13
+color: red
+callsign: WRAL448
+p25:
+  nac: 949
+  site: 81
+  rfss: 1

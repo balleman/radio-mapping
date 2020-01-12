@@ -1,0 +1,12 @@
+service: P25-080-MONY50
+site: MONY50
+range: 10
+color: red
+p25:
+  nac: 949
+  site: 80
+  rfss: 1
+adjacent:
+  - CHES02
+  - CHES01
+  

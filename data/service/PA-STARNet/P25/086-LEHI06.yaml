@@ -1,0 +1,10 @@
+service: P25-086-LEHI06
+site: LEHI06
+range: 20
+p25:
+  nac: 944
+  site: 86
+  rfss: 1
+adjacent:
+  - BERK04
+  - LEHI05

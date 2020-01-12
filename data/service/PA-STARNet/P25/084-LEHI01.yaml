@@ -1,0 +1,11 @@
+service: P25-084-LEHI01
+site: LEHI01
+range: 10
+color: red
+callsign: WRAL448
+p25:
+  nac: 947
+  site: 84
+  rfss: 1
+adjacent:
+  - MONY50

@@ -1,0 +1,11 @@
+service: P25-085-LEHI05
+site: LEHI05
+range: 20
+callsign: WQVC257
+p25:
+  nac: 943
+  site: 85
+  rfss: 1
+adjacent:
+  - CHES02
+  - BERK04
