@@ -1,0 +1,41 @@
+service: CLIN41-CLIN02
+type: link
+site: CLIN41
+dest: CLIN02
+callsign: WPOP765
+---
+service: CLIN41-SNYD01
+type: link
+site: CLIN41
+dest: SNYD01
+callsign: WPOP765
+---
+service: CLIN41-CENT16
+type: link
+site: CLIN41
+dest: CENT16
+callsign: WPOP765
+---
+service: CLIN41-LYCO21A
+type: link
+site: CLIN41
+dest: LYCO21A
+callsign: WPOP765
+---
+service: CLIN41-SNYD02
+type: link
+site: CLIN41
+dest: SNYD02
+callsign: WPOP765
+---
+service: CLIN41-LYCO01A
+type: link
+site: CLIN41
+dest: LYCO01A
+callsign: WPOP765
+---
+service: CLIN41-CLIN03
+type: link
+site: CLIN41
+dest: CLIN03
+callsign: WPOP765

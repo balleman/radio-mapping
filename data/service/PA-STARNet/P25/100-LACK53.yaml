@@ -1,0 +1,12 @@
+service: P25-100-LACK53
+site: LACK53
+range: 20
+callsign: WRBT765
+p25:
+  nac: 94F
+  site: 100
+  rfss: 1
+adjacent:
+  - MONR03
+  - WAYN31
+  - WAYN33

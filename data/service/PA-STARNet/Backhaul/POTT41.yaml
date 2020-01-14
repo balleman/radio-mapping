@@ -1,0 +1,23 @@
+service: POTT41-CAME05
+type: link
+site: POTT41
+dest: CAME05
+callsign: WPUE486
+---
+service: POTT41-CLIN02
+type: link
+site: POTT41
+dest: CLIN02
+callsign: WPUE486
+---
+service: POTT41-CAME33
+type: link
+site: POTT41
+dest: CAME33
+callsign: WPUE486
+---
+service: POTT41-CAME03
+type: link
+site: POTT41
+dest: CAME03
+callsign: WPUE486

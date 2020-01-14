@@ -1,0 +1,5 @@
+service: COLU31-MONT01
+type: link
+site: COLU31
+dest: MONT01
+callsign: WRDW363

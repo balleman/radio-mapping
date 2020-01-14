@@ -1,0 +1,11 @@
+service: BERK04-SCHU66
+type: link
+site: BERK04
+dest: SCHU66
+callsign: WQSL497
+---
+service: BERK04-SCHU34
+type: link
+site: BERK04
+dest: SCHU34
+callsign: WQSL497

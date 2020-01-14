@@ -21,12 +21,12 @@ def main():
     site_path = "../data/site"
     for (dirpath, dirnames, filenames) in os.walk(site_path):
         for dirname in dirnames:
-            if dirpath in folders:
+            if dirpath in sorted(folders):
                 fld = folders[dirpath].newfolder(name=dirname)
             else:
                 fld = fld_phy.newfolder(name=dirname)
             folders[os.path.join(dirpath, dirname)] = fld 
-        for name in filenames:
+        for name in sorted(filenames):
             filename = os.path.join(dirpath, name)
             if (filename.endswith(".yaml")):
                 stream = open(filename, 'r')
@@ -95,6 +95,8 @@ def main():
                                 polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.blue)
                             elif svc["color"] == "red":
                                 polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.red)
+                            elif svc["color"] == "orange":
+                                polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.orange)
                         if "adjacent" in svc:
                             fld_adj = fld_this.newfolder(name="Adjacent Sites")
                             for adj in svc['adjacent']:

@@ -1,0 +1,23 @@
+service: COLU02-LUZE04
+type: link
+site: COLU02
+dest: LUZE04
+callsign: WPSJ867
+---
+service: COLU02-LYCO01A
+type: link
+site: COLU02
+dest: LYCO01A
+callsign: WPSJ867
+---
+service: COLU02-SULL01
+type: link
+site: COLU02
+dest: SULL01
+callsign: WPSJ867
+---
+service: COLU02-MONT01
+type: link
+site: COLU02
+dest: MONT01
+callsign: WPSJ867

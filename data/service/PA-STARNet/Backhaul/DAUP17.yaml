@@ -1,0 +1,23 @@
+service: DAUP17-CUMB03
+type: link
+site: DAUP17
+dest: CUMB03
+callsign: WPQR239
+---
+service: DAUP17-YORK01
+type: link
+site: DAUP17
+dest: YORK01
+callsign: WPQR235
+---
+service: DAUP17-DAUP31
+type: link
+site: DAUP17
+dest: DAUP31
+callsign: WPQR239
+---
+service: DAUP17-DAUP73
+type: link
+site: DAUP17
+dest: DAUP73
+callsign: WPQR239

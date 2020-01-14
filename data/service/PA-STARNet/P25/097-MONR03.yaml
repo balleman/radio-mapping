@@ -1,0 +1,11 @@
+service: P25-097-MONR03
+site: MONR03
+range: 20
+callsign: WRBT765
+p25:
+  nac: 94D
+  site: 97
+  rfss: 1
+adjacent:
+  - LEHI06
+  - MONR09

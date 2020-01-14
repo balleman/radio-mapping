@@ -1,0 +1,17 @@
+service: DAUP01-SNYD02
+type: link
+site: DAUP01
+dest: SNYD02
+callsign: WPQR243
+---
+service: DAUP01-DAUP31
+type: link
+site: DAUP01
+dest: DAUP31
+callsign: WPQR243
+---
+service: DAUP01-DAUP-BLUE-MTN
+type: link
+site: DAUP01
+dest: DAUP-BLUE-MTN
+callsign: WPQR243

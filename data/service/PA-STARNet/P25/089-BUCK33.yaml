@@ -1,0 +1,7 @@
+service: P25-088-BUCK33
+site: BUCK33
+range: 15
+callsign: WRCM947
+p25:
+  site: 89
+  rfss: 1

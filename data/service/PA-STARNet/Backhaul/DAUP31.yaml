@@ -1,0 +1,29 @@
+service: DAUP31-DAUP01
+type: link
+site: DAUP31
+dest: DAUP01
+callsign: WPQR249
+---
+service: DAUP31-DAUP17
+type: link
+site: DAUP31
+dest: DAUP17
+callsign: WPQR249
+---
+service: DAUP31-DAUP81
+type: link
+site: DAUP31
+dest: DAUP81
+callsign: WPQR249
+---
+service: DAUP31-LEBA74
+type: link
+site: DAUP31
+dest: LEBA74
+callsign: WPQR249
+---
+service: DAUP31-LEBA71
+type: link
+site: DAUP31
+dest: LEBA71
+callsign: WQSL489

@@ -1,5 +1,7 @@
 site: MONR03
-name: Coolbaugh
+name: Mount Pocono
+alias:
+  - Coolbaugh
 loc:
         lat: 41.16398
         lon: -75.31824

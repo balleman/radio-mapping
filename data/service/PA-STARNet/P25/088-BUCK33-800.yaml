@@ -1,0 +1,11 @@
+service: P25-088-BUCK33-800
+site: BUCK33
+range: 10
+callsign: WRAL397
+color: red
+p25:
+  site: 88
+  rfss: 1
+adjacent:
+  - MONY50
+  - LEHI01

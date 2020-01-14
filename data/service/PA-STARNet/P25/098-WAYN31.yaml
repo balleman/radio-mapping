@@ -1,0 +1,8 @@
+service: P25-098-WAYN31
+site: WAYN31
+range: 20
+callsign: WQWD725
+p25:
+  nac: 94E
+  site: 98
+  rfss: 1

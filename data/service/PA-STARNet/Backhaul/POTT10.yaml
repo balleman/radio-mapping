@@ -1,0 +1,5 @@
+service: POTT10-MCKE01A
+type: link
+site: POTT10
+dest: MCKE01A
+callsign: WPYM341

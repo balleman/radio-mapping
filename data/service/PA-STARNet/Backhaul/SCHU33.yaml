@@ -1,0 +1,11 @@
+service: SCHU33-SCHU61
+type: link
+site: SCHU33
+dest: SCHU61
+callsign: WQSL470
+---
+service: SCHU33-SCHU62
+type: link
+site: SCHU33
+dest: SCHU62
+callsign: WQSL470

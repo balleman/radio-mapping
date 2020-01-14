@@ -1,0 +1,23 @@
+service: SCHU03-LEBA691
+type: link
+site: SCHU03
+dest: LEBA691
+callsign: WQSL474
+---
+service: SCHU03-DAUP61
+type: link
+site: SCHU03
+dest: DAUP61
+callsign: WQSL474
+---
+service: SCHU03-DAUP37
+type: link
+site: SCHU03
+dest: DAUP37
+callsign: WQSL474
+---
+service: SCHU03-DAUP37
+type: link
+site: SCHU03
+dest: DAUP37
+callsign: WRCC503

@@ -1,0 +1,10 @@
+service: P25-099-WAYN33
+site: WAYN33
+range: 20
+callsign: WQWM737
+p25:
+  nac: 94D
+  site: 99
+  rfss: 1
+adjacent:
+  - WAYN31

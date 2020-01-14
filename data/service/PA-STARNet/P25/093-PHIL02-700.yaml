@@ -1,0 +1,9 @@
+service: P25-093-PHIL02-700
+site: PHIL02
+range: 10
+callsign: WPTZ795
+color: orange 
+p25:
+  nac: 94E
+  site: 93
+  rfss: 1

@@ -1,5 +1,7 @@
 site: LUZE04
 name: Wyoming Mountain
+alias:
+  - Shickshinny
 loc:
         lat: 41.15870
         lon: -76.16910

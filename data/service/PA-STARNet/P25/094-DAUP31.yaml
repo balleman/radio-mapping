@@ -1,0 +1,14 @@
+service: P25-094-DAUPH31
+site: DAUP31
+range: 10
+color: red
+p25:
+  nac: 949
+  site: 94
+  rfss: 1
+adjacent:
+  - DAUP37
+  - DAUP73
+  - DAUP01
+  - LEBA74
+  - DAUP17

@@ -1,0 +1,7 @@
+service: P25-112-COLU02
+site: COLU02
+range: 20
+callsign: WRCB536
+p25:
+  site: 112
+  rfss: 1
