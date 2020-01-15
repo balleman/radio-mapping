@@ -1,0 +1,17 @@
+service: BUTL03-BUTL90
+type: link
+site: BUTL03
+dest: BUTL90
+callsign: WPTG651
+---
+service: BUTL03-BUTL01
+type: link
+site: BUTL03
+dest: BUTL01
+callsign: WPTG651
+---
+service: BUTL03-ARMS32
+type: link
+site: BUTL03
+dest: ARMS32
+callsign: WPTG651

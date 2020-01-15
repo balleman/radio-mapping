@@ -1,0 +1,5 @@
+service: ARMS30-CLAR05
+type: link
+site: ARMS30
+dest: CLAR05
+callsign: WPUX761

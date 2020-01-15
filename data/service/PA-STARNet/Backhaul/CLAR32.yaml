@@ -1,0 +1,17 @@
+service: CLAR32-CLAR31
+type: link
+site: CLAR32
+dest: CLAR31
+callsign: WQHG270
+---
+service: CLAR32-CLAR90
+type: link
+site: CLAR32
+dest: CLAR90
+callsign: WQHG270
+---
+service: CLAR32-VENA12
+type: link
+site: CLAR32
+dest: VENA12
+callsign: WQHG270

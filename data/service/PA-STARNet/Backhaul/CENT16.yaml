@@ -1,0 +1,23 @@
+service: CENT16-CLIN41
+type: link
+site: CENT16
+dest: CLIN41
+callsign: WPQP601
+---
+service: CENT16-CENT08
+type: link
+site: CENT16
+dest: CENT08
+callsign: WPQP601
+---
+service: CENT16-CLEA01
+type: link
+site: CENT16
+dest: CLEA01
+callsign: WPQP601
+---
+service: CENT16-HUNT40
+type: link
+site: CENT16
+dest: HUNT40
+callsign: WPQP601

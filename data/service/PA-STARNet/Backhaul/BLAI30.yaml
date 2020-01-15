@@ -1,0 +1,11 @@
+service: BLAI30-CENT04
+type: link
+site: BLAI30
+dest: CENT04
+callsign: WPRR400
+---
+service: BLAI30-CAMB01
+type: link
+site: BLAI30
+dest: CAMB01
+callsign: WPRR400

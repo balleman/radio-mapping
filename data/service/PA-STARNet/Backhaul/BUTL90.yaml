@@ -1,0 +1,23 @@
+service: BUTL90-ALLE28
+type: link
+site: BUTL90
+dest: ALLE28
+callsign: WPTD550
+---
+service: BUTL90-BUTL03
+type: link
+site: BUTL90
+dest: BUTL03
+callsign: WPTD550
+---
+service: BUTL90-BUTL36
+type: link
+site: BUTL90
+dest: BUTL36
+callsign: WPTD550
+---
+service: BUTL90-BEAV01
+type: link
+site: BUTL90
+dest: BEAV01
+callsign: WPTD550

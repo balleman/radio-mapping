@@ -1,0 +1,17 @@
+service: CENT04-CENT16
+type: link
+site: CENT04
+dest: CENT16
+callsign: WPRR409
+---
+service: CENT04-BLAI30
+type: link
+site: CENT04
+dest: BLAI30
+callsign: WPRR409
+---
+service: CENT04-CLEA05
+type: link
+site: CENT04
+dest: CLEA05
+callsign: WPRR409

@@ -1,0 +1,17 @@
+service: ARMS32-ARMS33
+type: link
+site: ARMS32
+dest: ARMS33
+callsign: WPUX754
+---
+service: ARMS32-BULT03
+type: link
+site: ARMS32
+dest: BUTL03
+callsign: WPUX754
+---
+service: ARMS32-INDI12
+type: link
+site: ARMS32
+dest: INDI12
+callsign: WPUX754

@@ -1,0 +1,6 @@
+site: INDI12
+name: INDI12
+loc:
+        lat: 40.627777
+        lon: -79.2252777
+type: tower

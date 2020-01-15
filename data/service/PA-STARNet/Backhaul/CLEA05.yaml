@@ -1,0 +1,11 @@
+service: CLEA05-INDI07
+type: link
+site: CLEA05
+dest: INDI07
+callsign: WPST214
+---
+service: CLEA05-CENT04
+type: link
+site: CLEA05
+dest: CENT04
+callsign: WPST214
