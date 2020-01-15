@@ -1,0 +1,17 @@
+service: CUMB-EOC-PERR02
+type: link
+site: CUMB-EOC
+dest: PERR02
+color: orange
+---
+service: CUMB-EOC-CUMB02
+type: link
+site: CUMB-EOC
+dest: CUMB02
+color: orange
+---
+service: CUMB-EOC-CUMB03
+type: link
+site: CUMB-EOC
+dest: CUMB03
+color: orange

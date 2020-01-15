@@ -97,6 +97,8 @@ def main():
                                 polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.red)
                             elif svc["color"] == "orange":
                                 polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.orange)
+                            elif svc["color"] == "pink":
+                                polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.deeppink)
                         if "adjacent" in svc:
                             fld_adj = fld_this.newfolder(name="Adjacent Sites")
                             for adj in svc['adjacent']:
@@ -118,8 +120,11 @@ def main():
                             line.style.linestyle.width = 3
                         elif svc["class"] == "minor":
                             line.style.linestyle.width = 1
-                        line.style.linestyle.color = simplekml.Color.yellow
-                    
+                        if "color" not in svc:
+                            line.style.linestyle.color = simplekml.Color.yellow
+                        elif svc["color"] == "orange":
+                            line.style.linestyle.color = simplekml.Color.orange
+                                            
         
     kml.save(target + "/radio-mapping.kml")
 
