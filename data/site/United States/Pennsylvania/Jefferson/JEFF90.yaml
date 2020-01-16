@@ -1,7 +1,6 @@
 site: JEFF90
-name: JEFF90
+name: Sigel
 loc:
         lat:  41.277138
-        lon: -78.111833
+        lon: -79.111833
 type: tower
-# this must be wrong coords

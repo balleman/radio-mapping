@@ -1,5 +1,7 @@
 site: JEFF02
 name: Hays Lookout
+alias:
+  - Lake City
 loc:
         lat:  41.31728 
         lon: -78.99476 
