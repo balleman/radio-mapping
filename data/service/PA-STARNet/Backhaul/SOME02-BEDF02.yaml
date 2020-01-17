@@ -2,3 +2,4 @@ service: SOME02-BEDF02
 type: link
 site: SOME02
 dest: BEDF02
+color: black

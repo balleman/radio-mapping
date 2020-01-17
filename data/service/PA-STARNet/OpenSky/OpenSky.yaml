@@ -214,6 +214,18 @@ callsign: WPGX763
 color: pink
 range: 15
 ---
+service: OpenSky-DAUP37
+site: DAUP37
+callsign: WQMM327
+color: pink
+range: 15
+---
+service: OpenSky-DAUP61
+site: DAUP61
+callsign: WQCC381
+color: pink
+range: 15
+---
 service: OpenSky-FAYE01
 site: FAYE01
 callsign: WPWS625

@@ -3,18 +3,23 @@ type: link
 site: HUNT04
 dest: FULT01
 callsign: WPRR405
+color: black
+highlight: yellow
 ---
 service: HUNT04-BLAI02
 type: link
 site: HUNT04
 dest: BLAI02
 callsign: WPRR405
+color: black
 ---
 service: HUNT04-HUNT01
 type: link
 site: HUNT04
 dest: HUNT01
 callsign: WPRR405
+color: black
+highlight: yellow
 ---
 service: HUNT04-PERR01
 type: link

@@ -5,6 +5,32 @@ import os
 import simplekml
 from polycircles import polycircles
 
+def get_color_def(color, default):
+    if not color:
+        return get_color(default)
+    else:
+        return get_color(color)
+
+def get_color(color):
+    if color == "green":
+        return simplekml.Color.green
+    elif color == "blue":
+        return simplekml.Color.blue
+    elif color == "red":
+        return  simplekml.Color.red
+    elif color == "dkred":
+        return simplekml.Color.darkred
+    elif color == "orange":
+        return simplekml.Color.orange
+    elif color == "pink":
+        return simplekml.Color.deeppink
+    elif color == "yellow":
+        return simplekml.Color.yellow
+    elif color == "black":
+        return simplekml.Color.black
+    else:
+        return simplekml.Color.beige
+
 def main():
     target = "../target"
     if (not os.path.isdir(target)):
@@ -90,15 +116,9 @@ def main():
                             polygon = fld_this.newpolygon(name=svc['service'] + " Range",
                                                           outerboundaryis=polycircle.to_kml())
                             if "color" not in svc:
-                                polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.green)
-                            elif svc["color"] == "blue":
-                                polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.blue)
-                            elif svc["color"] == "red":
-                                polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.red)
-                            elif svc["color"] == "orange":
-                                polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.orange)
-                            elif svc["color"] == "pink":
-                                polygon.style.polystyle.color = simplekml.Color.changealphaint(100, simplekml.Color.deeppink)
+                                polygon.style.polystyle.color = simplekml.Color.changealphaint(100, get_color("green"))
+                            else:
+                                polygon.style.polystyle.color = simplekml.Color.changealphaint(100,get_color_def(svc["color"], "green"))
                         if "adjacent" in svc:
                             fld_adj = fld_this.newfolder(name="Adjacent Sites")
                             for adj in svc['adjacent']:
@@ -121,9 +141,16 @@ def main():
                         elif svc["class"] == "minor":
                             line.style.linestyle.width = 1
                         if "color" not in svc:
-                            line.style.linestyle.color = simplekml.Color.yellow
-                        elif svc["color"] == "orange":
-                            line.style.linestyle.color = simplekml.Color.orange
+                            line.style.linestyle.color = get_color("yellow")
+                        else:
+                            line.style.linestyle.color = get_color(svc["color"])
+                        if "highlight" in svc:
+                            line1 = fld.newlinestring(name=svc['service']+"_hl")
+                            line1.coords = [(site0['loc']['lon'], site0['loc']['lat']), (site1['loc']['lon'], site1['loc']['lat'])]
+                            line1.extrude = 1
+                            line1.style.linestyle.width = 6
+                            line1.style.linestyle.color = simplekml.Color.changealphaint(150, get_color(svc['highlight']))
+                            line.style.linestyle.width = 2
                                             
         
     kml.save(target + "/radio-mapping.kml")

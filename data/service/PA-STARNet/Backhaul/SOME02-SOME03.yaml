@@ -2,3 +2,5 @@ service: SOME02-SOME03
 type: link
 site: SOME02
 dest: SOME03
+color: green
+highlight: yellow

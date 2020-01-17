@@ -2,3 +2,4 @@ service: CUMB04-ADAM40
 type: link
 site: CUMB04
 dest: ADAM40
+color: black

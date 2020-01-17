@@ -1,0 +1,13 @@
+service: SOME06-SOME07
+type: link
+site: SOME06
+dest: SOME07
+color: black
+highlight: green
+---
+service: SOME06-FAYE10
+type: link
+site: SOME06
+dest: FAYE10
+color: black
+highlight: green

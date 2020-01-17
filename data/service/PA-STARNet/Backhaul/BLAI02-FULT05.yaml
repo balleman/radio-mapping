@@ -2,3 +2,4 @@ service: BLAI02-FULT05
 type: link
 site: BLAI02
 dest: FULT05
+color: dkred

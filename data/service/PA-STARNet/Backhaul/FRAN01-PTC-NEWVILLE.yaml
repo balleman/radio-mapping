@@ -2,3 +2,5 @@ service: FRAN01-PTC-NEWVILLE
 type: link
 site: FRAN01
 dest: PTC-NEWVILLE
+color: green
+highlight: yellow

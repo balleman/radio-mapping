@@ -2,3 +2,4 @@ service: FULT40-FULT04
 type: link
 site: FULT40
 dest: FULT04
+color: black

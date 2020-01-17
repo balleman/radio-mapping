@@ -1,0 +1,5 @@
+service: FAYE01-FAYE09
+type: link
+site: FAYE01
+dest: FAYE09
+color: black

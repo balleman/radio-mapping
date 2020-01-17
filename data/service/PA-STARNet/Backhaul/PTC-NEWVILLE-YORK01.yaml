@@ -1,0 +1,6 @@
+service: PTC-NEWVILLE-YORK01
+type: link
+site: PTC-NEWVILLE
+dest: YORK01
+color: green
+highlight: yellow
