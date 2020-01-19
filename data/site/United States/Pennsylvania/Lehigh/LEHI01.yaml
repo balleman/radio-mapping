@@ -1,5 +1,7 @@
 site: LEHI01
 name: Emmaus
+aliases:
+  - PTC-SOUTHMTN
 loc:
         lat: 40.51953
         lon: -75.48883

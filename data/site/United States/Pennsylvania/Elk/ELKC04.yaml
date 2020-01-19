@@ -1,6 +1,6 @@
-site: ELKC04
-name: ELKC04
+site: ELKC03
+name: ELKC03
 loc:
-        lat: 41.27533 
-        lon: -78.41447 
+        lat:  41.574777
+        lon:  -78.466972
 type: tower

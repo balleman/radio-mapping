@@ -26,3 +26,9 @@ site: GREE32
 dest: GREE08
 color: black
 highlight: red
+---
+service: GREE32-GREE602
+type: link
+site: GREE32
+dest: GREE602
+color: red

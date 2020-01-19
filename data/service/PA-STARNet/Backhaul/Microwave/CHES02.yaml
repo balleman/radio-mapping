@@ -1,0 +1,51 @@
+service: PTC-VALLEYFORGE-MORGANTOWN
+type: link
+site: PTC-VALLEYFORGE
+dest: PTC-MORGANTOWN
+callsign: KGC59
+color: green
+highlight: yellow
+---
+service: PTC-VALLEYFORGE-SOUTHMTN
+type: link
+site: PTC-VALLEYFORGE
+dest: PTC-SOUTHMTN
+callsign: KGC59
+color: green
+highlight: yellow
+---
+service: PTC-VALLEYFORGE-WILLOWGROVE
+type: link
+site: PTC-VALLEYFORGE
+dest: PTC-WILLOWGROVE
+callsign: KGC59
+color: red
+highlight: yellow
+---
+service: PTC-VALLEYFORGE-PLYMOUTHMTG
+type: link
+site: PTC-VALLEYFORGE
+dest: PTC-PLYMOUTHMTG
+callsign: KGC59
+color: green
+---
+service: PTC-VALLEYFORGE-VALFORGEIN
+type: link
+site: PTC-VALLEYFORGE
+dest: PTC-VALFORGEIN
+callsign: KGC59
+color: green
+---
+service: CHES02-MONY50
+type: link
+site: CHES02
+dest: MONY50
+callsign: WPQQ918
+color: black
+---
+service: CHES02-CHES33
+type: link
+site: CHES02
+dest: CHES33
+callsign: WPQQ918
+color: black

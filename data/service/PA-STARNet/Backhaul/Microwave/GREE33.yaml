@@ -1,0 +1,11 @@
+service: GREE33-GREE60
+type: link
+site: GREE33
+dest: GREE60
+color: red
+---
+service: GREE33-GREE608
+type: link
+site: GREE33
+dest: GREE608
+color: red

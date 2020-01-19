@@ -1,0 +1,6 @@
+site: PTC-VALFORGEIN
+name: Valley Forge Interchange
+loc:
+        lat:  40.08802777777778
+        lon: -75.40486111111112
+type: tower

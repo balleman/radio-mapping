@@ -1,5 +1,7 @@
 site: MONY02
 name: Willow Grove
+aliases:
+  - PTC-WILLOWGROVE
 loc:
         lat:  40.142333
         lon: -75.10628

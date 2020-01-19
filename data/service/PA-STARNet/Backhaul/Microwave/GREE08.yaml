@@ -1,0 +1,23 @@
+service: GREE08-GREE695
+type: link
+site: GREE08
+dest: GREE695
+color: red
+---
+service: GREE08-GREE61
+type: link
+site: GREE08
+dest: GREE61
+color: blue
+---
+service: GREE08-GREE658
+type: link
+site: GREE08
+dest: GREE658
+color: red
+---
+service: GREE08-GREE697
+type: link
+site: GREE08
+dest: GREE697
+color: red

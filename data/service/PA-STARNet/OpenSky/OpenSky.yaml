@@ -22,6 +22,12 @@ callsign: WQBK903
 color: pink
 range: 15
 ---
+service: OpenSky-ARMS696
+site: ARMS696
+callsign: WQTE811
+color: pink
+range: 15
+---
 service: OpenSky-BEAV01
 site: BEAV01
 callsign: WPZS854
@@ -232,6 +238,12 @@ callsign: WQCC381
 color: pink
 range: 15
 ---
+service: OpenSky-ELKC694
+site: ELKC694
+callsign: WQTE811
+color: pink
+range: 15
+---
 service: OpenSky-ERIE13
 site: ERIE13
 callsign: WPWE316
@@ -319,6 +331,24 @@ range: 15
 service: OpenSky-GREE08
 site: GREE08
 callsign: WPWS624
+color: pink
+range: 15
+---
+service: OpenSky-GREE607
+site: GREE607
+callsign: WQTE811
+color: pink
+range: 15
+---
+service: OpenSky-GREE657
+site: GREE657
+callsign: WQTE811
+color: pink
+range: 15
+---
+service: OpenSky-GREE658
+site: GREE658
+callsign: WQTE811
 color: pink
 range: 15
 ---

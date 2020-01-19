@@ -1,0 +1,18 @@
+service: CHES02-CHES32
+type: link
+site: CHES02
+dest: CHES32
+color: gray
+class: minor
+---
+service: DAUP17-CHES02
+type: link
+site: DAUP17
+dest: CHES02
+color: gray
+---
+service: DAUP17-WEST03
+type: link
+site: DAUP17
+dest: WEST03
+color: gray

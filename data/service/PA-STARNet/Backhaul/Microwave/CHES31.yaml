@@ -1,0 +1,7 @@
+service: CHES31-CHES33
+type: link
+site: CHES31
+dest: CHES33
+callsign: WPUD401
+color: black
+

@@ -3,15 +3,18 @@ type: link
 site: INDI01
 dest: CAMB01
 callsign: WPST212
+color: black
 ---
 service: INDI01-INDI12
 type: link
 site: INDI01
 dest: INDI12
 callsign: WPST212
+color: black
 ---
 service: INDI01-INDI31
 type: link
 site: INDI01
 dest: INDI31
 callsign: WPST212
+color: black

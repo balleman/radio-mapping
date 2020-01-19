@@ -1,6 +1,9 @@
 site: CHES02
 name: Devault
+aliases:
+  - PTC-VALLEYFORGE
 loc:
-        lat:  40.0706207
-        lon: -75.571197
+        lat:  40.07036111111111
+        lon: -75.57102777777777
 type: tower
+asrn: 1200410

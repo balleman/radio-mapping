@@ -1,0 +1,7 @@
+service: CHES01-BERK02
+type: link
+site: CHES01
+dest: BERK02
+callsign: WPQR729
+color: black
+
