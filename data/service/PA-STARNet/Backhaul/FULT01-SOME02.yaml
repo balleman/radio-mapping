@@ -1,6 +1,0 @@
-service: FULT01-SOME02
-type: link
-site: FULT01
-dest: SOME02
-color: green
-highlight: yellow

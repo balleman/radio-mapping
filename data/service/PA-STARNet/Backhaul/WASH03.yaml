@@ -1,0 +1,13 @@
+service: WASH03-GREE30
+type: link
+site: WASH03
+dest: GREE30
+callsign: WQEZ450
+color: black
+---
+service: WASH03-WASH39
+type: link
+site: WASH03
+dest: WASH39
+callsign: WQEZ450
+color: black

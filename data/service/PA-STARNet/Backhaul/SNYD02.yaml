@@ -3,27 +3,34 @@ type: link
 site: SNYD02
 dest: DAUP01
 callsign: WPQR245
+color: black
+highlight: yellow
 ---
 service: SNYD02-UNIO01
 type: link
 site: SNYD02
 dest: UNIO01
 callsign: WPQR245
+color: black
 ---
 service: SNYD02-SNYD03
 type: link
 site: SNYD02
 dest: SNYD03
 callsign: WPQR245
+color: black
 ---
 service: SNYD02-CLIN41
 type: link
 site: SNYD02
 dest: CLIN41
 callsign: WPQR245
+color: black
+highlight: yellow
 ---
 service: SNYD02-JUNI05
 type: link
 site: SNYD02
 dest: JUNI05
 callsign: WPQR245
+color: black

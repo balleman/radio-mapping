@@ -1,0 +1,15 @@
+service: PTC-GUNCLUB-HAMPTON
+type: link
+site: PTC-GUNCLUB
+dest: ALLE25
+callsign: WPQW963
+color: green
+highlight: yellow
+---
+service: PTC-GUNCLUB-NEWCOMER
+type: link
+site: PTC-GUNCLUB
+dest: FAYE25
+callsign: WPQW963
+color: green
+highlight: yellow

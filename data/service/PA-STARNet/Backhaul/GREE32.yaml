@@ -1,0 +1,28 @@
+service: GREE32-GREE30
+type: link
+site: GREE32
+dest: GREE30
+callsign: WPYM740
+color: black
+---
+service: GREE32-FAYE01
+type: link
+site: GREE32
+dest: FAYE01
+callsign: WPYM740
+color: black
+---
+service: GREE32-GREE33
+type: link
+site: GREE32
+dest: GREE33
+callsign: WPYM740
+color: black
+highlight: red
+---
+service: GREE32-GREE08
+type: link
+site: GREE32
+dest: GREE08
+color: black
+highlight: red

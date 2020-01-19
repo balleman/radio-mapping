@@ -1,0 +1,6 @@
+site: PTC-GETTYSBURG
+name: Gettysburg Interchange
+loc:
+        lat: 40.1968888
+        lon: -76.975722
+type: tower

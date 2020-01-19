@@ -1,0 +1,13 @@
+service: FAYE09-FAYE01
+type: link
+site: FAYE09
+dest: FAYE01
+color: black
+callsign: WPTD233
+---
+service: FAYE09-FAYE60
+type: link
+site: FAYE09
+dest: FAYE60
+color: black
+callsign: WPTD233

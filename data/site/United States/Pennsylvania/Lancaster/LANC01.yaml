@@ -1,6 +1,9 @@
 site: LANC01
 name: Cornwall
+aliases:
+  - PTC-CORNWALL
 loc:
-        lat: 40.240916
-        lon: -76.370222
+        lat: 40.2411944
+        lon: -76.371361
 type: tower
+asrn: 1200408

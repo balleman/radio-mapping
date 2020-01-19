@@ -1,0 +1,20 @@
+service: GREE30-GREE32
+type: link
+site: GREE30
+dest: GREE32
+callsign: WPYX843
+color: black
+---
+service: GREE30-WASH03
+type: link
+site: GREE30
+dest: WASH03
+callsign: WPYX843
+color: black
+---
+service: GREE30-WASH49
+type: link
+site: GREE30
+dest: WASH49
+callsign: WPYX843
+color: black

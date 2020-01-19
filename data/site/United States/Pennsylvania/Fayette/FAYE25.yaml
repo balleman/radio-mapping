@@ -1,0 +1,8 @@
+site: FAYE25
+name: FAYE25
+alias:
+  - PTC-NEWCOMER
+loc:
+        lat:  39.88425
+        lon:  -79.783944
+type: tower

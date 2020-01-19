@@ -1,5 +1,7 @@
 site: SOME04
 name: Stony Creek Township
+alias: 
+  - PTC-ALLEGHENY
 loc:
         lat:  39.959720
         lon: -78.852500

@@ -1,0 +1,13 @@
+service: WASH39-BEAV02
+type: link
+site: WASH39
+dest: BEAV02
+callsign: WPUX759
+color: black
+---
+service: WASH39-WASH03
+type: link
+site: WASH39
+dest: WASH03
+callsign: WPUX759
+color: black

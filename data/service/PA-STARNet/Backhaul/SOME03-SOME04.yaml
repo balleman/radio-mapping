@@ -1,5 +1,0 @@
-service: SOME03-SOME04
-type: link
-site: SOME03
-dest: SOME04
-color: green

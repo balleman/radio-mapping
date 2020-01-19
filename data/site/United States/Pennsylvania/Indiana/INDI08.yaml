@@ -1,0 +1,6 @@
+site: INDI08
+name: Blairsville
+loc:
+        lat:  40.44853 
+        lon: -79.15725 
+type: tower

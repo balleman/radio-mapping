@@ -1,5 +1,7 @@
 site: SOME02
 name: Reeds Corner
+alias:
+  - PTC-BALDKNOB
 loc:
         lat:  40.039240
         lon: -78.782520

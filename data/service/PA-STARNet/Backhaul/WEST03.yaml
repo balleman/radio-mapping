@@ -3,15 +3,55 @@ type: link
 site: WEST03
 dest: WEST30
 callsign: WPTA847
+color: black
+highlight: yellow
 ---
 service: WEST03-ALLE28
 type: link
 site: WEST03
 dest: ALLE28
 callsign: WPTA847
+color: black
+highlight: yellow
 ---
 service: WEST03-ALLE21
 type: link
 site: WEST03
 dest: ALLE21
 callsign: WPTA847
+color: black
+---
+# PTC BEACON to LAUREL
+service: WEST03-SOME03
+type: link
+site: WEST03
+dest: SOME03
+color: green
+highlight: yellow
+callsign: KGC70
+---
+# PTC BEACON to HAMPTON
+service: WEST03-ALLE25
+type: link
+site: WEST03
+dest: ALLE25
+color: green
+highlight: yellow
+callsign: KGC70
+---
+# PTC BEACON to HARRISON CIT
+service: WEST03-PTC-HARRISON
+type: link
+site: WEST03
+dest: PTC-HARRISON
+color: green
+callsign: KGC70
+---
+# PTC BEACON to SALEM CHURCH
+service: WEST03-PTC-SALEMCHURCH
+type: link
+site: WEST03
+dest: PTC-SALEMCHURCH
+color: green
+highlight: yellow
+callsign: KGC70

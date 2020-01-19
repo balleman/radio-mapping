@@ -1,0 +1,49 @@
+service: PTC-BUNCHES-NEWVILLE
+type: link
+site: PTC-BUNCHES
+dest: PTC-NEWVILLE
+callsign: KGC63
+color: green
+highlight: yellow
+---
+service: PTC-BUNCHES-CORNWALL
+type: link
+site: PTC-BUNCHES
+dest: PTC-CORNWALL
+callsign: KGC63
+color: green
+highlight: yellow
+---
+service: YORK01-YORK16
+type: link
+site: YORK01
+dest: YORK16
+color: black
+---
+service: PTC-BUNCHES-WESTSHORE
+type: link
+site: PTC-BUNCHES
+dest: PTC-WESTSHORE
+color: green
+callsign: KGC63
+---
+service: PTC-BUNCHES-HIGHSPIRE
+type: link
+site: PTC-BUNCHES
+dest: PTC-HIGHSPIRE
+color: green
+callsign: KGC63
+---
+service: PTC-BUNCHES-TIP
+type: link
+site: PTC-BUNCHES
+dest: PTC-TIP
+color: green
+callsign: KGC63
+---
+service: PTC-BUNCHES-GETTYSBURG
+type: link
+site: PTC-BUNCHES
+dest: PTC-GETTYSBURG
+color: green
+callsign: KGC63

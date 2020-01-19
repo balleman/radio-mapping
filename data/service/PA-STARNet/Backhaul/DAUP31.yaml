@@ -3,12 +3,16 @@ type: link
 site: DAUP31
 dest: DAUP01
 callsign: WPQR249
+color: black
+highlight: yellow
 ---
 service: DAUP31-DAUP17
 type: link
 site: DAUP31
 dest: DAUP17
 callsign: WPQR249
+color: black
+highlight: yellow
 ---
 service: DAUP31-DAUP81
 type: link

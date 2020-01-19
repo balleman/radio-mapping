@@ -1,5 +1,0 @@
-service: FULT01-FULT40
-type: link
-site: FULT01
-dest: FULT40
-color: black

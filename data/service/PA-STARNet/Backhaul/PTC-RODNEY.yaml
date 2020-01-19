@@ -1,0 +1,30 @@
+# PTC RODNEY to LAUREL
+service: PTC-RODNEY-SOME03
+type: link
+site: PTC-RODNEY
+dest: SOME03
+callsign: WPQW597
+color: green
+---
+service: PTC-RODNEY-DONEGAL
+type: link
+site: PTC-RODNEY
+dest: PTC-DONEGAL
+callsign: WPQW597
+color: green
+---
+service: PTC-RODNEY-TYSONS
+type: link
+site: PTC-RODNEY
+dest: PTC-TYSONS
+callsign: WPQW597
+color: green
+highlight: yellow
+---
+service: PTC-RODNEY-AKH
+type: link
+site: PTC-RODNEY
+dest: PTC-AKH
+callsign: WPQW597
+color: green
+

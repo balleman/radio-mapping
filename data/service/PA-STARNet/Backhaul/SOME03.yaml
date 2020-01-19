@@ -1,0 +1,42 @@
+# PTC LAUREL to BALD KNOB
+service: SOMEO3-SOME02
+type: link
+site: SOME03
+dest: SOME02
+color: green
+highlight: yellow
+callsign: KGC69
+---
+# PTC LAUREL to BEACON
+service: SOMEO3-WEST03
+type: link
+site: SOME03
+dest: WEST03
+color: green
+highlight: yellow
+callsign: KGC69
+---
+# PTC LAUREL to ALLEGHENY
+service: SOME03-SOME04
+type: link
+site: SOME03
+dest: SOME04
+color: green
+callsign: KGC69
+---
+# PTC LAUREL to SOMERSET
+service: SOME03-PTC-SOMERSET
+type: link
+site: SOME03
+dest: PTC-SOMERSET
+color: green
+callsign: KGC69
+---
+# PTC LAUREL to RODNEY
+service: SOME03-PTC-RODNEY
+type: link
+site: SOME03
+dest: PTC-RODNEY
+color: green
+highlight: yellow
+callsign: KGC69

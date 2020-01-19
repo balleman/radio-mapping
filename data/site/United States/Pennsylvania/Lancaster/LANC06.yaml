@@ -1,0 +1,8 @@
+site: LANC06
+name: Bowmansville
+aliases:
+  - PTC-BOWMANSVILLE
+loc:
+        lat: 40.2106388
+        lon: -76.041888
+type: tower

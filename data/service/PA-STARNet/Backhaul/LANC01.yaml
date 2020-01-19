@@ -1,0 +1,29 @@
+service: PTC-CORNWALL-BUNCHES
+type: link
+site: PTC-CORNWALL
+dest: PTC-BUNCHES
+callsign: KGC62
+color: green
+highlight: yellow
+---
+service: PTC-CORNWALL-MORGANTOWN
+type: link
+site: PTC-CORNWALL
+dest: PTC-MORGANTOWN
+callsign: KGC62
+color: green
+highlight: yellow
+---
+service: PTC-CORNWALL-BOWMANSVILLE
+type: link
+site: PTC-CORNWALL
+dest: PTC-BOWMANSVILLE
+callsign: KGC62
+color: green
+---
+service: PTC-CORNWALL-MOUNTGRETNA
+type: link
+site: PTC-CORNWALL
+dest: PTC-MOUNTGRETNA
+callsign: KGC62
+color: green

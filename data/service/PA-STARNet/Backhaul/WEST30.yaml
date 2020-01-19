@@ -3,3 +3,5 @@ type: link
 site: WEST30
 dest: CAMB02
 callsign: WPTX983
+color: black
+highlight: yellow

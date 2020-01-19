@@ -1,0 +1,6 @@
+service: WASH49-GREE30
+type: link
+site: WASH49
+dest: GREE30
+callsign: WQFG687
+color: black

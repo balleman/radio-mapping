@@ -1,5 +1,7 @@
 site: CHES01
 name: Morgantown
+aliases:
+  - PTC-MORGANTOWN
 loc:
         lat:  40.13369
         lon: -75.86658

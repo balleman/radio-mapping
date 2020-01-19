@@ -1,6 +1,9 @@
 site: WEST03
 name: Beacon
+alias:
+  - PTC-BEACON
 loc:
         lat: 40.384222
         lon: -79.692805
 type: tower
+asrn: 1200401

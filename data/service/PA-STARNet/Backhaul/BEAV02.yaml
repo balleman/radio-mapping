@@ -9,6 +9,7 @@ type: link
 site: BEAV02
 dest: WASH39
 callsign: WPTD552
+color: black
 ---
 service: BEAV02-ALLE601
 type: link

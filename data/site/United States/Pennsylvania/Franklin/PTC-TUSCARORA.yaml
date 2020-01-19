@@ -1,0 +1,6 @@
+site: PTC-TUSCARORA
+name: Tuscarora Tunnel
+loc:
+        lat:  40.08925
+        lon: -77.844722
+type: tower

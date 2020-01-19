@@ -3,15 +3,18 @@ type: link
 site: JUNI05
 dest: SNYD02
 callsign: WPTC480
+color: black
 ---
 service: JUNI05-PERR01
 type: link
 site: JUNI05
 dest: PERR01
 callsign: WPTC480
+color: black
 ---
 service: JUNI05-MIFF35
 type: link
 site: JUNI05
 dest: MIFF35
 callsign: WPTC480
+color: red
