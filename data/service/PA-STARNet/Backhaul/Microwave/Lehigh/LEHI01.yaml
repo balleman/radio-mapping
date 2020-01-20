@@ -1,0 +1,22 @@
+service: PTC-SOUTHMTN-PALMERTON
+type: link
+site: PTC-SOUTHMTN
+dest: PTC-PALMERTON
+callsign: KGI76
+color: green
+highlight: yellow
+---
+service: PTC-SOUTHMTN-VALLEYFORGE
+type: link
+site: PTC-SOUTHMTN
+dest: PTC-VALLEYFORGE
+callsign: KGI76
+color: green
+highlight: yellow
+---
+service: LEHI01-LEHI05
+type: link
+site: LEHI01
+dest: LEHI05
+color: black
+callsign: WPQR277

@@ -1,0 +1,20 @@
+service: PTC-AMTOWER-PALMERTON
+type: link
+site: PTC-AMTOWER
+dest: PTC-PALMERTON
+callsign: WPQW648
+color: green
+---
+service: PTC-AMTOWER-SLATINGTON
+type: link
+site: PTC-AMTOWER
+dest: PTC-SLATINGTON
+callsign: WPQW648
+color: green
+---
+service: PTC-AMTOWER-LEHIGHTUNL
+type: link
+site: PTC-AMTOWER
+dest: PTC-LEHIGHTUNL
+callsign: WPQW648
+color: green

@@ -1,0 +1,8 @@
+site: LUZE01
+name: LUZE01
+aliases:
+  - PTC-WYOMING
+loc:
+        lat: 41.19591666666666
+        lon: -75.82602777777777
+type: tower

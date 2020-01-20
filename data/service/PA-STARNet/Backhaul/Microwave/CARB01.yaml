@@ -1,0 +1,38 @@
+service: PTC-BIGBOULDER-PALMERTON
+type: link
+site: PTC-BIGBOULDER
+dest: PTC-PALMERTON
+callsign: KGI87
+color: green
+highlight: yellow
+---
+service: PTC-BIGBOULDER-POCONO
+type: link
+site: PTC-BIGBOULDER
+dest: PTC-POCONO
+callsign: KGI87
+color: green
+---
+service: PTC-BIGBOULDER-WYOMING
+type: link
+site: PTC-BIGBOULDER
+dest: PTC-WYOMING
+callsign: KGI87
+color: green
+highlight: yellow
+---
+service: CARB01-MONR03
+type: link
+site: CARB01
+dest: MONR03
+callsign: WPSS662
+color: black
+highlight: yellow
+---
+service: CARB01-LUZE01
+type: link
+site: CARB01
+dest: LUZE01
+callsign: WPSS662
+color: green
+highlight: yellow

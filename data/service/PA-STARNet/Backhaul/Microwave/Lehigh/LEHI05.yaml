@@ -1,0 +1,20 @@
+service: LEHI05
+type: link
+site: LEHI05
+dest: LEHI01
+callsign: WPQR278
+color: black
+---
+service: LEHI05
+type: link
+site: LEHI05
+dest: BUCK40
+callsign: WPQR278
+color: black
+---
+service: LEHI05
+type: link
+site: LEHI05
+dest: BERK10
+callsign: WPQR278
+color: black

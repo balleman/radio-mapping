@@ -1,0 +1,22 @@
+service: PTC-PALMERTON-SOUTHMTN
+type: link
+site: PTC-PALMERTON
+dest: PTC-SOUTHMTN
+callsign: KGI86
+color: green
+highlight: yellow
+---
+service: PTC-PALMERTON-BIGBOULDER
+type: link
+site: PTC-PALMERTON
+dest: PTC-BIGBOULDER
+callsign: KGI76
+color: green
+highlight: yellow
+---
+service: LEHI06-CARB03
+type: link
+site: LEHI06
+dest: CARB03
+color: black
+callsign: WPSS384

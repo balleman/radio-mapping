@@ -1,6 +1,9 @@
 site: CARB01
 name: CARB01
+aliases: 
+ - PTC-BIGBOULDER
 loc:
         lat:  41.04258
         lon: -75.60350 
 type: tower
+asrn: 1200416

@@ -16,3 +16,9 @@ type: link
 site: DAUP17
 dest: WEST03
 color: gray
+---
+service: DAUP17-LUZE01
+type: link
+site: DAUP17
+dest: LUZE01
+color: gray

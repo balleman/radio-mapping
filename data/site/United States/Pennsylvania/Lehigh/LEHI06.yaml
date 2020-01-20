@@ -1,6 +1,9 @@
 site: LEHI06
 name: Bowmanstown
+aliases:
+  - PTC-PALMERTON
 loc:
         lat: 40.76953
         lon: -75.69464
 type: tower
+asrn: 1200419
