@@ -1,5 +1,8 @@
 site: VENA92
 name: VENA92
+aliases:
+  - VENA77
+  - ROC-1
 loc:
         lat: 41.596749
         lon: -79.596555

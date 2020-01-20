@@ -1,5 +1,8 @@
 site: LYCO21A
 name: LYCO21A
+aliases:
+  - LYCO77
+  - ROC-3
 loc:
         lat: 41.454361
         lon: -77.577944

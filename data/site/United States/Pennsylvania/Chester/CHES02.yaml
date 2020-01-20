@@ -2,6 +2,8 @@ site: CHES02
 name: Devault
 aliases:
   - PTC-VALLEYFORGE
+  - CHES77
+  - ROC-6
 loc:
         lat:  40.07036111111111
         lon: -75.57102777777777

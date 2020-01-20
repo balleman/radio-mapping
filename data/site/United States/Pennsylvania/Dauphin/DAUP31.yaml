@@ -1,5 +1,7 @@
 site: DAUP31
 name: Grantville
+aliases:
+  - NOC-1
 loc:
         lat: 40.40472
         lon: -76.68305

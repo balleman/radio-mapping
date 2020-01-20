@@ -1,5 +1,8 @@
 site: ELKC09
 name: ELKC09
+aliases: 
+  - ELKC56
+  - NOC-2
 loc:
         lat: 41.482222 
         lon: -78.687083 

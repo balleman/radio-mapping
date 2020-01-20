@@ -1,5 +1,8 @@
 site: HUNT01
 name: Loop Lookout
+aliases:
+  - HUNT77
+  - ROC-4
 loc:
         lat:  40.49683 
         lon: -78.13139 

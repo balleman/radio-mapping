@@ -1,0 +1,27 @@
+service: ROC-1
+type: roc
+site: VENA77
+---
+service: ROC-2
+type: roc
+site: WEST77
+---
+service: ROC-3
+type: roc
+site: LYCO77
+---
+service: ROC-4
+type: roc
+site: HUNT77
+---
+service: ROC-5
+type: roc
+site: LUZE77
+---
+service: ROC-6
+type: roc
+site: CHES77
+---
+service: ROC-7
+type: roc
+site: DAUP78

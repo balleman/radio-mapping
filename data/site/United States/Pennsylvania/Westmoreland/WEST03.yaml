@@ -1,7 +1,9 @@
 site: WEST03
 name: Beacon
-alias:
+aliases:
   - PTC-BEACON
+  - ROC-2
+  - WEST77
 loc:
         lat: 40.384222
         lon: -79.692805

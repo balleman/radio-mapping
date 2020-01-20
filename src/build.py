@@ -59,14 +59,15 @@ def main():
             if (filename.endswith(".yaml")):
                 stream = open(filename, 'r')
                 site = yaml.safe_load(stream)
-                sites[site['site']] = site
-                if "aliases" in site:
-                    for alias in site['aliases']:
-                        sites[alias] = site
                 fld = folders[dirpath]
                 point = fld.newpoint(name=site['site'])
                 point.description = site['name']
                 point.coords = [(site['loc']['lon'], site['loc']['lat'])]
+                sites[site['site']] = site
+                if "aliases" in site:
+                    for alias in site['aliases']:
+                        sites[alias] = site
+                        point.description += "Alias: " + alias
                 if not 'type' in site:
                     point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png"
                 elif site['type'] == 'tower':
@@ -75,6 +76,7 @@ def main():
                     point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"
                 else:
                     point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png"
+                
     
     fld_svc = kml.newfolder(name="Services")
     service_path = "../data/service"
@@ -153,8 +155,23 @@ def main():
                             line1.style.linestyle.width = 6
                             line1.style.linestyle.color = simplekml.Color.changealphaint(150, get_color(svc['highlight']))
                             line.style.linestyle.width = 2
-                                            
-        
+                    elif svc['type'] == "noc":
+                        fld_this = fld.newfolder(name=svc['service'])
+                        point = fld_this.newpoint(name=svc['service'])
+                        point.description = svc['service']
+                        site = sites[svc['site']]
+                        point.coords = [(site['loc']['lon'], site['loc']['lat'])]
+                        point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/shapes/square.png"
+                        point.style.iconstyle.scale = 3      
+                    elif svc['type'] == "roc":
+                        fld_this = fld.newfolder(name=svc['service'])
+                        point = fld_this.newpoint(name=svc['service'])
+                        point.description = svc['service']
+                        site = sites[svc['site']]
+                        point.coords = [(site['loc']['lon'], site['loc']['lat'])]
+                        point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/shapes/square.png"
+                        point.style.iconstyle.scale = 2              
+                        
     kml.save(target + "/radio-mapping.kml")
 
 if __name__ == '__main__':

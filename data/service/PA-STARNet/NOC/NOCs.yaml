@@ -1,0 +1,7 @@
+service: NOC-Primary
+type: noc
+site: DAUP31
+---
+service: NOC-Secondary
+type: noc
+site: ELKC56

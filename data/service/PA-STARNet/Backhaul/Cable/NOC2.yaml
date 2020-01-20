@@ -1,0 +1,29 @@
+service: NOC2-ROC1
+type: link
+site: NOC-2
+dest: ROC-1
+color: gray
+---
+service: NOC2-ROC2
+type: link
+site: NOC-2
+dest: ROC-2
+color: gray
+---
+service: NOC2-ROC3
+type: link
+site: NOC-2
+dest: ROC-3
+color: gray
+---
+service: NOC2-ROC5
+type: link
+site: NOC-2
+dest: ROC-5
+color: gray
+---
+service: NOC2-ROC6
+type: link
+site: NOC-2
+dest: ROC-6
+color: gray

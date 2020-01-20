@@ -1,5 +1,8 @@
 site: DAUP17
 name: Harrisburg
+aliases:
+  - DAUP78
+  - ROC-7
 loc:
         lat: 40.28758
         lon: -76.87858 
