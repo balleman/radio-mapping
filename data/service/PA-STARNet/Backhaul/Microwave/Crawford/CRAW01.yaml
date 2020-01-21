@@ -1,0 +1,25 @@
+service: CRAW01-VENA92
+type: link
+site: CRAW01
+dest: VENA92
+color: black
+highlight: yellow
+---
+service: CRAW01-CRAW09
+type: link
+site: CRAW01
+dest: CRAW09
+color: red
+class: minor
+---
+service: CRAW01-ERIE92
+type: link
+site: CRAW01
+dest: ERIE92
+color: black
+---
+service: CRAW01-CRAW10
+type: link
+site: CRAW01
+dest: CRAW10
+color: black

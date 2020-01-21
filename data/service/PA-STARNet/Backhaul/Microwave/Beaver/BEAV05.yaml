@@ -3,9 +3,12 @@ type: link
 site: BEAV05
 dest: ALLE28
 callsign: WPTC472
+color: black
 ---
 service: BEAV05-BEAV608
 type: link
 site: BEAV05
 dest: BEAV608
 callsign: WQSL230
+color: red
+class: minor

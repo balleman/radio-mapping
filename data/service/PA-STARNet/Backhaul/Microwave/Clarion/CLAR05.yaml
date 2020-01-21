@@ -3,15 +3,18 @@ type: link
 site: CLAR05
 dest: JEFF02
 callsign: WPTI425
+color: black
 ---
 service: CLAR05-INDI12
 type: link
 site: CLAR05
 dest: INDI12
 callsign: WPTI425
+color: black
 ---
 service: CLAR05-ARMS30
 type: link
 site: CLAR05
 dest: ARMS30
 callsign: WPTI425
+color: black

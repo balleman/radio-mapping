@@ -3,9 +3,11 @@ type: link
 site: CLAR31
 dest: CLAR33
 callsign: WQHG247
+color: black
 ---
 service: CLAR31-CLAR32
 type: link
 site: CLAR31
 dest: CLAR32
 callsign: WQHG247
+color: black

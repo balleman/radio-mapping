@@ -1,0 +1,6 @@
+service: VENA12-VENA92
+type: link
+site: VENA12
+dest: VENA92
+color: black
+highlight: yellow

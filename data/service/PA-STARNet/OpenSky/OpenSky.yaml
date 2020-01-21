@@ -184,6 +184,18 @@ callsign: WQBN816
 color: pink
 range: 15
 ---
+service: OpenSky-CRAW09
+site: CRAW09
+callsign: WPWD808
+color: pink
+range: 15
+---
+service: OpenSky-CRAW10
+site: CRAW10
+callsign: WQBN817
+color: pink
+range: 15
+---
 service: OpenSky-CUMB02
 site: CUMB02
 callsign: WPEF495
@@ -424,6 +436,18 @@ callsign: WQOE458
 color: pink
 range: 15
 ---
+service: OpenSky-MERC92
+site: MERC92
+callsign: WPZU600
+color: pink
+range: 15
+---
+service: OpenSky-MERC93
+site: MERC93
+callsign: WPZU601
+color: pink
+range: 15
+---
 service: OpenSky-PERR01
 site: PERR01
 callsign: WPQE479
@@ -463,6 +487,30 @@ range: 15
 service: OpenSky-SOME06
 site: SOME06
 callsign: WPZU931
+color: pink
+range: 15
+---
+service: OpenSky-VENA01
+site: VENA01
+callsign: WPWE315
+color: pink
+range: 15
+---
+service: OpenSky-VENA08
+site: VENA08
+callsign: WPWT806
+color: pink
+range: 15
+---
+service: OpenSky-VENA12
+site: VENA12
+callsign: WQBN818
+color: pink
+range: 15
+---
+service: OpenSky-VENA92
+site: VENA92
+callsign: WPZV479
 color: pink
 range: 15
 ---

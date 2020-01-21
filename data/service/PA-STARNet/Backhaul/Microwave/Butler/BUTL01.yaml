@@ -3,21 +3,27 @@ type: link
 site: BUTL01
 dest: VENA12
 callsign: WPTG686
+color: black
+highlight: yellow
 ---
 service: BUTL01-BUTL03
 type: link
 site: BUTL01
 dest: BUTL03
 callsign: WPTG686
+color: black
+highlight: yellow
 ---
 service: BUTL01-BUTL35
 type: link
 site: BUTL01
 dest: BUTL35
 callsign: WPTG686
+color: black
 ---
 service: BUTL01-MERC31
 type: link
 site: BUTL01
 dest: MERC31
 callsign: WPTG686
+color: black

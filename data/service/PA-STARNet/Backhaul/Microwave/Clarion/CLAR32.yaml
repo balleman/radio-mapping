@@ -3,15 +3,18 @@ type: link
 site: CLAR32
 dest: CLAR31
 callsign: WQHG270
+color: black
 ---
 service: CLAR32-CLAR90
 type: link
 site: CLAR32
 dest: CLAR90
 callsign: WQHG270
+color: black
 ---
 service: CLAR32-VENA12
 type: link
 site: CLAR32
 dest: VENA12
 callsign: WQHG270
+color: black

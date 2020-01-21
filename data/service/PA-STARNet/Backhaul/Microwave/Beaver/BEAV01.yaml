@@ -3,9 +3,18 @@ type: link
 site: BEAV01
 dest: LAWR06
 callsign: WPUE416
+color: black
 ---
 service: BEAV01-BUTL90
 type: link
 site: BEAV01
 dest: BUTL90
 callsign: WPUE416
+color: black
+---
+service: PTC-BEAV01-SALEMCHURCH
+type: link
+site: BEAV01
+dest: PTC-SALEMCHURCH
+color: green
+highlight: yellow

@@ -1,0 +1,11 @@
+service: VENA08-VENA12
+type: link
+site: VENA08
+dest: VENA12
+color: black
+---
+service: VENA08-VENA01
+type: link
+site: VENA08
+dest: VENA01
+color: black

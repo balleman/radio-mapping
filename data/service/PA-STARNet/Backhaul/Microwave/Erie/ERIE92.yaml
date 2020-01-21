@@ -1,0 +1,7 @@
+service: ERIE92-ERIE92
+type: link
+site: ERIE92
+dest: ERIE91
+color: black
+highlight: red
+class: minor

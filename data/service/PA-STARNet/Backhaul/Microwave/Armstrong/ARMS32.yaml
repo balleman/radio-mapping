@@ -3,15 +3,18 @@ type: link
 site: ARMS32
 dest: ARMS33
 callsign: WPUX754
+color: black
 ---
 service: ARMS32-BULT03
 type: link
 site: ARMS32
 dest: BUTL03
 callsign: WPUX754
+color: black
 ---
 service: ARMS32-INDI12
 type: link
 site: ARMS32
 dest: INDI12
 callsign: WPUX754
+color: black

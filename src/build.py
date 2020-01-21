@@ -67,7 +67,7 @@ def main():
                 if "aliases" in site:
                     for alias in site['aliases']:
                         sites[alias] = site
-                        point.description += "Alias: " + alias
+                        point.description += "<br />Alias: " + alias
                 if not 'type' in site:
                     point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png"
                 elif site['type'] == 'tower':
@@ -141,7 +141,7 @@ def main():
                         line.coords = [(site0['loc']['lon'], site0['loc']['lat']), (site1['loc']['lon'], site1['loc']['lat'])]
                         line.extrude = 1
                         if "class" not in svc or svc["class"] == "major":
-                            line.style.linestyle.width = 3
+                            line.style.linestyle.width = 4
                         elif svc["class"] == "minor":
                             line.style.linestyle.width = 1
                         if "color" not in svc:
