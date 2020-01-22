@@ -30,6 +30,8 @@ def get_color(color):
         return simplekml.Color.black
     elif color == "gray":
         return simplekml.Color.gray
+    elif color == "purple":
+        return simplekml.Color.purple
     else:
         return simplekml.Color.beige
 
