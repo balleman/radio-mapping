@@ -1,0 +1,9 @@
+site: LACK03
+name: LACK03
+aliases:
+  - PTC-RADIOHILL
+loc:
+        lat: 41.458111111111116
+        lon: -75.70155555555556
+type: tower
+asrn: 1200418

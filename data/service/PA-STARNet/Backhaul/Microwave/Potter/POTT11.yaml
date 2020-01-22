@@ -3,21 +3,29 @@ type: link
 site: POTT11
 dest: POTT12
 callsign: WPSS661
+color: black
+highlight: yellow
 ---
 service: POTT11-TIOG03
 type: link
 site: POTT11
 dest: TIOG03
 callsign: WPSS661
+color: black
+highlight: yellow
 ---
 service: POTT11-LYCO21A
 type: link
 site: POTT11
 dest: LYCO21A
 callsign: WPSS661
+color: black
+highlight: yellow
 ---
 service: POTT11-POTT01
 type: link
 site: POTT11
 dest: POTT01
 callsign: WPSS661
+color: black
+highlight: red

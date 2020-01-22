@@ -1,0 +1,20 @@
+service: MERC32-MERC31
+type: link
+site: MERC32
+dest: MERC31
+callsign: WQHK639
+color: black
+---
+service: MERC32-MERC92
+type: link
+site: MERC32
+dest: MERC92
+callsign: WQHK639
+color: black
+---
+service: MERC32-MERC93
+type: link
+site: MERC32
+dest: MERC93
+callsign: WQHK639
+color: black

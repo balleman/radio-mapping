@@ -3,6 +3,8 @@ type: link
 site: ELKC04
 dest: CLEA03
 callsign: WQNS257
+color: black
+highlight: red
 ---
 service: ELKC04-ELKC687
 type: link

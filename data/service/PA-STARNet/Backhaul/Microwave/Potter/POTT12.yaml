@@ -3,21 +3,20 @@ type: link
 site: POTT12
 dest: MCKE01A
 callsign: WPSS391
+color: black
+highlight: yellow
 ---
 service: POTT12-POTT11
 type: link
 site: POTT12
 dest: POTT11
 callsign: WPSS391
+color: black
+highlight: yellow
 ---
 service: POTT12-POTT91
 type: link
 site: POTT12
 dest: POTT91
 callsign: WPSS391
----
-service: POTT12-POTT11
-type: link
-site: POTT12
-dest: POTT11
-callsign: WPSS391
+color: black

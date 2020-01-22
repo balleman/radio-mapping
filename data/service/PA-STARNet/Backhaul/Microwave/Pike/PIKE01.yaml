@@ -1,0 +1,22 @@
+service: PIKE01-MONR03
+type: link
+site: PIKE01
+dest: MONR03
+callsign: WPSS664
+color: black
+highlight: yellow
+---
+service: PIKE01-WAYN04
+type: link
+site: PIKE01
+dest: WAYN04
+callsign: WPSS664
+color: black
+highlight: yellow
+---
+service: PIKE01-PIKE31
+type: link
+site: PIKE01
+dest: PIKE31
+color: black
+highlight: red

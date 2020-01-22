@@ -1,0 +1,20 @@
+service: LUZE06-SULL01
+type: link
+site: LUZE06
+dest: SULL01
+color: black
+callsign: WPSS713
+---
+service: LUZE06-LUZE04
+type: link
+site: LUZE06
+dest: LUZE04
+color: black
+callsign: WPSS713
+---
+service: LUZE06-HUNTINGTONM
+type: link
+site: LUZE06
+dest: HUNTINGTONM
+color: black
+callsign: WPSS713

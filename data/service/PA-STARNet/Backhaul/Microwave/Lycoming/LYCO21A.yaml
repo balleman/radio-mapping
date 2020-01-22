@@ -1,0 +1,5 @@
+service: LYCO21A-LYCO02
+type: link
+site: LYCO21A
+dest: LYCO02
+color: black

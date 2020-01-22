@@ -3,9 +3,11 @@ type: link
 site: WARR17
 dest: WARR35A
 callsign: WPTD231
+color: black
 ---
 service: WARR17-ERIE82
 type: link
 site: WARR17
 dest: ERIE82
 callsign: WPTD231
+color: black

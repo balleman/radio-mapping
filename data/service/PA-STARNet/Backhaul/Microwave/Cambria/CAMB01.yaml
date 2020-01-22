@@ -1,0 +1,6 @@
+service: CAMB01-CAMB02
+type: link
+site: CAMB01
+dest: CAMB02
+color: black
+highlight: yellow

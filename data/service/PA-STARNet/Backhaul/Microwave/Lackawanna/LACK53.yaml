@@ -1,0 +1,28 @@
+service: LACK53-WAYN04
+type: link
+site: LACK53
+dest: WAYN04
+callsign: WPUR955
+color: black
+highlight: yellow
+---
+service: LACK53-WAYN31
+type: link
+site: LACK53
+dest: WAYN31
+callsign: WPUR955
+color: black
+---
+service: LACK53-WAYN33
+type: link
+site: LACK53
+dest: WAYN33
+callsign: WPUR955
+color: black
+---
+service: LACK53-LACK03
+type: link
+site: LACK53
+dest: LACK03
+callsign: WPUR955
+color: black

@@ -3,15 +3,18 @@ type: link
 site: BUTL37
 dest: LAWR31
 callsign: WQFG480
+color: black
 ---
 service: BUTL37-BUTL94
 type: link
 site: BUTL37
 dest: BUTL94
 callsign: WQFG480
+color: black
 ---
 service: BUTL37-LAWR06
 type: link
 site: BUTL37
 dest: LAWR06
 callsign: WQFG480
+color: black

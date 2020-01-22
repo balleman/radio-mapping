@@ -19,3 +19,5 @@ type: link
 site: DAUP01
 dest: DAUP-BLUE-MTN
 callsign: WPQR243
+color: black
+class: minor

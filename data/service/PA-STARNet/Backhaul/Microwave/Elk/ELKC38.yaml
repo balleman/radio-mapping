@@ -3,9 +3,11 @@ type: link
 site: ELKC38
 dest: ELKC53
 callsign: WPUK314
+color: black
 ---
 service: ELKC38-WARR36
 type: link
 site: ELKC38
 dest: WARR36
 callsign: WPUK314
+color: black

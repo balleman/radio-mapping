@@ -1,0 +1,13 @@
+service: MERC92-MERC32
+type: link
+site: MERC93
+dest: MERC32
+callsign: WQHJ908
+color: black
+---
+service: MERC92-CRAW33
+type: link
+site: MERC93
+dest: CRAW33
+callsign: WQHJ908
+color: black

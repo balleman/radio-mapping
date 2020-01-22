@@ -1,0 +1,21 @@
+service: LACK03-LUZE01
+type: link
+site: LACK03
+dest: LUZE01
+callsign: WPTZ253
+color: black
+highlight: yellow
+---
+service: LACK03-WYOM33
+type: link
+site: LACK03
+dest: WYOM33
+callsign: WPTZ253
+color: black
+---
+service: LACK03-LACK53
+type: link
+site: LACK03
+dest: LACK53
+callsign: WPTZ253
+color: black

@@ -3,6 +3,7 @@ type: link
 site: CLIN41
 dest: CLIN02
 callsign: WPOP765
+color: black
 ---
 service: CLIN41-SNYD01
 type: link
@@ -25,6 +26,8 @@ type: link
 site: CLIN41
 dest: LYCO21A
 callsign: WPOP765
+color: black
+highlight: yellow
 ---
 service: CLIN41-SNYD02
 type: link
@@ -47,3 +50,4 @@ type: link
 site: CLIN41
 dest: CLIN03
 callsign: WPOP765
+color: black

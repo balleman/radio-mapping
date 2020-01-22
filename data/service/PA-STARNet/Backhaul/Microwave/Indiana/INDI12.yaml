@@ -3,15 +3,18 @@ type: link
 site: INDI12
 dest: INDI01
 callsign: WPTI426
+color: black
 ---
 service: INDI12-CLAR05
 type: link
 site: INDI12
 dest: CLAR05
 callsign: WPTI426
+color: black
 ---
 service: INDI12-ARMS32
 type: link
 site: INDI12
 dest: ARMS32
 callsign: WPTI426
+color: black

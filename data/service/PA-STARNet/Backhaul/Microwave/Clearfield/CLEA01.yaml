@@ -3,15 +3,21 @@ type: link
 site: CLEA01
 dest: CLEA15
 callsign: WPQZ546
+color: black
+highlight: yellow
 ---
 service: CLEA01-CENT16
 type: link
 site: CLEA01
 dest: CLEA15
 callsign: WPQZ546
+color: black
+highlight: yellow
 ---
 service: CLEA01-CLEA51
 type: link
 site: CLEA01
 dest: CLEA51
 callsign: WPQZ546
+color: black
+highlight: red

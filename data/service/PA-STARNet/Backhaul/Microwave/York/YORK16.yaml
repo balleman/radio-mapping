@@ -1,0 +1,18 @@
+service: YORK16-YORK34
+type: link
+site: YORK16
+dest: YORK34
+callsign: WPSS422
+color: purple
+---
+service: YORK16-YORK94
+type: link
+site: YORK16
+dest: YORK94
+color: black
+---
+service: YORK16-YORK35
+type: link
+site: YORK16
+dest: YORK35
+color: purple

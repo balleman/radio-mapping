@@ -3,27 +3,33 @@ type: link
 site: ELKC53
 dest: MCKE90
 callsign: WPUK316
+color: black
 ---
 service: ELKC53-CLEA03
 type: link
 site: ELKC53
 dest: CLEA03
 callsign: WPUK316
+color: black
 ---
 service: ELKC53-CAME05
 type: link
 site: ELKC53
 dest: CAME05
 callsign: WPUK316
+color: black
 ---
 service: ELKC53-ELKC38
 type: link
 site: ELKC53
 dest: ELKC38
 callsign: WPUK316
+color: black
 ---
 service: ELKC53-ELKC09
 type: link
 site: ELKC53
 dest: ELKC09
 callsign: WPUK316
+color: black
+highlight: yellow

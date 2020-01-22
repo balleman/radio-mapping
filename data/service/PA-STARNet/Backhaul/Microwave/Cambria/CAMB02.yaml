@@ -1,0 +1,6 @@
+service: CAMB02-INDI08
+type: link
+site: CAMB02
+dest: INDI08
+color: black
+highlight: red

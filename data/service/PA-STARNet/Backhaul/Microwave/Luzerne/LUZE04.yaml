@@ -1,0 +1,22 @@
+service: LUZE04-LUZE01
+type: link
+site: LUZE04
+dest: LUZE01
+color: black
+highlight: yellow
+callsign: WPSJ869
+---
+service: LUZE04-COLU02
+type: link
+site: LUZE04
+dest: COLU02
+color: black
+highlight: yellow
+callsign: WPSJ869
+---
+service: LUZE04-LUZE06
+type: link
+site: LUZE04
+dest: LUZE06
+color: black
+callsign: WPSJ869

@@ -3,9 +3,11 @@ type: link
 site: INDI07
 dest: CLEA05
 callsign: WPST213
+color: black
 ---
 service: INDI07-INDI31
 type: link
 site: INDI07
 dest: INDI31
 callsign: WPST213
+color: black

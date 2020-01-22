@@ -1,0 +1,6 @@
+service: MERC93-MERC32
+type: link
+site: MERC93
+dest: MERC32
+callsign: WQHJ908
+color: black

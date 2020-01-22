@@ -1,0 +1,20 @@
+service: MERC31-BUTL01
+type: link
+site: MERC31
+dest: BUTL01
+callsign: WQHJ899
+color: black
+---
+service: MERC31-MERC32
+type: link
+site: MERC31
+dest: MERC32
+callsign: WQHJ899
+color: black
+---
+service: MERC31-MERCER-PSAP
+type: link
+site: MERC31
+dest: MERCER-PSAP
+callsign: WQHJ899
+color: black

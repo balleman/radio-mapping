@@ -1,0 +1,22 @@
+service: CLIN02-LYCO21A
+type: link
+site: CLIN02
+dest: LYCO21A
+callsign: WPOP764
+color: black
+highlight: yellow
+---
+service: CLIN02-POTT41
+type: link
+site: CLIN02
+dest: POTT41
+callsign: WPOP764
+color: black
+highlight: yellow
+---
+service: CLIN02-CLIN04
+type: link
+site: CLIN02
+dest: CLIN04
+color: black
+highlight: red

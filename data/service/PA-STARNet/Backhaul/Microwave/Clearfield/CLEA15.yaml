@@ -3,9 +3,13 @@ type: link
 site: CLEA15
 dest: CLEA01
 callsign: WPRR412
+color: black
+highlight: yellow
 ---
 service: CLEA15-CLEA07
 type: link
 site: CLEA15
 dest: CLEA07
 callsign: WPRR412
+color: black
+highlight: yellow

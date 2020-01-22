@@ -3,6 +3,7 @@ type: link
 site: BEAV02
 dest: ALLE28
 callsign: WPTD552
+color: black
 ---
 service: BEAV02-WASH39
 type: link
@@ -16,3 +17,4 @@ type: link
 site: BEAV02
 dest: ALLE601
 callsign: WPTD552
+color: black

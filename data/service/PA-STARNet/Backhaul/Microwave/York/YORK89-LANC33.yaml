@@ -2,3 +2,5 @@ service: YORK94-YORK89
 type: link
 site: YORK94
 dest: YORK89
+color: black
+highlight: red
