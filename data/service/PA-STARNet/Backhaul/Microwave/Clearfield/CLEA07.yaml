@@ -20,3 +20,17 @@ site: CLEA07
 dest: CLEA03
 callsign: WPRR396
 color: black
+---
+service: CLEA07-POTT688
+type: link
+site: CLEA07
+dest: POTT688
+color: gray
+class: minor
+---
+service: CLEA07-POTT696
+type: link
+site: CLEA07
+dest: POTT696
+color: gray
+class: minor

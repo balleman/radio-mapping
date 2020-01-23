@@ -1,0 +1,13 @@
+service: ERIE80-ERIE92
+type: link
+site: ERIE80
+dest: ERIE92
+color: black
+callsign: WRAA311
+---
+service: ERIE80-ERIE40
+type: link
+site: ERIE80
+dest: ERIE40
+color: black
+callsign: WRAA311

@@ -18,3 +18,10 @@ site: BEAV01
 dest: PTC-SALEMCHURCH
 color: green
 highlight: yellow
+---
+service: BEAV01-BEAV609
+type: link
+site: BEAV01
+dest: BEAV609
+color: blue
+class: minor

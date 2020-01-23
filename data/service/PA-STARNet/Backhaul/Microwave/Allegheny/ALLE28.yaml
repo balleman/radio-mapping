@@ -1,0 +1,6 @@
+service: ALLE28-BEAV611
+type: link
+site: ALLE28
+dest: BEAV611
+color: orange
+class: minor

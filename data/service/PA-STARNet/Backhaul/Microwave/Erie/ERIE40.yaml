@@ -1,0 +1,29 @@
+service: ERIE40-ERIE80
+type: link
+site: ERIE40
+dest: ERIE80
+color: black
+callsign: WPTD228
+---
+service: ERIE40-ERIE93
+type: link
+site: ERIE40
+dest: ERIE93
+color: black
+highlight: red
+callsign: WPTD228
+---
+service: ERIE40-ERIE13
+type: link
+site: ERIE40
+dest: ERIE13
+color: black
+highlight: red
+callsign: WPTD228
+---
+service: ERIE40-ERIE84
+type: link
+site: ERIE40
+dest: ERIE84
+color: black
+callsign: WPTD228

@@ -4,6 +4,7 @@ site: BUTL90
 dest: ALLE28
 callsign: WPTD550
 color: black
+highlight: yellow
 ---
 service: BUTL90-BUTL03
 type: link

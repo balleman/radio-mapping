@@ -1,5 +1,7 @@
-site: PTC-GUNCLUB
-name: PTC-GUNCLUB
+site: WASH25
+name: Charleroi
+aliases:
+  - PTC-GUNCLUB
 loc:
         lat:   40.118694
         lon:  -79.923944

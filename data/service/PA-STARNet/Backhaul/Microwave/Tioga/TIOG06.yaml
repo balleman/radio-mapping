@@ -1,0 +1,23 @@
+service: TIOG06-TIOG03
+type: link
+site: TIOG06
+dest: TIOG03
+color: black
+highlight: yellow
+callsign: WPST583
+---
+service: TIOG06-TIOG11
+type: link
+site: TIOG06
+dest: TIOG11
+color: black
+highlight: yellow
+callsign: WPST583
+---
+service: TIOG06-TIOG626
+type: link
+site: TIOG06
+dest: TIOG626
+color: black
+callsign: WQSL307
+class: minor

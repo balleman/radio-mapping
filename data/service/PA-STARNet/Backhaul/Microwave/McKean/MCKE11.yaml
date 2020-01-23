@@ -1,0 +1,30 @@
+service: MCKE11-MCKE03
+type: link
+site: MCKE11
+dest: MCKE03
+color: black
+highlight: yellow
+callsign: WPUE549
+---
+service: MCKE11-MCKE01A
+type: link
+site: MCKE11
+dest: MCKE01A
+color: black
+highlight: yellow
+callsign: WPUE549
+---
+service: MCKE11-MCKE90
+type: link
+site: MCKE11
+dest: MCKE90
+color: black
+callsign: WPUE549
+---
+service: MCKE11-MCKE618
+type: link
+site: MCKE11
+dest: MCKE618
+color: black
+callsign: WQSL238
+class: minor

@@ -1,0 +1,30 @@
+service: TIOG03-POTT11
+type: link
+site: TIOG03
+dest: POTT11
+color: black
+highlight: yellow
+callsign: WPTJ407
+---
+service: TIOG03-TIOG06
+type: link
+site: TIOG03
+dest: TIOG06
+color: black
+highlight: yellow
+callsign: WPTJ407
+---
+service: TIOG03-TIOG42
+type: link
+site: TIOG03
+dest: TIOG42
+color: black
+callsign: WPTJ407
+---
+service: TIOG03-POTT67
+type: link
+site: TIOG03
+dest: POTT67
+color: black
+class: minor
+callsign: WQSM402

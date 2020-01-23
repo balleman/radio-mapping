@@ -1,0 +1,28 @@
+service: TIOG01A-LYCO01A
+type: link
+site: TIOG01A
+dest: LYCO01A
+color: black
+highlight: yellow
+---
+service: TIOG01A-TIOG11
+type: link
+site: TIOG01A
+dest: TIOG11
+color: black
+highlight: yellow
+---
+service: TIOG01A-LYCO15
+type: link
+site: TIOG01A
+dest: LYCO15
+color: black
+highlight: red
+---
+service: TIOG01A-TIOG624
+type: link
+site: TIOG01A
+dest: TIOG624
+color: black
+class: minor
+callsign: WQST968

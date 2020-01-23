@@ -1,5 +1,13 @@
-service: CRAW01-ERIE13
+service: CRAW10-ERIE13
 type: link
 site: CRAW10
 dest: ERIE13
 color: black
+callsign: WPTD229
+---
+service: CRAW10-CRAW01
+type: link
+site: CRAW10
+dest: CRAW01
+color: black
+callsign: WPTD229

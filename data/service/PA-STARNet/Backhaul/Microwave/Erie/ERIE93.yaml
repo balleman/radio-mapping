@@ -1,0 +1,8 @@
+service: ERIE93-ERIE40
+type: link
+site: ERIE93
+dest: ERIE40
+color: black
+highlight: red
+class: minor
+callsign: WQZV390

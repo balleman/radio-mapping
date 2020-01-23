@@ -1,7 +1,28 @@
-service: ERIE92-ERIE92
+service: ERIE92-ERIE91
 type: link
 site: ERIE92
 dest: ERIE91
 color: black
 highlight: red
 class: minor
+---
+service: ERIE92-CRAW01
+type: link
+site: ERIE92
+dest: CRAW01
+color: black
+callsign: WPTD230
+---
+service: ERIE92-CRAW37
+type: link
+site: ERIE92
+dest: CRAW37
+color: black
+callsign: WPTD230
+---
+service: ERIE92-ERIE80
+type: link
+site: ERIE92
+dest: ERIE80
+color: black
+callsign: WPTD230

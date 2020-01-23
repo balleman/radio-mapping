@@ -3,21 +3,39 @@ type: link
 site: GREE08
 dest: GREE695
 color: red
+class: minor
 ---
 service: GREE08-GREE61
 type: link
 site: GREE08
 dest: GREE61
 color: blue
+class: minor
 ---
 service: GREE08-GREE658
 type: link
 site: GREE08
 dest: GREE658
 color: red
+class: minor
 ---
 service: GREE08-GREE697
 type: link
 site: GREE08
 dest: GREE697
 color: red
+class: minor
+---
+service: GREE08-GREE657
+type: link
+site: GREE08
+dest: GREE657
+color: red
+class: minor
+---
+service: GREE08-GREE607
+type: link
+site: GREE08
+dest: GREE607
+color: red
+class: minor

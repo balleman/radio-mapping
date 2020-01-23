@@ -1,0 +1,14 @@
+service: ERIE84-ERIE40
+type: link
+site: ERIE84
+dest: ERIE40
+color: black
+highlight: red
+callsign: WRBX355
+---
+service: ERIE84-ERIE13
+type: link
+site: ERIE84
+dest: ERIE13
+color: black
+callsign: WRBX355

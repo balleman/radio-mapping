@@ -1,0 +1,22 @@
+service: MCKE01A-POTT12
+type: link
+site: MCKE01A
+dest: POTT12
+color: black
+highlight: yellow
+callsign: WPSS394
+---
+service: MCKE01A-MCKE11
+type: link
+site: MCKE01A
+dest: MCKE11
+color: black
+highlight: yellow
+callsign: WPSS394
+---
+service: MCKE01A-POTT10
+type: link
+site: MCKE01A
+dest: POTT10
+color: black
+callsign: WPSS394

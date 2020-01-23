@@ -11,3 +11,10 @@ site: CAME05
 dest: ELKC613
 class: minor
 callsign: WQST966
+---
+service: CAME05-ELKC03
+type: link
+site: CAME05
+dest: ELKC03
+color: black
+highlight: red

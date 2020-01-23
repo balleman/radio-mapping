@@ -1,0 +1,20 @@
+service: MCKE90-ELKC53
+type: link
+site: MCKE90
+dest: ELKC53
+color: black
+callsign: WPUD553
+---
+service: MCKE90-MCKE11
+type: link
+site: MCKE90
+dest: MCKE11
+color: black
+callsign: WPUD553
+---
+service: MCKE90-MCKE53
+type: link
+site: MCKE90
+dest: MCKE53
+color: black
+callsign: WPUD553

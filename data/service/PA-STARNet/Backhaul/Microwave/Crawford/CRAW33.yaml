@@ -1,0 +1,20 @@
+service: CRAW33-CRAW30
+type: link
+site: CRAW33
+dest: CRAW30
+color: black
+callsign: WQHG411
+---
+service: CRAW33-MERC92
+type: link
+site: CRAW33
+dest: MERC92
+color: black
+callsign: WQHG411
+---
+service: CRAW33-MERC37
+type: link
+site: CRAW33
+dest: CRAW37
+color: black
+callsign: WQHG411

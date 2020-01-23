@@ -1,0 +1,15 @@
+service: MCKE03-WARR34
+type: link
+site: MCKE03
+dest: WARR34
+color: black
+highlight: yellow
+callsign: WPUE554
+---
+service: MCKE03-MCKE11
+type: link
+site: MCKE03
+dest: MCKE11
+color: black
+highlight: yellow
+callsign: WPUE554

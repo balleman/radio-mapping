@@ -1,0 +1,6 @@
+service: MCKE53-MCKE90
+type: link
+site: MCKE53
+dest: MCKE90
+color: black
+callsign: WQPD631

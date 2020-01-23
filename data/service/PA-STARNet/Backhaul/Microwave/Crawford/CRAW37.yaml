@@ -1,0 +1,13 @@
+service: CRAW37-ERIE92
+type: link
+site: CRAW37
+dest: ERIE92
+color: black
+callsign: WQKT710
+---
+service: CRAW37-CRAW33
+type: link
+site: CRAW37
+dest: CRAW33
+color: black
+callsign: WQKT710

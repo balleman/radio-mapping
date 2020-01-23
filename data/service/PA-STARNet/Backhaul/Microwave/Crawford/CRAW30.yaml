@@ -1,0 +1,6 @@
+service: CRAW30-CRAW33
+type: link
+site: CRAW30
+dest: CRAW33
+color: black
+callsign: WQHG409

@@ -32,3 +32,4 @@ type: link
 site: GREE32
 dest: GREE602
 color: red
+class: minor

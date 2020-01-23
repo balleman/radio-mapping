@@ -1,0 +1,13 @@
+service: ERIE82-ERIE13
+type: link
+site: ERIE82
+dest: ERIE13
+color: black
+callsign: WRAD250
+---
+service: ERIE82-WARR17
+type: link
+site: ERIE82
+dest: WARR17
+color: black
+callsign: WRAD250
