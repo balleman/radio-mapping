@@ -621,3 +621,9 @@ site: WASH25
 callsign: WPWD597
 color: pink
 range: 15
+---
+service: OpenSky-WYOM33
+site: WYOM33
+callsign: WQOE301
+color: pink
+range: 15

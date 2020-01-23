@@ -1,0 +1,22 @@
+service: WYOM33-BRAD41
+type: link
+site: WYOM33
+dest: BRAD41
+color: black
+highlight: yellow
+callsign: WQDM950
+---
+service: WYOM33-LACK03
+type: link
+site: WYOM33
+dest: LACK03
+color: black
+highlight: yellow
+callsign: WQDM950
+---
+service: WYOM33-WYOM30
+type: link
+site: WYOM33
+dest: WYOM30
+color: black
+callsign: WQDM950

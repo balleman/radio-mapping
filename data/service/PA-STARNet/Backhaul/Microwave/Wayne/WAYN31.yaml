@@ -1,0 +1,7 @@
+service: WAYN31-WAYN685
+type: link
+site: WAYN31
+dest: WAYN685
+color: black
+callsign: WQST969
+class: minor

@@ -1,0 +1,7 @@
+service: BRAD05-BRAD689
+type: link
+site: BRAD05
+dest: BRAD689
+callsign: WQSL431
+color: black
+class: minor

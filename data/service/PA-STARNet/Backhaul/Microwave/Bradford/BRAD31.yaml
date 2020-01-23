@@ -1,0 +1,15 @@
+service: BRAD31-TIOG11
+type: link
+site: BRAD31
+dest: TIOG11
+callsign: WPSS376
+color: black
+highlight: yellow
+---
+service: BRAD31-BRAD41
+type: link
+site: BRAD31
+dest: BRAD41
+callsign: WPSS376
+color: black
+highlight: yellow

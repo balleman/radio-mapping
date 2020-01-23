@@ -1,0 +1,20 @@
+service: SUSQ05-BRAD41
+type: link
+site: SUSQ05
+dest: BRAD41
+color: black
+callsign: WPVA461
+---
+service: SUSQ05-SUSQ32
+type: link
+site: SUSQ05
+dest: SUSQ32
+color: black
+callsign: WPVA461
+---
+service: SUSQ05-SUSQ86
+type: link
+site: SUSQ05
+dest: SUSQ86
+color: black
+callsign: WPVA461

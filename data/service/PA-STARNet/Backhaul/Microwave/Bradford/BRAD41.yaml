@@ -1,0 +1,22 @@
+service: BRAD41-BRAD31
+type: link
+site: BRAD41
+dest: BRAD31
+callsign: WPSY512
+color: black
+highlight: yellow
+---
+service: BRAD41-SUSQ05
+type: link
+site: BRAD41
+dest: SUSQ05
+callsign: WPSY512
+color: black
+---
+service: BRAD41-WYOM33
+type: link
+site: BRAD41
+dest: WYOM33
+callsign: WPSY512
+color: black
+highlight: yellow

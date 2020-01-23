@@ -1,0 +1,6 @@
+service: WAYN11-WAYN33
+type: link
+site: WAYN11
+dest: WAYN33
+color: black
+callsign: WPUD752

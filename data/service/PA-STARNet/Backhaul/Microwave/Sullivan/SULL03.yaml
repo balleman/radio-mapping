@@ -1,0 +1,6 @@
+service: SULL03-SULL01
+type: link
+site: SULL03
+dest: SULL01
+color: black
+callsign: WPSS712
