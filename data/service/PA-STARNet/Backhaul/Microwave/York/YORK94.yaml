@@ -1,0 +1,18 @@
+service: YORK94-YORK89
+type: link
+site: YORK94
+dest: YORK89
+color: black
+highlight: red
+---
+service: YORK94-YORK630
+type: link
+site: YORK94
+dest: YORK630
+color: dkorange
+---
+service: YORK94-YORK60
+type: link
+site: YORK94
+dest: YORK60
+color: dkorange

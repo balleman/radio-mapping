@@ -3,3 +3,4 @@ type: link
 site: PERR01
 dest: PERR62
 color: blue
+class: minor

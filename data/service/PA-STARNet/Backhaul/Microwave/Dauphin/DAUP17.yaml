@@ -11,6 +11,7 @@ site: DAUP17
 dest: YORK01
 callsign: WPQR235
 color: black
+highlight: yellow
 ---
 service: DAUP17-DAUP31
 type: link

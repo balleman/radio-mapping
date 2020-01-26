@@ -269,6 +269,12 @@ callsign: WPQC947
 color: pink
 range: 15
 ---
+service: OpenSky-DAUP18
+site: DAUP18
+callsign: WPQG427, WQOE545
+color: pink
+range: 15
+---
 service: OpenSky-DAUP31
 site: DAUP31
 callsign: WPGX763
@@ -278,6 +284,12 @@ range: 15
 service: OpenSky-DAUP37
 site: DAUP37
 callsign: WQMM327
+color: pink
+range: 15
+---
+service: OpenSky-DAUP60
+site: DAUP60
+callsign: WQCC380
 color: pink
 range: 15
 ---
@@ -296,6 +308,18 @@ range: 15
 service: OpenSky-DAUP63
 site: DAUP63
 callsign: WQOF646
+color: pink
+range: 15
+---
+service: OpenSky-DAUP66
+site: DAUP66
+callsign: WQOE339
+color: pink
+range: 15
+---
+service: OpenSky-DAUP67
+site: DAUP67
+callsign: WQCC384
 color: pink
 range: 15
 ---
@@ -506,6 +530,48 @@ range: 15
 service: OpenSky-LANC06
 site: LANC06
 callsign: WQOE458
+color: pink
+range: 15
+---
+service: OpenSky-LANC33
+site: LANC33
+callsign: WQOF964
+color: pink
+range: 15
+---
+service: OpenSky-LANC62
+site: LANC62
+callsign: WQOE232
+color: pink
+range: 15
+---
+service: OpenSky-LANC63
+site: LANC63
+callsign: WQOE458
+color: pink
+range: 15
+---
+service: OpenSky-LANC64
+site: LANC64
+callsign: WQOE758
+color: pink
+range: 15
+---
+service: OpenSky-LANC65
+site: LANC65
+callsign: WQOE236
+color: pink
+range: 15
+---
+service: OpenSky-LANC634
+site: LANC634
+callsign: WQJZ509, WQOE232
+color: pink
+range: 15
+---
+service: OpenSky-LANC641
+site: LANC641
+callsign: WQOE232
 color: pink
 range: 15
 ---
@@ -734,5 +800,89 @@ range: 15
 service: OpenSky-WYOM33
 site: WYOM33
 callsign: WQOE301
+color: pink
+range: 15
+---
+service: OpenSky-YORK01
+site: YORK01
+callsign: WPGX766, WQOE545
+color: pink
+range: 15
+---
+service: OpenSky-YORK16
+site: YORK16
+callsign: WPQG293
+color: pink
+range: 15
+---
+service: OpenSky-YORK34
+site: YORK34
+callsign: WQOE461
+color: pink
+range: 15
+---
+service: OpenSky-YORK35
+site: YORK35
+callsign: WPWK267
+color: pink
+range: 15
+---
+service: OpenSky-YORK60
+site: YORK60
+callsign: WQUS878
+color: pink
+range: 15
+---
+service: OpenSky-YORK62
+site: YORK62
+callsign: WQOE475
+color: pink
+range: 15
+---
+service: OpenSky-YORK63
+site: YORK63
+callsign: WQOE767
+color: pink
+range: 15
+---
+service: OpenSky-YORK67
+site: YORK67
+callsign: WQVX455
+color: pink
+range: 15
+---
+service: OpenSky-YORK89
+site: YORK89
+callsign: WPXJ769
+color: pink
+range: 15
+---
+service: OpenSky-YORK94
+site: YORK94
+callsign: WPXJ771
+color: pink
+range: 15
+---
+service: OpenSky-YORK630
+site: YORK630
+callsign: WQOF628
+color: pink
+range: 15
+---
+service: OpenSky-YORK643
+site: YORK643
+callsign: WQOE232
+color: pink
+range: 15
+---
+service: OpenSky-YORK680
+site: YORK680
+callsign: WQOE232
+color: pink
+range: 15
+---
+service: OpenSky-YORK681
+site: YORK681
+callsign: WQJZ341, WQOE232
 color: pink
 range: 15

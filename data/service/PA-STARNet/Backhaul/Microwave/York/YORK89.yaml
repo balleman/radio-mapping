@@ -1,0 +1,18 @@
+service: YORK89-LANC33
+type: link
+site: YORK89
+dest: LANC33
+color: black
+highlight: red
+---
+service: YORK89-YORK681
+type: link
+site: YORK89
+dest: YORK681
+color: dkorange
+---
+service: YORK89-LANC62
+type: link
+site: YORK89
+dest: LANC62
+color: dkorange

@@ -16,3 +16,29 @@ type: link
 site: YORK16
 dest: YORK35
 color: purple
+---
+service: YORK16-YORK62
+type: link
+site: YORK16
+dest: YORK62
+color: dkorange
+class: minor
+---
+service: YORK16-YORK63
+type: link
+site: YORK16
+dest: YORK63
+color: dkorange
+class: minor
+---
+service: YORK16-YORK643
+type: link
+site: YORK16
+dest: YORK643
+color: dkorange
+---
+service: YORK16-DAUP67
+type: link
+site: YORK16
+dest: DAUP67
+color: dkorange

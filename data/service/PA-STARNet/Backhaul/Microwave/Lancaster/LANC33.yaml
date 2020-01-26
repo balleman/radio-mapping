@@ -1,0 +1,17 @@
+service: LANC33-LANC641
+type: link
+site: LANC33
+dest: LANC641
+color: dkorange
+---
+service: LANC33-LANC64
+type: link
+site: LANC33
+dest: LANC64
+color: dkorange
+---
+service: LANC33-LANC63
+type: link
+site: LANC33
+dest: LANC63
+color: dkorange

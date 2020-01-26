@@ -3,3 +3,4 @@ type: link
 site: JUNI05
 dest: MIFF65
 color: blue
+class: minor

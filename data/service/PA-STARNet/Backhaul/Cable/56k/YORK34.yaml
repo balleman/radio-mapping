@@ -1,0 +1,13 @@
+service: YORK34-YORK680
+type: link
+site: YORK34
+dest: YORK680
+color: blue
+class: minor
+---
+service: YORK34-LANC65
+type: link
+site: YORK34
+dest: LANC65
+color: blue
+class: minor

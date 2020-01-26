@@ -47,3 +47,9 @@ site: PTC-BUNCHES
 dest: PTC-GETTYSBURG
 color: green
 callsign: KGC63
+---
+service: YORK01-DAUP66
+type: link
+site: YORK01
+dest: DAUP66
+color: dkorange

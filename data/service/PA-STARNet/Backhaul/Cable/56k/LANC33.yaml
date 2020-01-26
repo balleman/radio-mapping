@@ -1,0 +1,6 @@
+service: LANC33-LANC634
+type: link
+site: LANC33
+dest: LANC634
+color: blue
+class: minor
