@@ -18,3 +18,9 @@ site: JUNI05
 dest: MIFF35
 callsign: WPTC480
 color: red
+---
+service: JUNI05-MIFF64
+type: link
+site: JUNI05
+dest: MIFF64
+color: dkorange

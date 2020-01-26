@@ -22,6 +22,8 @@ def get_color(color):
         return simplekml.Color.darkred
     elif color == "orange":
         return simplekml.Color.orange
+    elif color == "dkorange":
+        return simplekml.Color.darkorange
     elif color == "pink":
         return simplekml.Color.deeppink
     elif color == "yellow":

@@ -4,6 +4,24 @@ callsign: WPQG233
 color: pink
 range: 15
 ---
+service: OpenSky-ADAM60
+site: ADAM60
+callsign: WQBK902
+color: pink
+range: 15
+---
+service: OpenSky-ADAM690
+site: ADAM690
+callsign: WPZS841
+color: pink
+range: 15
+---
+service: OpenSky-ADAM901
+site: ADAM901
+callsign: WPQG264
+color: pink
+range: 15
+---
 service: OpenSky-ALLE25
 site: ALLE25
 callsign: WPWS615
@@ -223,12 +241,19 @@ range: 15
 service: OpenSky-CUMB04
 site: CUMB04
 callsign: WPQE516
+#also? WRAD754
 color: pink
 range: 15
 ---
 service: OpenSky-CUMB61
 site: CUMB61
 callsign: WQBL868
+color: pink
+range: 15
+---
+service: OpenSky-CUMB695
+site: CUMB695
+callsign: WQTK343
 color: pink
 range: 15
 ---
@@ -259,6 +284,24 @@ range: 15
 service: OpenSky-DAUP61
 site: DAUP61
 callsign: WQCC381
+color: pink
+range: 15
+---
+service: OpenSky-DAUP62
+site: DAUP62
+callsign: WQCC382
+color: pink
+range: 15
+---
+service: OpenSky-DAUP63
+site: DAUP63
+callsign: WQOF646
+color: pink
+range: 15
+---
+service: OpenSky-DAUP68
+site: DAUP68
+callsign: WQNS802
 color: pink
 range: 15
 ---
@@ -331,6 +374,24 @@ range: 15
 service: OpenSky-FRAN07
 site: FRAN07
 callsign: WPQE655
+color: pink
+range: 15
+---
+service: OpenSky-FRAN60
+site: FRAN60
+callsign: WQTK343
+color: pink
+range: 15
+---
+service: OpenSky-FRAN61
+site: FRAN61
+callsign: WQTY530
+color: pink
+range: 15
+---
+service: OpenSky-FRAN602
+site: FRAN602
+callsign: WQTK343
 color: pink
 range: 15
 ---
@@ -490,6 +551,24 @@ callsign: WPZU601
 color: pink
 range: 15
 ---
+service: OpenSky-MIFF02
+site: MIFF02
+callsign: WPZU966
+color: pink
+range: 15
+---
+service: OpenSky-MIFF64
+site: MIFF64
+callsign: WQTM395
+color: pink
+range: 15
+---
+service: OpenSky-MIFF65
+site: MIFF65
+callsign: WQTM395
+color: pink
+range: 15
+---
 service: OpenSky-PERR01
 site: PERR01
 callsign: WPQE479
@@ -499,6 +578,30 @@ range: 15
 service: OpenSky-PERR02
 site: PERR02
 callsign: WQBL879
+color: pink
+range: 15
+---
+service: OpenSky-PERR31
+site: PERR31
+callsign: WQTM395
+color: pink
+range: 15
+---
+service: OpenSky-PERR60
+site: PERR60
+callsign: WQBL880
+color: pink
+range: 15
+---
+service: OpenSky-PERR62
+site: PERR62
+callsign: WQBL881
+color: pink
+range: 15
+---
+service: OpenSky-PERR63
+site: PERR63
+callsign: WQTM395
 color: pink
 range: 15
 ---
@@ -619,6 +722,12 @@ range: 15
 service: OpenSky-WASH25
 site: WASH25
 callsign: WPWD597
+color: pink
+range: 15
+---
+service: OpenSky-WEST03
+site: WEST03
+callsign: WQTM395
 color: pink
 range: 15
 ---

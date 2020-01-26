@@ -34,3 +34,9 @@ site: SNYD02
 dest: JUNI05
 callsign: WPQR245
 color: black
+---
+service: SNYD02-PERR64
+type: link
+site: SNYD02
+dest: PERR64
+color: dkorange

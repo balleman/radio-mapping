@@ -3,3 +3,4 @@ type: link
 site: ADAM40
 dest: FRAN02
 color: black
+highlight: red

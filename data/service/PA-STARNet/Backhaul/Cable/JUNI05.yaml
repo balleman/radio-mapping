@@ -1,0 +1,5 @@
+service: JUNI05-MIFF65
+type: link
+site: JUNI05
+dest: MIFF65
+color: blue

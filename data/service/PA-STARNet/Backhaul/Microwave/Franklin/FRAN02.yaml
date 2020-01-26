@@ -1,0 +1,5 @@
+service: FRAN02-FRAN61
+type: link
+site: FRAN02
+dest: FRAN61
+color: dkorange

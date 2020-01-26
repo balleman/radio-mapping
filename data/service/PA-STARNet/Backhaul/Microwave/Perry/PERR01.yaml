@@ -11,3 +11,10 @@ site: PERR01
 dest: HUNT04
 callsign: WPQR280
 color: black
+---
+service: PERR01-MIFF02
+type: link
+site: PERR01
+dest: MIFF02
+color: black
+highlight: red
