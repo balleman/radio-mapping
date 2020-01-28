@@ -4,3 +4,10 @@ site: JUNI05
 dest: MIFF65
 color: blue
 class: minor
+---
+service: JUNI05-MIFF64
+type: link
+site: JUNI05
+dest: MIFF64
+color: blue
+class: minor

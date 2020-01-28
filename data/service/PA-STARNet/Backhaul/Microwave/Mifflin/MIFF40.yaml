@@ -1,0 +1,19 @@
+service: MIFF40-MIFF60
+type: link
+site: MIFF40
+dest: MIFF60
+color: dkorange
+---
+service: MIFF40-HUNT01
+type: link
+site: MIFF40
+dest: HUNT01
+callsign: WPTC589
+color: black
+---
+service: MIFF40-HUNT35
+type: link
+site: MIFF40
+dest: MIFF35
+callsign: WPTC589
+color: black

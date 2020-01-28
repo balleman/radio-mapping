@@ -16,10 +16,10 @@ site: NOC-1
 dest: ROC-3
 color: gray
 ---
-service: NOC1-ROC3
+service: NOC1-ROC4
 type: link
 site: NOC-1
-dest: ROC-3
+dest: ROC-4
 color: gray
 ---
 service: NOC1-ROC5

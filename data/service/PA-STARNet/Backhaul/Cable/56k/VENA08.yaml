@@ -1,0 +1,13 @@
+service: VENA08-VENA614
+type: link
+site: VENA08
+dest: VENA614
+color: blue
+class: minor
+---
+service: VENA08-VENA606
+type: link
+site: VENA08
+dest: VENA606
+color: blue
+class: minor

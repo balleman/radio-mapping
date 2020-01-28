@@ -9,3 +9,9 @@ type: link
 site: VENA08
 dest: VENA01
 color: black
+---
+service: VENA08-VENA35
+type: link
+site: VENA08
+dest: VENA35
+color: black

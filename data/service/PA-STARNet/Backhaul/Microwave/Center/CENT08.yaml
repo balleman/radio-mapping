@@ -1,0 +1,5 @@
+service: CENT08-MIFF66
+type: link
+site: CENT08
+dest: MIFF66
+color: dkorange

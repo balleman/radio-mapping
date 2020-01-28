@@ -1,0 +1,13 @@
+service: MIFF35-JUNI05
+type: link
+site: MIFF35
+dest: JUNI05
+callsign: WRBT295
+color: black
+---
+service: MIFF35-MIFF40
+type: link
+site: MIFF35
+dest: MIFF40
+callsign: WRBT295
+color: black

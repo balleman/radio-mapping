@@ -1,0 +1,5 @@
+service: VENA92-VENA632
+type: link
+site: VENA92
+dest: VENA632
+color: dkorange

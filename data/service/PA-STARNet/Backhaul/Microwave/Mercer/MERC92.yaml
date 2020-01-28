@@ -11,3 +11,9 @@ site: MERC93
 dest: CRAW33
 callsign: WQHJ908
 color: black
+---
+service: MERC92-CRAW68
+type: link
+site: MERC92
+dest: CRAW68
+color: dkorange

@@ -1,6 +1,18 @@
-service: CAMB01-CAMB02
+service: CAMB01-CAMB10
 type: link
 site: CAMB01
-dest: CAMB02
+dest: CAMB10
 color: black
 highlight: yellow
+---
+service: CAMB01-CAMB61
+type: link
+site: CAMB01
+dest: CAMB61
+color: dkorange
+---
+service: CAMB01-CAMB63
+type: link
+site: CAMB01
+dest: CAMB63
+color: dkorange

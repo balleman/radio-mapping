@@ -12,15 +12,8 @@ dest: PERR01
 callsign: WPTC480
 color: black
 ---
-service: JUNI05-MIFF35
+service: JUNI05-MIFF62
 type: link
 site: JUNI05
-dest: MIFF35
-callsign: WPTC480
-color: red
----
-service: JUNI05-MIFF64
-type: link
-site: JUNI05
-dest: MIFF64
+dest: MIFF62
 color: dkorange

@@ -4,3 +4,17 @@ site: CAMB02
 dest: INDI08
 color: black
 highlight: red
+---
+service: CAMB02-CAMB10
+type: link
+site: CAMB02
+dest: CAMB10
+color: black
+highlight: yellow
+---
+service: CAMB02-CAMB67
+type: link
+site: CAMB02
+dest: CAMB67
+color: dkorange
+class: minor
