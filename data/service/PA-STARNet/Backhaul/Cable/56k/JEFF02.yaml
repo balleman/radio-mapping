@@ -1,0 +1,13 @@
+service: JEFF02-FORE694
+type: link
+site: JEFF02
+dest: FORE694
+color: blue
+class: minor
+---
+service: JEFF02-FORE695
+type: link
+site: JEFF02
+dest: FORE695
+color: blue
+class: minor

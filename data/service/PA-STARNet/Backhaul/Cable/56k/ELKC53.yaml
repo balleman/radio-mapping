@@ -1,0 +1,13 @@
+service: ELKC53-FORE605
+type: link
+site: ELKC53
+dest: FORE605
+color: blue
+class: minor
+---
+service: ELKC53-FORE615
+type: link
+site: ELKC53
+dest: FORE615
+color: blue
+class: minor

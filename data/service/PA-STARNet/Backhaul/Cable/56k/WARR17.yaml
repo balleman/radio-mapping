@@ -1,0 +1,6 @@
+service: WARR17-FORE686
+type: link
+site: WARR17
+dest: FORE686
+color: blue
+class: minor

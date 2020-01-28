@@ -1,0 +1,48 @@
+service: FORE30-FORE645
+type: link
+site: FORE30
+dest: FORE645
+color: blue
+class: minor
+---
+service: FORE30-FORE696
+type: link
+site: FORE30
+dest: FORE696
+color: blue
+class: minor
+---
+service: FORE30-FORE697
+type: link
+site: FORE30
+dest: FORE697
+color: blue
+class: minor
+---
+service: FORE30-FORE693
+type: link
+site: FORE30
+dest: FORE693
+color: blue
+class: minor
+---
+service: FORE30-FORE691
+type: link
+site: FORE30
+dest: FORE691
+color: blue
+class: minor
+---
+service: FORE30-FORE644
+type: link
+site: FORE30
+dest: FORE644
+color: blue
+class: minor
+---
+service: FORE30-FORE692
+type: link
+site: FORE30
+dest: FORE692
+color: blue
+class: minor

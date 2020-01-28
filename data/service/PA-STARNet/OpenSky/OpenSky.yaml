@@ -443,6 +443,108 @@ callsign: WQBL871
 color: pink
 range: 15
 ---
+service: OpenSky-FORE07
+site: FORE07
+callsign: WPZU602
+color: pink
+range: 15
+---
+service: OpenSky-FORE30
+site: FORE30
+callsign: WQTJ929
+color: pink
+range: 15
+---
+service: OpenSky-FORE605
+site: FORE605
+callsign: WQTJ929
+color: pink
+range: 15
+---
+service: OpenSky-FORE615
+site: FORE615
+callsign: WQTJ975
+color: pink
+range: 15
+---
+service: OpenSky-FORE659
+site: FORE659
+callsign: WQTU875
+color: pink
+range: 15
+---
+service: OpenSky-FORE644
+site: FORE644
+callsign: WQTJ975
+color: pink
+range: 15
+---
+service: OpenSky-FORE645
+site: FORE645
+callsign: WQTT765
+color: pink
+range: 15
+---
+service: OpenSky-FORE686
+site: FORE686
+callsign: WQTJ975
+color: pink
+range: 15
+---
+service: OpenSky-FORE688
+site: FORE688
+callsign: WQTJ975
+color: pink
+range: 15
+---
+service: OpenSky-FORE692
+site: FORE692
+callsign: WQTT763
+color: pink
+range: 15
+---
+service: OpenSky-FORE693
+site: FORE693
+callsign: WQTK323
+color: pink
+range: 15
+---
+service: OpenSky-FORE694
+site: FORE694
+callsign: WQTK323
+color: pink
+range: 15
+---
+service: OpenSky-FORE695
+site: FORE695
+callsign: WQTI215
+color: pink
+range: 15
+---
+service: OpenSky-FORE696
+site: FORE696
+callsign: WQTT765
+color: pink
+range: 15
+---
+service: OpenSky-FORE697
+site: FORE697
+callsign: WQTT765
+color: pink
+range: 15
+---
+service: OpenSky-FORE698
+site: FORE698
+callsign: WQTJ975
+color: pink
+range: 15
+---
+service: OpenSky-FORE699
+site: FORE699
+callsign: WQTJ975
+color: pink
+range: 15
+---
 service: OpenSky-FRAN01
 site: FRAN01
 callsign: WPEF500

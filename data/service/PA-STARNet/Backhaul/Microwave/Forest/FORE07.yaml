@@ -1,0 +1,22 @@
+service: FORE07-JEFF02
+type: link
+site: FORE07
+dest: JEFF02
+color: black
+highlight: yellow
+callsign: WPTY354
+---
+service: FORE07-VENA92
+type: link
+site: FORE07
+dest: VENA92
+color: black
+highlight: yellow
+callsign: WPTY354
+---
+service: FORE07-FORE30
+type: link
+site: FORE07
+dest: FORE30
+color: black
+callsign: WPTY354
