@@ -4,3 +4,45 @@ site: WARR17
 dest: FORE686
 color: blue
 class: minor
+---
+service: WARR17-WARR648
+type: link
+site: WARR17
+dest: WARR648
+color: blue
+class: minor
+---
+service: WARR17-WARR684
+type: link
+site: WARR17
+dest: WARR684
+color: blue
+class: minor
+---
+service: WARR17-WARR692
+type: link
+site: WARR17
+dest: WARR692
+color: blue
+class: minor
+---
+service: WARR17-WARR694
+type: link
+site: WARR17
+dest: WARR694
+color: blue
+class: minor
+---
+service: WARR17-WARR696
+type: link
+site: WARR17
+dest: WARR696
+color: blue
+class: minor
+---
+service: WARR17-WARR699
+type: link
+site: WARR17
+dest: WARR699
+color: blue
+class: minor

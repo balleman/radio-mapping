@@ -1,0 +1,20 @@
+service: VENA77-WARR682
+type: link
+site: VENA77
+dest: WARR682
+color: blue
+class: minor
+---
+service: VENA77-WARR687
+type: link
+site: VENA77
+dest: WARR687
+color: blue
+class: minor
+---
+service: VENA77-WARR688
+type: link
+site: VENA77
+dest: WARR688
+color: blue
+class: minor

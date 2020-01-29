@@ -1051,7 +1051,181 @@ range: 15
 ---
 service: OpenSky-WARR17
 site: WARR17
-callsign: WQBN820
+callsign: WQBN820, WQTU508
+color: pink
+range: 15
+---
+service: OpenSky-WARR34
+site: WARR34
+callsign: WQTM520
+color: pink
+range: 15
+---
+service: OpenSky-WARR35
+site: WARR35
+callsign: WQTR388
+color: pink
+range: 15
+---
+service: OpenSky-WARR36
+site: WARR36
+callsign: WQTF956
+color: pink
+range: 15
+---
+service: OpenSky-WARR37
+site: WARR37
+callsign: WQTF956
+color: pink
+range: 15
+---
+service: OpenSky-WARR615
+site: WARR615
+callsign: WQTQ790
+color: pink
+range: 15
+---
+service: OpenSky-WARR630
+site: WARR630
+callsign: WQVJ320
+color: pink
+range: 15
+---
+service: OpenSky-WARR631
+site: WARR631
+callsign: WQTR388
+color: pink
+range: 15
+---
+service: OpenSky-WARR632
+site: WARR632
+callsign: WQTK959
+color: pink
+range: 15
+---
+service: OpenSky-WARR633
+site: WARR633
+callsign: WQTM312
+color: pink
+range: 15
+---
+service: OpenSky-WARR634
+site: WARR634
+callsign: WQTM312
+color: pink
+range: 15
+---
+service: OpenSky-WARR636
+site: WARR636
+callsign: WQTK965
+color: pink
+range: 15
+---
+service: OpenSky-WARR648
+site: WARR648
+callsign: WQTK859
+color: pink
+range: 15
+---
+service: OpenSky-WARR649
+site: WARR649
+callsign: WQTK859
+color: pink
+range: 15
+---
+service: OpenSky-WARR682
+site: WARR682
+callsign: WQTK859
+color: pink
+range: 15
+---
+service: OpenSky-WARR683
+site: WARR683
+callsign: WQTM317
+color: pink
+range: 15
+---
+service: OpenSky-WARR684
+site: WARR684
+callsign: WQTK859
+color: pink
+range: 15
+---
+service: OpenSky-WARR685
+site: WARR685
+callsign: WQVJ320
+color: pink
+range: 15
+---
+service: OpenSky-WARR686
+site: WARR686
+callsign: WQTK965
+color: pink
+range: 15
+---
+service: OpenSky-WARR687
+site: WARR687
+callsign: WQTT763
+color: pink
+range: 15
+---
+service: OpenSky-WARR688
+site: WARR688
+callsign: WQTT763
+color: pink
+range: 15
+---
+service: OpenSky-WARR689
+site: WARR689
+callsign: WQVJ320
+color: pink
+range: 15
+---
+service: OpenSky-WARR690
+site: WARR690
+callsign: WQTT763
+color: pink
+range: 15
+---
+service: OpenSky-WARR691
+site: WARR691
+callsign: WQVJ320
+color: pink
+range: 15
+---
+service: OpenSky-WARR692
+site: WARR692
+callsign: WQTK965
+color: pink
+range: 15
+---
+service: OpenSky-WARR694
+site: WARR694
+callsign: WQTR388
+color: pink
+range: 15
+---
+service: OpenSky-WARR695
+site: WARR695
+callsign: WQTK965
+color: pink
+range: 15
+---
+service: OpenSky-WARR696
+site: WARR696
+callsign: WQTR388
+color: pink
+range: 15
+---
+service: OpenSky-WARR698
+site: WARR698
+callsign: WQTM317
+color: pink
+range: 15
+---
+service: OpenSky-WARR699
+site: WARR699
+callsign: WQTT763
 color: pink
 range: 15
 ---

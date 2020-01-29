@@ -11,3 +11,17 @@ site: ELKC53
 dest: FORE615
 color: blue
 class: minor
+---
+service: ELKC53-WARR690
+type: link
+site: ELKC53
+dest: WARR690
+color: blue
+class: minor
+---
+service: ELKC53-WARR698
+type: link
+site: ELKC53
+dest: WARR698
+color: blue
+class: minor

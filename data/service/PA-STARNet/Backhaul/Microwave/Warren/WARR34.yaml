@@ -20,3 +20,9 @@ dest: WARR35A
 callsign: WPTG653
 color: black
 highlight: yellow
+---
+service: WARR34-WARR630
+type: link
+site: WARR34
+dest: WARR630
+color: dkorange

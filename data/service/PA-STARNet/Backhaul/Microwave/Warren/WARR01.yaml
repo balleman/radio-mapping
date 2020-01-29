@@ -1,0 +1,5 @@
+service: WARR01-WARR631
+type: link
+site: WARR01
+dest: WARR631
+color: dkorange

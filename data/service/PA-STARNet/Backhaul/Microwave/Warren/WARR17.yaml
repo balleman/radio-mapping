@@ -11,3 +11,16 @@ site: WARR17
 dest: ERIE82
 callsign: WPTD231
 color: black
+---
+service: WARR17-WARR01
+type: link
+site: WARR17
+dest: WARR01
+color: dkorange
+---
+service: WARR17-WARR632
+type: link
+site: WARR17
+dest: WARR632
+color: dkorange
+class: minor
