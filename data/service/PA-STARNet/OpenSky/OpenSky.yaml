@@ -208,6 +208,72 @@ callsign: WPEF490
 color: pink
 range: 15
 ---
+service: OpenSky-CLAR05
+site: CLAR05
+callsign: WQBL313
+color: pink
+range: 15
+---
+service: OpenSky-CLAR31
+site: CLAR31
+callsign: WQTQ744
+color: pink
+range: 15
+---
+service: OpenSky-CLAR32
+site: CLAR32
+callsign: WQTI215
+color: pink
+range: 15
+---
+service: OpenSky-CLAR33
+site: CLAR33
+callsign: WQTQ744
+color: pink
+range: 15
+---
+service: OpenSky-CLAR90
+site: CLAR90
+callsign: WQBL314
+color: pink
+range: 15
+---
+service: OpenSky-CLAR633
+site: CLAR633
+callsign: WQTF957
+color: pink
+range: 15
+---
+service: OpenSky-CLAR634
+site: CLAR634
+callsign: WQTS271
+color: pink
+range: 15
+---
+service: OpenSky-CLAR635
+site: CLAR635
+callsign: WQTE856
+color: pink
+range: 15
+---
+service: OpenSky-CLAR636
+site: CLAR636
+callsign: WQTU875
+color: pink
+range: 15
+---
+service: OpenSky-CLAR692
+site: CLAR692
+callsign: WQTJ718
+color: pink
+range: 15
+---
+service: OpenSky-CLAR693
+site: CLAR693
+callsign: WQTE856
+color: pink
+range: 15
+---
 service: OpenSky-CLEA01
 site: CLEA01
 callsign: WPWD477

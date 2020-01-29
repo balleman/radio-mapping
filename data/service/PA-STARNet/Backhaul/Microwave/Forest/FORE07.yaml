@@ -20,3 +20,17 @@ site: FORE07
 dest: FORE30
 color: black
 callsign: WPTY354
+---
+service: FORE07-CLAR634
+type: link
+site: FORE07
+dest: CLAR634
+color: dkorange
+class: minor
+---
+service: FORE07-CLAR693
+type: link
+site: FORE07
+dest: CLAR693
+color: dkorange
+class: minor

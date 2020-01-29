@@ -11,3 +11,10 @@ site: CLAR31
 dest: CLAR32
 callsign: WQHG247
 color: black
+---
+service: CLAR31-CLAR635
+type: link
+site: CLAR31
+dest: CLAR635
+color: dkorange
+class: minor
