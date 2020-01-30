@@ -1,0 +1,6 @@
+service: ARMS30-JEFF694
+type: link
+site: ARMS30
+dest: JEFF694
+color: blue
+class: minor

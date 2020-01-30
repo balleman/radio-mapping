@@ -42,3 +42,10 @@ dest: JEFF90
 callsign: WPTG313
 color: black
 highlight: red
+---
+service: JEFF02-JEFF696
+type: link
+site: JEFF02
+dest: JEFF696
+color: dkorange
+class: minor

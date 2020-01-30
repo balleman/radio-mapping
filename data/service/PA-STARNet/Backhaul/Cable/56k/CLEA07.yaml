@@ -1,0 +1,13 @@
+service: CLEA07-JEFF692
+type: link
+site: CLEA07
+dest: JEFF692
+color: blue
+class: minor
+---
+service: CLEA07-JEFF695
+type: link
+site: CLEA07
+dest: JEFF695
+color: blue
+class: minor

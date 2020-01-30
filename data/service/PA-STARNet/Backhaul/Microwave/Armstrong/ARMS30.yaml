@@ -4,3 +4,9 @@ site: ARMS30
 dest: CLAR05
 callsign: WPUX761
 color: black
+---
+service: ARMS30-JEFF606
+type: link
+site: ARMS30
+dest: JEFF606
+color: dkorange

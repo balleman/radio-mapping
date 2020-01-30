@@ -1,0 +1,6 @@
+service: INDI07-JEFF691
+type: link
+site: INDI07
+dest: JEFF691
+color: blue
+class: minor

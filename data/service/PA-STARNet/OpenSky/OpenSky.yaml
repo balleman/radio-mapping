@@ -737,9 +737,75 @@ callsign: WPZU228
 color: pink
 range: 15
 ---
+service: OpenSky-JEFF53
+site: JEFF53
+callsign: WQTJ718
+color: pink
+range: 15
+---
 service: OpenSky-JEFF90
 site: JEFF90
 callsign: WPWD543
+color: pink
+range: 15
+---
+service: OpenSky-JEFF605
+site: JEFF605
+callsign: WQTY529
+color: pink
+range: 15
+---
+service: OpenSky-JEFF606
+site: JEFF606
+callsign: WQTY529
+color: pink
+range: 15
+---
+service: OpenSky-JEFF607
+site: JEFF607
+callsign: WQTY529
+color: pink
+range: 15
+---
+service: OpenSky-JEFF630
+site: JEFF630
+callsign: WQTI214
+color: pink
+range: 15
+---
+service: OpenSky-JEFF691
+site: JEFF691
+callsign: WQTK202
+color: pink
+range: 15
+---
+service: OpenSky-JEFF692
+site: JEFF692
+callsign: WQTI214
+color: pink
+range: 15
+---
+service: OpenSky-JEFF693
+site: JEFF693
+callsign: WQTK202
+color: pink
+range: 15
+---
+service: OpenSky-JEFF694
+site: JEFF694
+callsign: WQTK202
+color: pink
+range: 15
+---
+service: OpenSky-JEFF695
+site: JEFF695
+callsign: WQTK202
+color: pink
+range: 15
+---
+service: OpenSky-JEFF696
+site: JEFF696
+callsign: WQTK652
 color: pink
 range: 15
 ---
