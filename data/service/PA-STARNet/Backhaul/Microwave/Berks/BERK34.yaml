@@ -1,0 +1,18 @@
+service: BERK34-BERK31
+type: link
+site: BERK34
+dest: BERK31
+color: purple
+---
+service: BERK34-BERK10
+type: link
+site: BERK34
+dest: BERK10
+color: purple
+---
+service: BERK34-BERK11
+type: link
+site: BERK34
+dest: BERK11
+callsign: WQTX500
+color: black

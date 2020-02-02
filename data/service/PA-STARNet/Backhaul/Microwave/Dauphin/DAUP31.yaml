@@ -37,3 +37,15 @@ dest: LEBA71
 callsign: WQSL489
 color: black
 highlight: yellow
+---
+service: DAUP31-LEBA60
+type: link
+site: DAUP31
+dest: LEBA60
+color: dkorange
+---
+service: DAUP31-BERK30
+type: link
+site: DAUP31
+dest: BERK30
+color: purple

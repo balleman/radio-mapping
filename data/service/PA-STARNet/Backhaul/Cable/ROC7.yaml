@@ -1,0 +1,5 @@
+service: ROC7-LEBA690
+type: link
+site: ROC-7
+dest: LEBA690
+color: gray

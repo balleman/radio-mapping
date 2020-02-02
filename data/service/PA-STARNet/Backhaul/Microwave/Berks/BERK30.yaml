@@ -1,0 +1,5 @@
+service: BERK30-BERK34
+type: link
+site: BERK30
+dest: BERK34
+color: purple

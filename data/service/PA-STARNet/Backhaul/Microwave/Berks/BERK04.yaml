@@ -13,3 +13,9 @@ dest: SCHU34
 callsign: WQSL497
 color: orange
 class: minor
+---
+service: BERK31-BERK04
+type: link
+site: BERK31
+dest: BERK04
+color: black

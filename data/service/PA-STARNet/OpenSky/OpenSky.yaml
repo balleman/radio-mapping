@@ -88,6 +88,54 @@ callsign: WPWS616
 color: pink
 range: 15
 ---
+service: OpenSky-BERK02
+site: BERK02
+callsign: WPQG466
+color: pink
+range: 15
+---
+service: OpenSky-BERK04
+site: BERK04
+callsign: WPQG432
+color: pink
+range: 15
+---
+service: OpenSky-BERK10
+site: BERK10
+callsign: WPQG451
+color: pink
+range: 15
+---
+service: OpenSky-BERK30
+site: BERK30
+callsign: WPZS856
+color: pink
+range: 15
+---
+service: OpenSky-BERK31
+site: BERK31
+callsign: WQOE238
+color: pink
+range: 15
+---
+service: OpenSky-BERK34
+site: BERK34
+callsign: WPWU449
+color: pink
+range: 15
+---
+service: OpenSky-BERK64
+site: BERK64
+callsign: WQUS875
+color: pink
+range: 15
+---
+service: OpenSky-BERK65
+site: BERK65
+callsign: WQUS877
+color: pink
+range: 15
+---
 service: OpenSky-BLAI02
 site: BLAI02
 callsign: WPZU936
@@ -890,6 +938,54 @@ range: 15
 service: OpenSky-LAWR06
 site: LAWR06
 callsign: WQBL876
+color: pink
+range: 15
+---
+service: OpenSky-LEBA60
+site: LEBA60
+callsign: WQOE295
+color: pink
+range: 15
+---
+service: OpenSky-LEBA71
+site: LEBA71
+callsign: WQUS875
+color: pink
+range: 15
+---
+service: OpenSky-LEBA74
+site: LEBA74
+callsign: WRAD754
+color: pink
+range: 15
+---
+service: OpenSky-LEBA639
+site: LEBA639
+callsign: WQOE295
+color: pink
+range: 15
+---
+service: OpenSky-LEBA640
+site: LEBA640
+callsign: WQCC371
+color: pink
+range: 15
+---
+service: OpenSky-LEBA671
+site: LEBA671
+callsign: WQOE295
+color: pink
+range: 15
+---
+service: OpenSky-LEBA690
+site: LEBA690
+callsign: WQCC373
+color: pink
+range: 15
+---
+service: OpenSky-LEBA691
+site: LEBA691
+callsign: WQOE295
 color: pink
 range: 15
 ---

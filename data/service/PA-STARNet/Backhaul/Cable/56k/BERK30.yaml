@@ -1,0 +1,6 @@
+service: BERK30-LEBA639
+type: link
+site: BERK30
+dest: LEBA639
+color: blue
+class: minor
