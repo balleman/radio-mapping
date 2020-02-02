@@ -713,6 +713,24 @@ callsign: WQBL873
 color: pink
 range: 15
 ---
+service: OpenSky-HUNT67
+site: HUNT67
+callsign: WQTK670
+color: pink
+range: 15
+---
+service: OpenSky-HUNT607
+site: HUNT607
+callsign: WQTF956
+color: pink
+range: 15
+---
+service: OpenSky-HUNT612
+site: HUNT612
+callsign: WQTS271
+color: pink
+range: 15
+---
 service: OpenSky-INDI01
 site: INDI01
 callsign: WPEF504

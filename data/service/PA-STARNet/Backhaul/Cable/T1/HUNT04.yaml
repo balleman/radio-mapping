@@ -1,0 +1,5 @@
+service: HUNT04-HUNT612
+type: link
+site: HUNT04
+dest: HUNT612
+color: gray
