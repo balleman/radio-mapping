@@ -881,6 +881,42 @@ callsign: WPEF506
 color: pink
 range: 15
 ---
+service: OpenSky-LACK03
+site: LACK03
+callsign: WPWU450, WQOE458
+color: pink
+range: 15
+---
+service: OpenSky-LACK53
+site: LACK53
+callsign: WPWT708
+color: pink
+range: 15
+---
+service: OpenSky-LACK65
+site: LACK65
+callsign: WQUS874
+color: pink
+range: 15
+---
+service: OpenSky-LACK67
+site: LACK67
+callsign: WQWQ419
+color: pink
+range: 15
+---
+service: OpenSky-LACK630
+site: LACK630
+callsign: WQOF628, WQXB209
+color: pink
+range: 15
+---
+service: OpenSky-LACK631
+site: LACK631
+callsign: WQXB209
+color: pink
+range: 15
+---
 service: OpenSky-LANC01
 site: LANC01
 callsign: WPQG327

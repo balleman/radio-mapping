@@ -26,3 +26,9 @@ site: LACK53
 dest: LACK03
 callsign: WPUR955
 color: black
+---
+service: LACK53-LACK630
+type: link
+site: LACK53
+dest: LACK630
+color: dkorange

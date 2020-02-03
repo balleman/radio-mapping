@@ -19,3 +19,10 @@ site: LACK03
 dest: LACK53
 callsign: WPTZ253
 color: black
+---
+service: PTC-RADIOHILL-WYOMINGMAIN
+type: link
+site: PTC-RADIOHILL
+dest: PTC-WYOMINGMAIN
+callsign: WPQW598
+color: green
