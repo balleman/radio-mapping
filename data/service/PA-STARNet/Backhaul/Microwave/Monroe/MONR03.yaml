@@ -1,0 +1,29 @@
+service: MONR03-MONR07
+type: link
+site: MONR03
+dest: MONR07
+color: black
+highlight: red
+---
+service: MONR03-PIKE01
+type: link
+site: MONR03
+dest: PIKE01
+color: black
+highlight: yellow
+callsign: WPSS663
+---
+service: MONR03-CARB01
+type: link
+site: MONR03
+dest: CARB01
+color: black
+highlight: yellow
+callsign: WPSS663
+---
+service: MONR03-MONR09
+type: link
+site: MONR03
+dest: MONR09
+color: black
+callsign: WPSS663

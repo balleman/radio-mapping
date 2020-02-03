@@ -1109,6 +1109,48 @@ callsign: WQTQ747
 color: pink
 range: 15
 ---
+service: OpenSky-MONR03
+site: MONR03
+callsign: WPXJ750
+color: pink
+range: 15
+---
+service: OpenSky-MONR07
+site: MONR07
+callsign: WPXJ721
+color: pink
+range: 15
+---
+service: OpenSky-MONR09
+site: MONR09
+callsign: WPGX774
+color: pink
+range: 15
+---
+service: OpenSky-MONR57
+site: MONR57
+callsign: WQOE775
+color: pink
+range: 15
+---
+service: OpenSky-MONR61
+site: MONR61
+callsign: WQNS443
+color: pink
+range: 15
+---
+service: OpenSky-MONR62
+site: MONR62
+callsign: WQWQ415
+color: pink
+range: 15
+---
+service: OpenSky-MONR64
+site: MONR64
+callsign: WQWQ415
+color: pink
+range: 15
+---
 service: OpenSky-PERR01
 site: PERR01
 callsign: WPQE479

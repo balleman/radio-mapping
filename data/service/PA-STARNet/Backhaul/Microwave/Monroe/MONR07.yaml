@@ -1,0 +1,13 @@
+service: MONR07-MONR09
+type: link
+site: MONR07
+dest: MONR09
+color: black
+callsign: WQSL476
+---
+service: MONR07-MONR64
+type: link
+site: MONR07
+dest: MONR64
+color: black
+callsign: WQSL476

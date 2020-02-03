@@ -1,0 +1,8 @@
+site: MONR57
+name: Mount Pocono
+loc:
+        lat:  41.114000000000004
+        lon: -75.32208333333332
+type: building
+aliases:
+  - MONR58
