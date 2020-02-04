@@ -1,0 +1,5 @@
+service: PIKE08-MONR09
+type: link
+site: PIKE08
+dest: MONR09
+color: purple

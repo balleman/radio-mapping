@@ -1187,6 +1187,78 @@ callsign: WQTM395
 color: pink
 range: 15
 ---
+service: OpenSky-PIKE01
+site: PIKE01
+callsign: WPXJ761, WQJZ509, WQUT582
+color: pink
+range: 15
+---
+service: OpenSky-PIKE08
+site: PIKE08
+callsign: WPWT718
+color: pink
+range: 15
+---
+service: OpenSky-PIKE31
+site: PIKE31
+callsign: WPXJ722, WQOE758
+color: pink
+range: 15
+---
+service: OpenSky-PIKE67
+site: PIKE67
+callsign: WQVL920
+color: pink
+range: 15
+---
+service: OpenSky-PIKE68
+site: PIKE68
+callsign: WQWQ419
+color: pink
+range: 15
+---
+service: OpenSky-PIKE633
+site: PIKE633
+callsign: WQOE340
+color: pink
+range: 15
+---
+service: OpenSky-PIKE634
+site: PIKE634
+callsign: WQOE340
+color: pink
+range: 15
+---
+service: OpenSky-PIKE659
+site: PIKE659
+callsign: WQTX908
+color: pink
+range: 15
+---
+service: OpenSky-PIKE691
+site: PIKE691
+callsign: WQOE628
+color: pink
+range: 15
+---
+service: OpenSky-PIKE692
+site: PIKE692
+callsign: WQOF912
+color: pink
+range: 15
+---
+service: OpenSky-PIKE693
+site: PIKE693
+callsign: WQOF912
+color: pink
+range: 15
+---
+service: OpenSky-PIKE696
+site: PIKE696
+callsign: WQOF912
+color: pink
+range: 15
+---
 service: OpenSky-POTT01
 site: POTT01
 callsign: WPZU968

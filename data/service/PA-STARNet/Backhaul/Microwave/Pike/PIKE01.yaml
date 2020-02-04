@@ -20,3 +20,9 @@ site: PIKE01
 dest: PIKE31
 color: black
 highlight: red
+---
+service: PIKE01-PIKE68
+type: link
+site: PIKE01
+dest: PIKE68
+color: dkorange

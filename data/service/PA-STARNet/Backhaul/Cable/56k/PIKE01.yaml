@@ -1,0 +1,27 @@
+service: PIKE01-PIKE691
+type: link
+site: PIKE01
+dest: PIKE691
+color: blue
+class: minor
+---
+service: PIKE01-PIKE692
+type: link
+site: PIKE01
+dest: PIKE692
+color: blue
+class: minor
+---
+service: PIKE01-PIKE693
+type: link
+site: PIKE01
+dest: PIKE693
+color: blue
+class: minor
+---
+service: PIKE01-PIKE696
+type: link
+site: PIKE01
+dest: PIKE696
+color: blue
+class: minor

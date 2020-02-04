@@ -5,3 +5,9 @@ dest: WAYN685
 color: black
 callsign: WQST969
 class: minor
+---
+service: WAYN31-PIKE633
+type: link
+site: WAYN31
+dest: PIKE633
+color: dkorange

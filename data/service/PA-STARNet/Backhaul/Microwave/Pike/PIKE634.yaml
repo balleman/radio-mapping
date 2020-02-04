@@ -1,0 +1,6 @@
+service: PIKE634-PIKE67
+type: link
+site: PIKE634
+dest: PIKE67
+color: dkorange
+class: minor
