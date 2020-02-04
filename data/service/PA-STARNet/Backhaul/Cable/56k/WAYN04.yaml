@@ -1,0 +1,6 @@
+service: WAYN04-WAYN632
+type: link
+site: WAYN04
+dest: WAYN632
+color: blue
+class: minor

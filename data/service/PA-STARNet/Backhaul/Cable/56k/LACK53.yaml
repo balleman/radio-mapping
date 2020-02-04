@@ -1,0 +1,62 @@
+service: LACK53-WAYN686
+type: link
+site: LACK53
+dest: WAYN686
+color: blue
+class: minor
+---
+service: LACK53-WAYN688
+type: link
+site: LACK53
+dest: WAYN688
+color: blue
+class: minor
+---
+service: LACK53-WAYN689
+type: link
+site: LACK53
+dest: WAYN689
+color: blue
+class: minor
+---
+service: LACK53-WAYN694
+type: link
+site: LACK53
+dest: WAYN694
+color: blue
+class: minor
+---
+service: LACK53-WAYN695
+type: link
+site: LACK53
+dest: WAYN695
+color: blue
+class: minor
+---
+service: LACK53-WAYN696
+type: link
+site: LACK53
+dest: WAYN696
+color: blue
+class: minor
+---
+service: LACK53-WAYN697
+type: link
+site: LACK53
+dest: WAYN697
+color: blue
+class: minor
+---
+service: LACK53-WAYN698
+type: link
+site: LACK53
+dest: WAYN698
+color: blue
+class: minor
+---
+service: LACK53-WAYN699
+type: link
+site: LACK53
+dest: WAYN699
+color: blue
+class: minor

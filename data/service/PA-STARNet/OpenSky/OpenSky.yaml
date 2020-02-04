@@ -1715,6 +1715,108 @@ callsign: WPWD597
 color: pink
 range: 15
 ---
+service: OpenSky-WAYN04
+site: WAYN04
+callsign: WQOE301
+color: pink
+range: 15
+---
+service: OpenSky-WAYN11
+site: WAYN11
+callsign: WPWT711
+color: pink
+range: 15
+---
+service: OpenSky-WAYN31
+site: WAYN31
+callsign: WPWT721, WQOE461
+color: pink
+range: 15
+---
+service: OpenSky-WAYN33
+site: WAYN33
+callsign: WPXJ724
+color: pink
+range: 15
+---
+service: OpenSky-WAYN601
+site: WAYN601
+callsign: WQOE301
+color: pink
+range: 15
+---
+service: OpenSky-WAYN616
+site: WAYN616
+callsign: WQOE340, WQUT582
+color: pink
+range: 15
+---
+service: OpenSky-WAYN631
+site: WAYN631
+callsign: WQOE340
+color: pink
+range: 15
+---
+service: OpenSky-WAYN632
+site: WAYN632
+callsign: WQOE469
+color: pink
+range: 15
+---
+service: OpenSky-WAYN686
+site: WAYN686
+callsign: WQOE762
+color: pink
+range: 15
+---
+service: OpenSky-WAYN688
+site: WAYN688
+callsign: WQOE762
+color: pink
+range: 15
+---
+service: OpenSky-WAYN689
+site: WAYN689
+callsign: WQOE762
+color: pink
+range: 15
+---
+service: OpenSky-WAYN694
+site: WAYN694
+callsign: WQOE762
+color: pink
+range: 15
+---
+service: OpenSky-WAYN695
+site: WAYN695
+callsign: WQOF964
+color: pink
+range: 15
+---
+service: OpenSky-WAYN696
+site: WAYN696
+callsign: WQOF964
+color: pink
+range: 15
+---
+service: OpenSky-WAYN697
+site: WAYN697
+callsign: WQOE762
+color: pink
+range: 15
+---
+service: OpenSky-WAYN698
+site: WAYN698
+callsign: WQOE465
+color: pink
+range: 15
+---
+service: OpenSky-WAYN699
+site: WAYN699
+callsign: WQOE465
+color: pink
+range: 15
+---
 service: OpenSky-WEST03
 site: WEST03
 callsign: WQTM395
@@ -1724,6 +1826,12 @@ range: 15
 service: OpenSky-WYOM33
 site: WYOM33
 callsign: WQOE301
+color: pink
+range: 15
+---
+service: OpenSky-WYOM695
+site: WYOM695
+callsign: WQOE465
 color: pink
 range: 15
 ---

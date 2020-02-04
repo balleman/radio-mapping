@@ -4,3 +4,9 @@ site: WAYN11
 dest: WAYN33
 color: black
 callsign: WPUD752
+---
+service: WAYN11-WAYN616
+type: link
+site: WAYN11
+dest: WAYN616
+color: dkorange

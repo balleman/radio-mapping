@@ -1,0 +1,6 @@
+service: BRAD06-WAYN601
+type: link
+site: BRAD06
+dest: WAYN601
+color: blue
+class: minor

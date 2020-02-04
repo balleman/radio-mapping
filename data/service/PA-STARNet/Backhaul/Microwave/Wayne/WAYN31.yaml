@@ -11,3 +11,9 @@ type: link
 site: WAYN31
 dest: PIKE633
 color: dkorange
+---
+service: WAYN31-WAYN631
+type: link
+site: WAYN31
+dest: WAYN631
+color: dkorange
