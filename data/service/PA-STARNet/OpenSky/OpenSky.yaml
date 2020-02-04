@@ -226,6 +226,54 @@ callsign: WQTY529
 color: pink
 range: 15
 ---
+service: OpenSky-CARB01
+site: CARB01
+callsign: WPWS623
+color: pink
+range: 15
+---
+service: OpenSky-CARB03
+site: CARB03
+callsign: WQOE544
+color: pink
+range: 15
+---
+service: OpenSky-CARB60
+site: CARB60
+callsign: WQCC361
+color: pink
+range: 15
+---
+service: OpenSky-CARB61
+site: CARB61
+callsign: WQOF628
+color: pink
+range: 15
+---
+service: OpenSky-CARB64
+site: CARB64
+callsign: WQWQ419
+color: pink
+range: 15
+---
+service: OpenSky-CARB631
+site: CARB631
+callsign: WQOE544
+color: pink
+range: 15
+---
+service: OpenSky-CARB632
+site: CARB632
+callsign: WQOE767
+color: pink
+range: 15
+---
+service: OpenSky-CARB653
+site: CARB653
+callsign: WQWQ419
+color: pink
+range: 15
+---
 service: OpenSky-CAMB604
 site: CAMB604
 callsign: WQTI217

@@ -20,3 +20,10 @@ site: LEHI06
 dest: CARB03
 color: black
 callsign: WPSS384
+---
+service: LEHI06-CARB61
+type: link
+site: LEHI06
+dest: CARB61
+color: dkorange
+class: minor

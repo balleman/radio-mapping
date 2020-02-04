@@ -6,6 +6,13 @@ callsign: WQST973
 color: orange
 class: minor
 ---
+service: CARB03-CARB631
+type: link
+site: CARB03
+dest: CARB631
+color: orange
+class: minor
+---
 service: CARB03-CARB632
 type: link
 site: CARB03
