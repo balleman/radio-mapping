@@ -1,3 +1,9 @@
+service: SOME02-BEDF02
+type: link
+site: SOME02
+dest: BEDF02
+color: black
+---
 service: SOME02-SOME03
 type: link
 site: SOME02

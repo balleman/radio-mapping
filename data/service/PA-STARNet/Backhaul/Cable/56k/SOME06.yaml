@@ -1,0 +1,34 @@
+service: SOME06-SOME690
+type: link
+site: SOME06
+dest: SOME690
+color: blue
+class: minor
+---
+service: SOME06-SOME691
+type: link
+site: SOME06
+dest: SOME691
+color: blue
+class: minor
+---
+service: SOME06-SOME694
+type: link
+site: SOME06
+dest: SOME694
+color: blue
+class: minor
+---
+service: SOME06-SOME695
+type: link
+site: SOME06
+dest: SOME695
+color: blue
+class: minor
+---
+service: SOME06-SOME696
+type: link
+site: SOME06
+dest: SOME696
+color: blue
+class: minor

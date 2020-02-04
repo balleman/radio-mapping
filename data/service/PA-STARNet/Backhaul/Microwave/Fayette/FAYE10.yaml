@@ -2,5 +2,5 @@ service: FAYE10-FAYE60
 type: link
 site: FAYE10
 dest: FAYE60
-color: blue
+color: dkorange
 class: minor
