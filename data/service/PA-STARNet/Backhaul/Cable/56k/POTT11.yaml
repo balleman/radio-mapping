@@ -1,0 +1,27 @@
+service: POTT11-TIOG699
+type: link
+site: POTT11
+dest: TIOG699
+color: blue
+class: minor
+---
+service: POTT11-TIOG628
+type: link
+site: POTT11
+dest: TIOG628
+color: blue
+class: minor
+---
+service: POTT11-TIOG686
+type: link
+site: POTT11
+dest: TIOG686
+color: blue
+class: minor
+---
+service: POTT11-TIOG621
+type: link
+site: POTT11
+dest: TIOG621
+color: blue
+class: minor

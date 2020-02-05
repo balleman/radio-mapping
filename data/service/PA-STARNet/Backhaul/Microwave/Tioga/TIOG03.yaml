@@ -28,3 +28,15 @@ dest: POTT67
 color: black
 class: minor
 callsign: WQSM402
+---
+service: TIOG03-TIOG638
+type: link
+site: TIOG03
+dest: TIOG638
+color: dkorange
+---
+service: TIOG03-TIOG631
+type: link
+site: TIOG03
+dest: TIOG631
+color: dkorange

@@ -1,0 +1,6 @@
+service: POTT12-TIOG630
+type: link
+site: POTT12
+dest: TIOG630
+color: blue
+class: minor
