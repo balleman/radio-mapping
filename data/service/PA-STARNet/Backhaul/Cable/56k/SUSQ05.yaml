@@ -1,0 +1,55 @@
+service: SUSQ05-BRAD620
+type: link
+site: SUSQ05
+dest: BRAD620
+color: blue
+class: minor
+---
+service: SUSQ05-BRAD683
+type: link
+site: SUSQ05
+dest: BRAD683
+color: blue
+class: minor
+---
+service: SUSQ05-BRAD684
+type: link
+site: SUSQ05
+dest: BRAD684
+color: blue
+class: minor
+---
+service: SUSQ05-BRAD685
+type: link
+site: SUSQ05
+dest: BRAD685
+color: blue
+class: minor
+---
+service: SUSQ05-BRAD692
+type: link
+site: SUSQ05
+dest: BRAD692
+color: blue
+class: minor
+---
+service: SUSQ05-BRAD693
+type: link
+site: SUSQ05
+dest: BRAD693
+color: blue
+class: minor
+---
+service: SUSQ05-BRAD694
+type: link
+site: SUSQ05
+dest: BRAD694
+color: blue
+class: minor
+---
+service: SUSQ05-BRAD698
+type: link
+site: SUSQ05
+dest: BRAD698
+color: blue
+class: minor

@@ -18,3 +18,9 @@ site: SUSQ05
 dest: SUSQ86
 color: black
 callsign: WPVA461
+---
+service: SUSQ05-BRAD653
+type: link
+site: SUSQ05
+dest: BRAD653
+color: dkorange

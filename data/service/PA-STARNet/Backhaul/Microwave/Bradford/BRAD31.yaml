@@ -13,3 +13,23 @@ dest: BRAD41
 callsign: WPSS376
 color: black
 highlight: yellow
+---
+service: BRAD31-BRAD631
+type: link
+site: BRAD31
+dest: BRAD631
+color: dkorange
+---
+service: BRAD31-BRAD05
+type: link
+site: BRAD31
+dest: BRAD05
+color: black
+highlight: red
+---
+service: BRAD31-BRAD06
+type: link
+site: BRAD31
+dest: BRAD06
+color: black
+highlight: red

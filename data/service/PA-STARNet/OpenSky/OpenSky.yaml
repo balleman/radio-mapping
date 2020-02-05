@@ -160,6 +160,120 @@ callsign: WQTF957
 color: pink
 range: 15
 ---
+service: OpenSky-BRAD05
+site: BRAD05
+callsign: WPWR332
+color: pink
+range: 15
+---
+service: OpenSky-BRAD06
+site: BRAD06
+callsign: WPWT719
+color: pink
+range: 15
+---
+service: OpenSky-BRAD31
+site: BRAD31
+callsign: WPWT724
+color: pink
+range: 15
+---
+service: OpenSky-BRAD41
+site: BRAD41
+callsign: WPWT732
+color: pink
+range: 15
+---
+service: OpenSky-BRAD620
+site: BRAD620
+callsign: WQMM327
+color: pink
+range: 15
+---
+service: OpenSky-BRAD631
+site: BRAD631
+callsign: WQOE340
+color: pink
+range: 15
+---
+service: OpenSky-BRAD633
+site: BRAD633
+callsign: WQOE628
+color: pink
+range: 15
+---
+service: OpenSky-BRAD636
+site: BRAD636
+callsign: WQWQ418
+color: pink
+range: 15
+---
+service: OpenSky-BRAD653
+site: BRAD653
+callsign: WQOE329
+color: pink
+range: 15
+---
+service: OpenSky-BRAD654
+site: BRAD654
+callsign: WQNS802
+color: pink
+range: 15
+---
+service: OpenSky-BRAD659
+site: BRAD659
+callsign: WQMM327
+color: pink
+range: 15
+---
+service: OpenSky-BRAD683
+site: BRAD683
+callsign: WQMM327
+color: pink
+range: 15
+---
+service: OpenSky-BRAD684
+site: BRAD684
+callsign: WQMM327
+color: pink
+range: 15
+---
+service: OpenSky-BRAD685
+site: BRAD685
+callsign: WQWQ418
+color: pink
+range: 15
+---
+service: OpenSky-BRAD689
+site: BRAD689
+callsign: WQTX908
+color: pink
+range: 15
+---
+service: OpenSky-BRAD692
+site: BRAD692
+callsign: WQVL920
+color: pink
+range: 15
+---
+service: OpenSky-BRAD693
+site: BRAD693
+callsign: WQOE628
+color: pink
+range: 15
+---
+service: OpenSky-BRAD694
+site: BRAD694
+callsign: WQOE628
+color: pink
+range: 15
+---
+service: OpenSky-BRAD698
+site: BRAD698
+callsign: WQWQ418
+color: pink
+range: 15
+---
 service: OpenSky-BUTL01
 site: BUTL01
 callsign: WQBK913

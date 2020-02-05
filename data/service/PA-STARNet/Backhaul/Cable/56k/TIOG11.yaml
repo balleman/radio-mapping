@@ -1,0 +1,6 @@
+service: TIOG11-BAD659
+type: link
+site: TIOG11
+dest: BRAD659
+color: blue
+class: minor

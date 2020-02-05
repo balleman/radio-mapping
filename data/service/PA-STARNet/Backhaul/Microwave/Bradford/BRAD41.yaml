@@ -20,3 +20,15 @@ dest: WYOM33
 callsign: WPSY512
 color: black
 highlight: yellow
+---
+service: BRAD41-BRAD636
+type: link
+site: BRAD41
+dest: BRAD636
+color: dkorange
+---
+service: BRAD41-BRAD633
+type: link
+site: BRAD41
+dest: BRAD633
+color: dkorange
