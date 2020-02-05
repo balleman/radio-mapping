@@ -60,3 +60,38 @@ site: LACK53
 dest: WAYN699
 color: blue
 class: minor
+---
+service: LACK53-SUSQ686
+type: link
+site: LACK53
+dest: SUSQ686
+color: blue
+class: minor
+---
+service: LACK53-SUSQ692
+type: link
+site: LACK53
+dest: SUSQ692
+color: blue
+class: minor
+---
+service: LACK53-SUSQ694
+type: link
+site: LACK53
+dest: SUSQ694
+color: blue
+class: minor
+---
+service: LACK53-SUSQ695
+type: link
+site: LACK53
+dest: SUSQ695
+color: blue
+class: minor
+---
+service: LACK53-SUSQ698
+type: link
+site: LACK53
+dest: SUSQ698
+color: blue
+class: minor

@@ -53,3 +53,31 @@ site: SUSQ05
 dest: BRAD698
 color: blue
 class: minor
+---
+service: SUSQ05-SUSQ697
+type: link
+site: SUSQ05
+dest: SUSQ697
+color: blue
+class: minor
+---
+service: SUSQ05-SUSQ614
+type: link
+site: SUSQ05
+dest: SUSQ614
+color: blue
+class: minor
+---
+service: SUSQ05-SUSQ649
+type: link
+site: SUSQ05
+dest: SUSQ649
+color: blue
+class: minor
+---
+service: SUSQ05-SUSQ612
+type: link
+site: SUSQ05
+dest: SUSQ612
+color: blue
+class: minor

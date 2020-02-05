@@ -1,0 +1,13 @@
+service: LACK03-SUSQ60
+type: link
+site: LACK03
+dest: SUSQ60
+color: blue
+class: minor
+---
+service: LACK03-SUSQ609
+type: link
+site: LACK03
+dest: SUSQ609
+color: blue
+class: minor

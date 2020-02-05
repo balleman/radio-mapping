@@ -11,3 +11,15 @@ site: SUSQ06
 dest: SUSQ32
 color: black
 callsign: WPTI649
+---
+service: SUSQ06-SUSQ602
+type: link
+site: SUSQ06
+dest: SUSQ602
+color: dkorange
+---
+service: SUSQ06-SUSQ602
+type: link
+site: SUSQ06
+dest: SUSQ602
+color: dkorange

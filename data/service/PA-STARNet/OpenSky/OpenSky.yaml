@@ -1511,6 +1511,120 @@ callsign: WQTK964
 color: pink
 range: 15
 ---
+service: OpenSky-SUSQ05
+site: SUSQ05
+callsign: WQOE461
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ06
+site: SUSQ06
+callsign: WPWK271
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ32
+site: SUSQ32
+callsign: WQOE465
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ60
+site: SUSQ60
+callsign: WQOE465
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ61
+site: SUSQ61
+callsign: WQTX908
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ602
+site: SUSQ602
+callsign: WQOE329
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ609
+site: SUSQ609
+callsign: WQOE329
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ611
+site: SUSQ611
+callsign: WQOE329
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ612
+site: SUSQ612
+callsign: WQOE329
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ614
+site: SUSQ614
+callsign: WQOE545
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ631
+site: SUSQ631
+callsign: WQOE340
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ633
+site: SUSQ633
+callsign: WQWQ419
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ649
+site: SUSQ649
+callsign: WQNS443
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ686
+site: SUSQ686
+callsign: WQOE773
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ692
+site: SUSQ692
+callsign: WQOE773
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ694
+site: SUSQ694
+callsign: WQOE762
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ695
+site: SUSQ695
+callsign: WQOE773
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ697
+site: SUSQ697
+callsign: WQOE329
+color: pink
+range: 15
+---
+service: OpenSky-SUSQ698
+site: SUSQ698
+callsign: WQOE773
+color: pink
+range: 15
+---
 service: OpenSky-TIOG01A
 site: TIOG01A
 callsign: WQOE461

@@ -1,0 +1,6 @@
+service: SUSQ06-SUSQ633
+type: link
+site: SUSQ06
+dest: SUSQ633
+color: blue
+class: minor

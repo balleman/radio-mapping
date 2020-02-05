@@ -1,0 +1,11 @@
+service: WAYN33-SUSQ611
+type: link
+site: WAYN33
+dest: SUSQ611
+color: dkorange
+---
+service: WAYN33-SUSQ631
+type: link
+site: WAYN33
+dest: SUSQ631
+color: dkorange
