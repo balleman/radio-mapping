@@ -110,6 +110,13 @@ dest: WYOM692
 color: blue
 class: minor
 ---
+service: LACK53-WYOM693
+type: link
+site: LACK53
+dest: WYOM693
+color: blue
+class: minor
+---
 service: LACK53-WYOM694
 type: link
 site: LACK53

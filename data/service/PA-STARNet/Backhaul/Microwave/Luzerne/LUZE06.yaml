@@ -18,3 +18,10 @@ site: LUZE06
 dest: HUNTINGTONM
 color: black
 callsign: WPSS713
+---
+service: LUZE06-SULL02
+type: link
+site: LUZE06
+dest: SULL02
+color: black
+highlight: red

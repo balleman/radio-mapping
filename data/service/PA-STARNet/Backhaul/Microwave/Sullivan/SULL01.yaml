@@ -1,0 +1,5 @@
+service: SULL01-SULL630
+type: link
+site: SULL01
+dest: SULL630
+color: dkorange

@@ -1511,6 +1511,84 @@ callsign: WQTK964
 color: pink
 range: 15
 ---
+service: OpenSky-SULL01
+site: SULL01
+callsign: WPWT728
+color: pink
+range: 15
+---
+service: OpenSky-SULL02
+site: SULL02
+callsign: WQOE461
+color: pink
+range: 15
+---
+service: OpenSky-SULL03
+site: SULL03
+callsign: WQOE461
+color: pink
+range: 15
+---
+service: OpenSky-SULL630
+site: SULL630
+callsign: WQNS802
+color: pink
+range: 15
+---
+service: OpenSky-SULL631
+site: SULL631
+callsign: WQWQ418
+color: pink
+range: 15
+---
+service: OpenSky-SULL644
+site: SULL644
+callsign: WQOE776
+color: pink
+range: 15
+---
+service: OpenSky-SULL646
+site: SULL646
+callsign: WQOE776
+color: pink
+range: 15
+---
+service: OpenSky-SULL647
+site: SULL647
+callsign: WQUS874
+color: pink
+range: 15
+---
+service: OpenSky-SULL687
+site: SULL687
+callsign: WQOE775
+color: pink
+range: 15
+---
+service: OpenSky-SULL691
+site: SULL691
+callsign: WQOF912
+color: pink
+range: 15
+---
+service: OpenSky-SULL694
+site: SULL694
+callsign: WQOF912
+color: pink
+range: 15
+---
+service: OpenSky-SULL696
+site: SULL696
+callsign: WQOF912
+color: pink
+range: 15
+---
+service: OpenSky-SULL697
+site: SULL697
+callsign: WQOE624
+color: pink
+range: 15
+---
 service: OpenSky-SUSQ05
 site: SUSQ05
 callsign: WQOE461

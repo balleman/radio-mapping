@@ -1,0 +1,48 @@
+service: LUZE01-SULL644
+type: link
+site: LUZE01
+dest: SULL644
+color: blue
+class: minor
+---
+service: LUZE01-SULL646
+type: link
+site: LUZE01
+dest: SULL646
+color: blue
+class: minor
+---
+service: LUZE01-SULL687
+type: link
+site: LUZE01
+dest: SULL687
+color: blue
+class: minor
+---
+service: LUZE01-SULL691
+type: link
+site: LUZE01
+dest: SULL691
+color: blue
+class: minor
+---
+service: LUZE01-SULL694
+type: link
+site: LUZE01
+dest: SULL694
+color: blue
+class: minor
+---
+service: LUZE01-SULL696
+type: link
+site: LUZE01
+dest: SULL696
+color: blue
+class: minor
+---
+service: LUZE01-SULL697
+type: link
+site: LUZE01
+dest: SULL697
+color: blue
+class: minor
