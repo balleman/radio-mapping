@@ -1,0 +1,6 @@
+service: LUZE04-WYOM630
+type: link
+site: LUZE04
+dest: WYOM630
+color: blue
+class: minor

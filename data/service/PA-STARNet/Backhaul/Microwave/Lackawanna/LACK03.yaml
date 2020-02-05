@@ -12,6 +12,7 @@ site: LACK03
 dest: WYOM33
 callsign: WPTZ253
 color: black
+highlight: yellow
 ---
 service: LACK03-LACK53
 type: link

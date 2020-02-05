@@ -2057,6 +2057,36 @@ callsign: WQOE301
 color: pink
 range: 15
 ---
+service: OpenSky-WYOM630
+site: WYOM630
+callsign: WQOE469
+color: pink
+range: 15
+---
+service: OpenSky-WYOM691
+site: WYOM691
+callsign: WQOE773
+color: pink
+range: 15
+---
+service: OpenSky-WYOM692
+site: WYOM692
+callsign: WQOF964
+color: pink
+range: 15
+---
+service: OpenSky-WYOM693
+site: WYOM693
+callsign: WQOE773
+color: pink
+range: 15
+---
+service: OpenSky-WYOM694
+site: WYOM694
+callsign: WQOE465
+color: pink
+range: 15
+---
 service: OpenSky-WYOM695
 site: WYOM695
 callsign: WQOE465

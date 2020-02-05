@@ -95,3 +95,31 @@ site: LACK53
 dest: SUSQ698
 color: blue
 class: minor
+---
+service: LACK53-WYOM691
+type: link
+site: LACK53
+dest: WYOM691
+color: blue
+class: minor
+---
+service: LACK53-WYOM692
+type: link
+site: LACK53
+dest: WYOM692
+color: blue
+class: minor
+---
+service: LACK53-WYOM694
+type: link
+site: LACK53
+dest: WYOM694
+color: blue
+class: minor
+---
+service: LACK53-WYOM695
+type: link
+site: LACK53
+dest: WYOM695
+color: blue
+class: minor
