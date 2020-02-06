@@ -1511,6 +1511,18 @@ callsign: WQTK964
 color: pink
 range: 15
 ---
+service: OpenSky-SNYD02
+site: SNYD02
+callsign: WPWD468, WQTU508
+color: pink
+range: 15
+---
+service: OpenSky-SNYD03
+site: SNYD03
+callsign: WPZU909
+color: pink
+range: 15
+---
 service: OpenSky-SULL01
 site: SULL01
 callsign: WPWT728
