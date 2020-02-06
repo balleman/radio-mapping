@@ -1865,6 +1865,12 @@ callsign: WQOE775
 color: pink
 range: 15
 ---
+service: OpenSky-UNIO01
+site: UNIO01
+callsign: WPWD576
+color: pink
+range: 15
+---
 service: OpenSky-VENA01
 site: VENA01
 callsign: WPWE315

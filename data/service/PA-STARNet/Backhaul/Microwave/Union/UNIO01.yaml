@@ -1,0 +1,6 @@
+service: UNIO01-SNYD02
+type: link
+site: UNIO01
+dest: SNYD02
+color: black
+callsign: WPWH548
