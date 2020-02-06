@@ -74,3 +74,10 @@ site: LYCO01A
 dest: TIOG695
 color: blue
 class: minor
+---
+service: LYCO01A-TIOG649
+type: link
+site: LYCO01A
+dest: TIOG649
+color: blue
+class: minor

@@ -1,0 +1,5 @@
+service: LYCO01A-LYCO621
+type: link
+site: LYCO01A
+dest: LYCO621
+color: dkorange

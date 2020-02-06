@@ -1,0 +1,48 @@
+service: LYCO21-LYCO30
+type: link
+site: LYCO21
+dest: LYCO30
+color: blue
+class: minor
+---
+service: LYCO21-LYCO625
+type: link
+site: LYCO21
+dest: LYCO625
+color: blue
+class: minor
+---
+service: LYCO21-LYCO625
+type: link
+site: LYCO21
+dest: LYCO625
+color: blue
+class: minor
+---
+service: LYCO21-LYCO684
+type: link
+site: LYCO21
+dest: LYCO684
+color: blue
+class: minor
+---
+service: LYCO21-LYCO685
+type: link
+site: LYCO21
+dest: LYCO685
+color: blue
+class: minor
+---
+service: LYCO21-LYCO696
+type: link
+site: LYCO21
+dest: LYCO696
+color: blue
+class: minor
+---
+service: LYCO21-LYCO697
+type: link
+site: LYCO21
+dest: LYCO697
+color: blue
+class: minor

@@ -1187,6 +1187,126 @@ callsign: WQOE295
 color: pink
 range: 15
 ---
+service: OpenSky-LYCO01
+site: LYCO01
+callsign: WQOE458
+color: pink
+range: 15
+---
+service: OpenSky-LYCO02
+site: LYCO02
+callsign: WPXJ747
+color: pink
+range: 15
+---
+service: OpenSky-LYCO15
+site: LYCO15
+callsign: WQOE758
+color: pink
+range: 15
+---
+service: OpenSky-LYCO21
+site: LYCO21
+callsign: WPGX770
+color: pink
+range: 15
+---
+service: OpenSky-LYCO30
+site: LYCO30
+callsign: WQWQ415
+color: pink
+range: 15
+---
+service: OpenSky-LYCO620
+site: LYCO620
+callsign: WQOE776
+color: pink
+range: 15
+---
+service: OpenSky-LYCO621
+site: LYCO621
+callsign: WQOE544
+color: pink
+range: 15
+---
+service: OpenSky-LYCO625
+site: LYCO625
+callsign: WQWQ414
+color: pink
+range: 15
+---
+service: OpenSky-LYCO626
+site: LYCO626
+callsign: WQOE776
+color: pink
+range: 15
+---
+service: OpenSky-LYCO643
+site: LYCO643
+callsign: WQWQ414
+color: pink
+range: 15
+---
+service: OpenSky-LYCO657
+site: LYCO657
+callsign: WQTX908
+color: pink
+range: 15
+---
+service: OpenSky-LYCO684
+site: LYCO684
+callsign: WQOE774
+color: pink
+range: 15
+---
+service: OpenSky-LYCO685
+site: LYCO685
+callsign: WQOE774
+color: pink
+range: 15
+---
+service: OpenSky-LYCO686
+site: LYCO686
+callsign: WQOE774
+color: pink
+range: 15
+---
+service: OpenSky-LYCO687
+site: LYCO687
+callsign: WQOE774
+color: pink
+range: 15
+---
+service: OpenSky-LYCO693
+site: LYCO693
+callsign: WQOE774
+color: pink
+range: 15
+---
+service: OpenSky-LYCO694
+site: LYCO694
+callsign: WQOE774
+color: pink
+range: 15
+---
+service: OpenSky-LYCO695
+site: LYCO695
+callsign: WQOE775
+color: pink
+range: 15
+---
+service: OpenSky-LYCO696
+site: LYCO696
+callsign: WQOE628
+color: pink
+range: 15
+---
+service: OpenSky-LYCO697
+site: LYCO697
+callsign: WQOE628
+color: pink
+range: 15
+---
 service: OpenSky-MCKE01
 site: MCKE01
 callsign: WPWE314

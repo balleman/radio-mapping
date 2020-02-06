@@ -1,0 +1,41 @@
+service: CLIN41-LYCO657
+type: link
+site: CLIN41
+dest: LYCO657
+color: blue
+class: minor
+---
+service: CLIN41-LYCO693
+type: link
+site: CLIN41
+dest: LYCO693
+color: blue
+class: minor
+---
+service: CLIN41-LYCO686
+type: link
+site: CLIN41
+dest: LYCO686
+color: blue
+class: minor
+---
+service: CLIN41-LYCO687
+type: link
+site: CLIN41
+dest: LYCO687
+color: blue
+class: minor
+---
+service: CLIN41-LYCO694
+type: link
+site: CLIN41
+dest: LYCO694
+color: blue
+class: minor
+---
+service: CLIN41-LYCO695
+type: link
+site: CLIN41
+dest: LYCO695
+color: blue
+class: minor

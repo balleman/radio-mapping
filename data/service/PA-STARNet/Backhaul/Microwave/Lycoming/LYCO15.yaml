@@ -1,0 +1,5 @@
+service: LYCO15-LYCO643
+type: link
+site: LYCO15
+dest: LYCO643
+color: dkorange
