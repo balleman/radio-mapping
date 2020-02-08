@@ -3,6 +3,7 @@ type: link
 site: CAME05
 dest: CAME617
 class: minor
+color: black
 callsign: WQST966
 ---
 service: CAME05-ELKC613
@@ -10,6 +11,7 @@ type: link
 site: CAME05
 dest: ELKC613
 class: minor
+color: black
 callsign: WQST966
 ---
 service: CAME05-ELKC03
@@ -18,3 +20,24 @@ site: CAME05
 dest: ELKC03
 color: black
 highlight: red
+---
+service: CAME05-CAME34
+type: link
+site: CAME05
+dest: CAME34
+color: black
+callsign: WPUE200
+---
+service: CAME05-POTT41
+type: link
+site: CAME05
+dest: POTT41
+color: black
+callsign: WPUE200
+---
+service: CAME05-ELKC53
+type: link
+site: CAME05
+dest: ELKC53
+color: black
+callsign: WPUE200

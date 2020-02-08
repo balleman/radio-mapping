@@ -1,0 +1,6 @@
+service: CAME34-CAME05
+type: link
+site: CAME34
+dest: CAME05
+color: black
+callsign: WQHG385

@@ -11,3 +11,17 @@ site: CLEA07
 dest: JEFF695
 color: blue
 class: minor
+---
+service: CLEA07-CAME646
+type: link
+site: CLEA07
+dest: CAME646
+color: blue
+class: minor
+---
+service: CLEA07-CAME648
+type: link
+site: CLEA07
+dest: CAME648
+color: blue
+class: minor

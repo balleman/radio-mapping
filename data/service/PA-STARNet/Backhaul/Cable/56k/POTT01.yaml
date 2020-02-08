@@ -1,0 +1,13 @@
+service: POTT01-CAME615
+type: link
+site: POTT01
+dest: CAME615
+color: blue
+class: minor
+---
+service: POTT01-CAME641
+type: link
+site: POTT01
+dest: CAME641
+color: blue
+class: minor

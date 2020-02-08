@@ -25,3 +25,52 @@ site: ELKC53
 dest: WARR698
 color: blue
 class: minor
+---
+service: ELKC53-CAME613
+type: link
+site: ELKC53
+dest: CAME613
+color: blue
+class: minor
+---
+service: ELKC53-CAME617
+type: link
+site: ELKC53
+dest: CAME617
+color: blue
+class: minor
+---
+service: ELKC53-CAME622
+type: link
+site: ELKC53
+dest: CAME622
+color: blue
+class: minor
+---
+service: ELKC53-CAME616
+type: link
+site: ELKC53
+dest: CAME616
+color: blue
+class: minor
+---
+service: ELKC53-CAME691
+type: link
+site: ELKC53
+dest: CAME691
+color: blue
+class: minor
+---
+service: ELKC53-CAME694
+type: link
+site: ELKC53
+dest: CAME694
+color: blue
+class: minor
+---
+service: ELKC53-CAME624
+type: link
+site: ELKC53
+dest: CAME624
+color: blue
+class: minor

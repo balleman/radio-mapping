@@ -1,0 +1,34 @@
+service: CAME34-CAME629
+type: link
+site: CAME34
+dest: CAME629
+color: blue
+class: minor
+---
+service: CAME34-CAME693
+type: link
+site: CAME34
+dest: CAME693
+color: blue
+class: minor
+---
+service: CAME34-CAME618
+type: link
+site: CAME34
+dest: CAME618
+color: blue
+class: minor
+---
+service: CAME34-CAME626
+type: link
+site: CAME34
+dest: CAME626
+color: blue
+class: minor
+---
+service: CAME34-CAME657
+type: link
+site: CAME34
+dest: CAME657
+color: blue
+class: minor

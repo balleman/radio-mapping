@@ -88,6 +88,12 @@ callsign: WPWS616
 color: pink
 range: 15
 ---
+service: OpenSky-BEDF602
+site: BEDF602
+callsign: WQTF956
+color: pink
+range: 15
+---
 service: OpenSky-BERK02
 site: BERK02
 callsign: WPQG466
@@ -337,6 +343,150 @@ range: 15
 service: OpenSky-CAMB67
 site: CAMB67
 callsign: WQTY529
+color: pink
+range: 15
+---
+service: OpenSky-CAME03
+site: CAME03
+callsign: WPZT926
+color: pink
+range: 15
+---
+service: OpenSky-CAME05
+site: CAME05
+callsign: WPZU938
+color: pink
+range: 15
+---
+service: OpenSky-CAME33
+site: CAME33
+callsign: WQTF956
+color: pink
+range: 15
+---
+service: OpenSky-CAME34
+site: CAME34
+callsign: WQTF956
+color: pink
+range: 15
+---
+service: OpenSky-CAME612
+site: CAME612
+callsign: WQTJ700
+color: pink
+range: 15
+---
+service: OpenSky-CAME613
+site: CAME613
+callsign: WQTE810
+color: pink
+range: 15
+---
+service: OpenSky-CAME615
+site: CAME615
+callsign: WQTJ827
+color: pink
+range: 15
+---
+service: OpenSky-CAME616
+site: CAME616
+callsign: WQTJ827
+color: pink
+range: 15
+---
+service: OpenSky-CAME617
+site: CAME617
+callsign: WQTJ700
+color: pink
+range: 15
+---
+service: OpenSky-CAME618
+site: CAME618
+callsign: WQTJ796
+color: pink
+range: 15
+---
+service: OpenSky-CAME622
+site: CAME622
+callsign: WQTJ827
+color: pink
+range: 15
+---
+service: OpenSky-CAME624
+site: CAME624
+callsign: WQTE810
+color: pink
+range: 15
+---
+service: OpenSky-CAME626
+site: CAME626
+callsign: WQTE784
+color: pink
+range: 15
+---
+service: OpenSky-CAME628
+site: CAME628
+callsign: WQTJ821
+color: pink
+range: 15
+---
+service: OpenSky-CAME629
+site: CAME629
+callsign: WQTJ700
+color: pink
+range: 15
+---
+service: OpenSky-CAME641
+site: CAME641
+callsign: WQTT768
+color: pink
+range: 15
+---
+service: OpenSky-CAME646
+site: CAME646
+callsign: WQTJ700
+color: pink
+range: 15
+---
+service: OpenSky-CAME648
+site: CAME648
+callsign: WQTJ700
+color: pink
+range: 15
+---
+service: OpenSky-CAME657
+site: CAME657
+callsign: WQTJ796
+color: pink
+range: 15
+---
+service: OpenSky-CAME659
+site: CAME659
+callsign: WQTJ700
+color: pink
+range: 15
+---
+service: OpenSky-CAME691
+site: CAME691
+callsign: WQTJ827
+color: pink
+range: 15
+---
+service: OpenSky-CAME692
+site: CAME692
+callsign: WQTJ821
+color: pink
+range: 15
+---
+service: OpenSky-CAME693
+site: CAME693
+callsign: WQTJ821
+color: pink
+range: 15
+---
+service: OpenSky-CAME694
+site: CAME694
+callsign: WQTJ821
 color: pink
 range: 15
 ---

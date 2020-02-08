@@ -1,0 +1,7 @@
+service: CAME03-POTT41
+type: link
+site: CAME03
+dest: POTT41
+color: black
+highlight: red
+callsign: WQPA936

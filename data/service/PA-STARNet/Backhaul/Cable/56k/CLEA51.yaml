@@ -1,0 +1,27 @@
+service: CLEA51-CAME641
+type: link
+site: CLEA51
+dest: CAME641
+color: blue
+class: minor
+---
+service: CLEA51-CAME692
+type: link
+site: CLEA51
+dest: CAME692
+color: blue
+class: minor
+---
+service: CLEA51-CAME659
+type: link
+site: CLEA51
+dest: CAME659
+color: blue
+class: minor
+---
+service: CLEA51-CAME612
+type: link
+site: CLEA51
+dest: CAME612
+color: blue
+class: minor
