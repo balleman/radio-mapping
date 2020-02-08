@@ -20,3 +20,15 @@ site: HUNT40
 dest: CENT09
 callsign: WPSJ863
 color: black
+---
+service: HUNT40-CENT607
+type: link
+site: HUNT40
+dest: CENT607
+color: dkorange
+---
+service: HUNT40-CENT60
+type: link
+site: HUNT40
+dest: CENT60
+color: dkorange

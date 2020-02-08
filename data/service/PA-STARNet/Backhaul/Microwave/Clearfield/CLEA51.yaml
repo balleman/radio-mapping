@@ -11,3 +11,15 @@ site: CLEA51
 dest: ELKC621
 class: minor
 callsign: WQSM403
+---
+service: CLEA51-CENT62
+type: link
+site: CLEA51
+dest: CENT62
+color: dkorange
+---
+service: CLEA51-CENT605
+type: link
+site: CLEA51
+dest: CENT605
+color: dkorange

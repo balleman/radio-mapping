@@ -1,0 +1,17 @@
+service: CENT08-MIFF66
+type: link
+site: CENT08
+dest: MIFF66
+color: dkorange
+---
+service: CENT08-CENT61
+type: link
+site: CENT08
+dest: CENT61
+color: dkorange
+---
+service: CENT08-CENT609
+type: link
+site: CENT08
+dest: CENT609
+color: dkorange

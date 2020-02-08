@@ -28,3 +28,9 @@ dest: HUNT40
 callsign: WPQP601
 color: black
 highlight: yellow
+---
+service: CENT16-CENT604
+type: link
+site: CENT16
+dest: CENT604
+color: dkorange

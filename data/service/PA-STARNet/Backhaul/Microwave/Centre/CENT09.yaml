@@ -1,0 +1,5 @@
+service: CENT09-CENT680
+type: link
+site: CENT09
+dest: CENT680
+color: dkorange

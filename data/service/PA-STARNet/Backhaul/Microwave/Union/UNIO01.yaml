@@ -4,3 +4,10 @@ site: UNIO01
 dest: SNYD02
 color: black
 callsign: WPWH548
+---
+service: UNIO01-CENT30
+type: link
+site: UNIO01
+dest: CENT30
+color: black
+highlight: red
