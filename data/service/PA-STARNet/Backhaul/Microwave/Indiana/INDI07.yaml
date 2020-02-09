@@ -11,9 +11,3 @@ site: INDI07
 dest: INDI31
 callsign: WPST213
 color: black
----
-service: INDI07-JEFF630
-type: link
-site: INDI07
-dest: JEFF630
-color: dkorange

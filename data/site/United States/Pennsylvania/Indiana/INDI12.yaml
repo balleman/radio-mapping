@@ -1,6 +1,7 @@
 site: INDI12
-name: INDI12
+name: Indiana
 loc:
         lat: 40.627777
         lon: -79.2252777
 type: tower
+asrn: 1027000

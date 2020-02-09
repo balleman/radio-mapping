@@ -1,0 +1,6 @@
+site: INDI62
+name: Route 403, Strongstown
+loc:
+        lat:  40.5625
+        lon: -78.91805555555555
+type: pole

@@ -1339,7 +1339,13 @@ range: 15
 ---
 service: OpenSky-INDI01
 site: INDI01
-callsign: WPEF504
+callsign: WPEF504, WQUB825
+color: pink
+range: 15
+---
+service: OpenSky-INDI07
+site: INDI07
+callsign: WQTM305
 color: pink
 range: 15
 ---
@@ -1352,6 +1358,60 @@ range: 15
 service: OpenSky-INDI12
 site: INDI12
 callsign: WQBL875
+color: pink
+range: 15
+---
+service: OpenSky-INDI31
+site: INDI31
+callsign: WQTI217
+color: pink
+range: 15
+---
+service: OpenSky-INDI60
+site: INDI60
+callsign: WQTI217
+color: pink
+range: 15
+---
+service: OpenSky-INDI61
+site: INDI61
+callsign: WQTI217
+color: pink
+range: 15
+---
+service: OpenSky-INDI62
+site: INDI62
+callsign: WQTI217
+color: pink
+range: 15
+---
+service: OpenSky-INDI64
+site: INDI64
+callsign: WQTY530
+color: pink
+range: 15
+---
+service: OpenSky-INDI630
+site: INDI630
+callsign: WQTK323
+color: pink
+range: 15
+---
+service: OpenSky-INDI690
+site: INDI690
+callsign: WQTE818
+color: pink
+range: 15
+---
+service: OpenSky-INDI691
+site: INDI691
+callsign: WQTE818
+color: pink
+range: 15
+---
+service: OpenSky-INDI693
+site: INDI693
+callsign: WQTK652
 color: pink
 range: 15
 ---

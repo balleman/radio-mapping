@@ -11,3 +11,17 @@ site: INDI12
 dest: ARMS692
 color: blue
 class: minor
+---
+service: INDI12-INDI690
+type: link
+site: INDI12
+dest: INDI690
+color: blue
+class: minor
+---
+service: INDI12-INDI691
+type: link
+site: INDI12
+dest: INDI691
+color: blue
+class: minor

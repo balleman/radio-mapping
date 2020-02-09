@@ -1,0 +1,6 @@
+service: CAMB01-INDI62
+type: link
+site: CAMB01
+dest: INDI62
+color: blue
+class: minor

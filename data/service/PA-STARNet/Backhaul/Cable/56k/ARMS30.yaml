@@ -25,3 +25,10 @@ site: ARMS30
 dest: ARMS649
 color: blue
 class: minor
+---
+service: ARMS30-INDI693
+type: link
+site: ARMS30
+dest: INDI693
+color: blue
+class: minor

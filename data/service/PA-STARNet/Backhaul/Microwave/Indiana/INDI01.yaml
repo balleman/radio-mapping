@@ -18,3 +18,15 @@ site: INDI01
 dest: INDI31
 callsign: WPST212
 color: black
+---
+service: INDI01-INDI61
+type: link
+site: INDI01
+dest: INDI61
+color: dkorange
+---
+service: INDI01-INDI60
+type: link
+site: INDI01
+dest: INDI60
+color: dkorange

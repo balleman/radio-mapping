@@ -18,3 +18,9 @@ site: INDI12
 dest: ARMS32
 callsign: WPTI426
 color: black
+---
+service: INDI12-INDI64
+type: link
+site: INDI12
+dest: INDI64
+color: dkorange
