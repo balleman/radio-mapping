@@ -1,6 +1,7 @@
 site: ARMS30
-name: ARMS30
+name: New Salem
 loc:
         lat: 40.993527
         lon: -79.222444
 type: tower
+asrn: 1230996

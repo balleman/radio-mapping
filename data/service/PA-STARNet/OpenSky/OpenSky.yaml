@@ -34,9 +34,93 @@ callsign: WQBK900
 color: pink
 range: 15
 ---
+service: OpenSky-ARMS01
+site: ARMS01
+callsign: WQTE736
+color: pink
+range: 15
+---
 service: OpenSky-ARMS30
 site: ARMS30
-callsign: WQBK903
+callsign: WQBK903, WQTE784
+color: pink
+range: 15
+---
+service: OpenSky-ARMS32
+site: ARMS32
+callsign: WQTE736
+color: pink
+range: 15
+---
+service: OpenSky-ARMS33
+site: ARMS33
+callsign: WQTE736
+color: pink
+range: 15
+---
+service: OpenSky-ARMS63
+site: ARMS63
+callsign: WQTE784
+color: pink
+range: 15
+---
+service: OpenSky-ARMS631
+site: ARMS631
+callsign: WQTE736
+color: pink
+range: 15
+---
+service: OpenSky-ARMS633
+site: ARMS633
+callsign: WQTE818
+color: pink
+range: 15
+---
+service: OpenSky-ARMS634
+site: ARMS634
+callsign: WQTE736
+color: pink
+range: 15
+---
+service: OpenSky-ARMS635
+site: ARMS635
+callsign: WQTE810
+color: pink
+range: 15
+---
+service: OpenSky-ARMS636
+site: ARMS636
+callsign: WQTE808
+color: pink
+range: 15
+---
+service: OpenSky-ARMS649
+site: ARMS649
+callsign: WQTE784
+color: pink
+range: 15
+---
+service: OpenSky-ARMS680
+site: ARMS680
+callsign: WQTE784
+color: pink
+range: 15
+---
+service: OpenSky-ARMS690
+site: ARMS690
+callsign: WQTE856
+color: pink
+range: 15
+---
+service: OpenSky-ARMS692
+site: ARMS692
+callsign: WQTE810
+color: pink
+range: 15
+---
+service: OpenSky-ARMS694
+site: ARMS694
+callsign: WQTE818
 color: pink
 range: 15
 ---
@@ -91,6 +175,18 @@ range: 15
 service: OpenSky-BEDF602
 site: BEDF602
 callsign: WQTF956
+color: pink
+range: 15
+---
+service: OpenSky-BEDF603
+site: BEDF603
+callsign: WQTE784
+color: pink
+range: 15
+---
+service: OpenSky-BEDF604
+site: BEDF604
+callsign: WQTE808
 color: pink
 range: 15
 ---

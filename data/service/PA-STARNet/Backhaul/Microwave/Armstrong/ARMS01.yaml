@@ -1,0 +1,5 @@
+service: ARMS01-ARMS680
+type: link
+site: ARMS01
+dest: ARMS680
+color: dkorange

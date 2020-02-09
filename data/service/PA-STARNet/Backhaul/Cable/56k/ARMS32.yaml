@@ -1,0 +1,13 @@
+service: ARMS32-ARMS635
+type: link
+site: ARMS32
+dest: ARMS635
+color: blue
+class: minor
+---
+service: ARMS32-ARMS696
+type: link
+site: ARMS32
+dest: ARMS696
+color: blue
+class: minor

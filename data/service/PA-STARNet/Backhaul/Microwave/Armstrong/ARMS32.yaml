@@ -18,3 +18,16 @@ site: ARMS32
 dest: INDI12
 callsign: WPUX754
 color: black
+---
+service: ARMS32-ARMS633
+type: link
+site: ARMS32
+dest: ARMS633
+color: dkorange
+---
+service: ARMS32-ARMS01
+type: link
+site: ARMS32
+dest: ARMS01
+color: black
+highlight: red

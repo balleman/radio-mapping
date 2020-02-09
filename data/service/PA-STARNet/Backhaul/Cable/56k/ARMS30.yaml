@@ -4,3 +4,24 @@ site: ARMS30
 dest: JEFF694
 color: blue
 class: minor
+---
+service: ARMS30-ARMS690
+type: link
+site: ARMS30
+dest: ARMS690
+color: blue
+class: minor
+---
+service: ARMS30-ARMS694
+type: link
+site: ARMS30
+dest: ARMS694
+color: blue
+class: minor
+---
+service: ARMS30-ARMS649
+type: link
+site: ARMS30
+dest: ARMS649
+color: blue
+class: minor
