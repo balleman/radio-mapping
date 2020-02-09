@@ -1,0 +1,5 @@
+service: BUTL94-BUTL635
+type: link
+site: BUTL94
+dest: BUTL635
+color: black

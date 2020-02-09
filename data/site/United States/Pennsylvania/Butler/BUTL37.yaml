@@ -1,6 +1,7 @@
 site: BUTL37
-name: BUTL37
+name: Billsburg Boulevard, Slippery Rock
 loc:
-        lat: 40.995055
-        lon: -80.123805
+        lat: 40.995194444444444
+        lon: -80.12366666666667
 type: tower
+asrn: 1026003

@@ -1,0 +1,5 @@
+service: LAWR06-BUTL633
+type: link
+site: LAWR06
+dest: BUTL633
+color: dkorange

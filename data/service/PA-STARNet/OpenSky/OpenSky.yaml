@@ -298,15 +298,87 @@ callsign: WQBK917
 color: pink
 range: 15
 ---
+service: OpenSky-BUTL35
+site: BUTL35
+callsign: WQTE821
+color: pink
+range: 15
+---
+service: OpenSky-BUTL36
+site: BUTL36
+callsign: WQTI215
+color: pink
+range: 15
+---
+service: OpenSky-BUTL37
+site: BUTL37
+callsign: WQTF963
+color: pink
+range: 15
+---
 service: OpenSky-BUTL90
 site: BUTL90
 callsign: WQBL292
 color: pink
 range: 15
 ---
+service: OpenSky-BUTL91
+site: BUTL91
+callsign: WQBL293
+color: pink
+range: 15
+---
 service: OpenSky-BUTL94
 site: BUTL94
 callsign: WQBL294
+color: pink
+range: 15
+---
+service: OpenSky-BUTL615
+site: BUTL615
+callsign: WQTF963
+color: pink
+range: 15
+---
+service: OpenSky-BUTL616
+site: BUTL616
+callsign: WQTF963
+color: pink
+range: 15
+---
+service: OpenSky-BUTL617
+site: BUTL617
+callsign: WQTF963
+color: pink
+range: 15
+---
+service: OpenSky-BUTL633
+site: BUTL633
+callsign: WQTF963
+color: pink
+range: 15
+---
+service: OpenSky-BUTL635
+site: BUTL635
+callsign: WQTI215
+color: pink
+range: 15
+---
+service: OpenSky-BUTL636
+site: BUTL636
+callsign: WQTF963
+color: pink
+range: 15
+---
+service: OpenSky-BUTL637
+site: BUTL637
+callsign: WQTE810
+color: pink
+range: 15
+---
+service: OpenSky-BUTL688
+site: BUTL688
+callsign: WQTQ742
 color: pink
 range: 15
 ---

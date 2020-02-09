@@ -20,3 +20,16 @@ site: BUTL03
 dest: ARMS32
 callsign: WPTG651
 color: black
+---
+service: BUTL03-BUTL91
+type: link
+site: BUTL03
+dest: BUTL91
+color: black
+highlight: red
+---
+service: BUTL03-BUTL636
+type: link
+site: BUTL03
+dest: BUTL636
+color: dkorange

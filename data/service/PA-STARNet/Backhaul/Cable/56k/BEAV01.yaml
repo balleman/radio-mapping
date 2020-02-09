@@ -1,0 +1,6 @@
+service: BEAV01-BUTL616
+type: link
+site: BEAV01
+dest: BUTL616
+color: blue
+class: minor

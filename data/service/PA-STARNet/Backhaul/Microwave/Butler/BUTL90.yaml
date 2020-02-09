@@ -27,3 +27,9 @@ site: BUTL90
 dest: BEAV01
 callsign: WPTD550
 color: black
+---
+service: BUTL90-BUTL637
+type: link
+site: BUTL90
+dest: BUTL637
+color: dkorange
