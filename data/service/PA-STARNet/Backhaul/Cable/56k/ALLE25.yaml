@@ -1,13 +1,48 @@
-service: ADAM40-ADAM690
+service: ALLE25-ALLE690
 type: link
-site: ADAM40
-dest: ADAM690
+site: ALLE25
+dest: ALLE690
 color: blue
 class: minor
 ---
-service: ADAM40-ADAM60
+service: ALLE25-ALLE691
 type: link
-site: ADAM40
-dest: ADAM60
+site: ALLE25
+dest: ALLE691
+color: blue
+class: minor
+---
+service: ALLE25-ALLE692
+type: link
+site: ALLE25
+dest: ALLE692
+color: blue
+class: minor
+---
+service: ALLE25-ALLE60
+type: link
+site: ALLE25
+dest: ALLE60
+color: blue
+class: minor
+---
+service: ALLE25-ALLE63
+type: link
+site: ALLE25
+dest: ALLE63
+color: blue
+class: minor
+---
+service: ALLE25-ALLE605
+type: link
+site: ALLE25
+dest: ALLE605
+color: blue
+class: minor
+---
+service: ALLE25-ALLE69
+type: link
+site: ALLE25
+dest: ALLE69
 color: blue
 class: minor

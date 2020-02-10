@@ -9,3 +9,45 @@ type: link
 site: ALLE28
 dest: BUTL615
 color: dkorange
+---
+service: ALLE28-WEST03
+type: link
+site: ALLE28
+dest: WEST03
+color: black
+highlight: yellow
+callsign: WPUD403
+---
+service: ALLE28-BEAV02
+type: link
+site: ALLE28
+dest: BEAV02
+color: black
+callsign: WPUD403
+---
+service: ALLE28-BEAV05
+type: link
+site: ALLE28
+dest: BEAV05
+color: black
+callsign: WPUD403
+---
+service: ALLE28-BUTL90
+type: link
+site: ALLE28
+dest: BUTL90
+color: black
+highlight: yellow
+callsign: WPUD403
+---
+service: ALLE28-BEAV60
+type: link
+site: ALLE28
+dest: BEAV60
+color: dkorange
+---
+service: ALLE28-ALLE611
+type: link
+site: ALLE28
+dest: ALLE611
+color: dkorange

@@ -1,0 +1,22 @@
+service: PTC-SALEMCHURCH-GIBSONIA
+type: link
+site: PTC-SALEMCHURCH
+dest: PTC-GIBSONIA
+color: green
+callsign: WPQT855
+---
+service: PTC-SALEMCHURCH-THOMPSONRUN
+type: link
+site: PTC-SALEMCHURCH
+dest: PTC-THOMPSONRUN
+color: green
+highlight: yellow
+callsign: WPQT855
+---
+service: PTC-SALEMCHURCH-BEACON
+type: link
+site: PTC-SALEMCHURCH
+dest: PTC-BEACON
+color: green
+highlight: yellow
+callsign: WPQT855

@@ -1,0 +1,5 @@
+service: ROC2-ALLE76
+type: link
+site: ROC-2
+dest: ALLE76
+color: gray

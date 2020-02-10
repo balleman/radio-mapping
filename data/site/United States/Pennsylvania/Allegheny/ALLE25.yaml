@@ -1,8 +1,9 @@
 site: ALLE25
 name: West Mifflin
-alias:
+aliases:
   - PTC-HAMPTON
 loc:
         lat: 40.32917
         lon: -79.93
 type: tower
+asrn: 1061525

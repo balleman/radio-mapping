@@ -1,0 +1,32 @@
+service: ALLE21-ALLE41
+type: link
+site: ALLE21
+dest: ALLE41
+color: black
+callsign: WQFG233
+---
+service: ALLE21-WEST03
+type: link
+site: ALLE21
+dest: WEST03
+color: black
+callsign: WQFG233, WQFG829
+---
+service: ALLE21-ALLE59
+type: link
+site: ALLE21
+dest: ALLE59
+color: black
+callsign: WQFG233, WQFG340
+---
+service: ALLE21-ALLE634
+type: link
+site: ALLE21
+dest: ALLE634
+color: dkorange
+---
+service: ALLE21-ALLE66
+type: link
+site: ALLE21
+dest: ALLE66
+color: dkorange

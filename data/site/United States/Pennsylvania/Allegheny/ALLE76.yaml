@@ -1,7 +1,6 @@
 site: ALLE76
 name: State Office Building
-# Believe this is wrong
 loc:
-        lat: 40.329166
-        lon: -79.929999
-type: tower
+  lat: 40.440555555555555
+  lon: -80.00583333333333
+type: building

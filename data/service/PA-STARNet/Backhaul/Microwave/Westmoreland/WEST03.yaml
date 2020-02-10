@@ -61,3 +61,15 @@ type: link
 site: WEST03
 dest: WEST66
 color: dkorange
+---
+service: WEST03-ALLE61
+type: link
+site: WEST03
+dest: ALLE61
+color: dkorange
+---
+service: WEST03-ALLE633
+type: link
+site: WEST03
+dest: ALLE633
+color: dkorange

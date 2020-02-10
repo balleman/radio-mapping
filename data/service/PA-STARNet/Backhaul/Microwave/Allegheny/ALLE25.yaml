@@ -3,3 +3,27 @@ type: link
 site: ALLE25
 dest: WEST67
 color: dkorange
+---
+service: ALLE25-ALLE613
+type: link
+site: ALLE25
+dest: ALLE613
+color: dkorange
+---
+service: ALLE25-WEST632
+type: link
+site: ALLE25
+dest: ALLE632
+color: dkorange
+---
+service: ALLE25-ALLE68
+type: link
+site: ALLE25
+dest: ALLE68
+color: dkorange
+---
+service: PTC-HAMPTON-MFENBARRIER
+type: link
+site: PTC-HAMPTON
+dest: PTC-MFENBARRIER
+color: green

@@ -22,15 +22,195 @@ callsign: WPQG264
 color: pink
 range: 15
 ---
+service: OpenSky-ALLE21
+site: ALLE21
+callsign: WQTS270, WRAD357
+color: pink
+range: 15
+---
+service: OpenSky-ALLE22
+site: ALLE22
+callsign: WQTS270
+color: pink
+range: 15
+---
 service: OpenSky-ALLE25
 site: ALLE25
-callsign: WPWS615
+callsign: WPWS615, WRAD357
 color: pink
 range: 15
 ---
 service: OpenSky-ALLE28
 site: ALLE28
 callsign: WQBK900
+color: pink
+range: 15
+---
+service: OpenSky-ALLE41
+site: ALLE41
+callsign: WQTS270, WRAD357
+color: pink
+range: 15
+---
+service: OpenSky-ALLE59
+site: ALLE59
+callsign: WQTS270, WRAD370
+color: pink
+range: 15
+---
+service: OpenSky-ALLE60
+site: ALLE60
+callsign: WQTS270
+color: pink
+range: 15
+---
+service: OpenSky-ALLE61
+site: ALLE61
+callsign: WQTL312
+color: pink
+range: 15
+---
+service: OpenSky-ALLE62
+site: ALLE62
+callsign: WQTG883
+color: pink
+range: 15
+---
+service: OpenSky-ALLE63
+site: ALLE63
+callsign: WQTG883
+color: pink
+range: 15
+---
+service: OpenSky-ALLE66
+site: ALLE66
+callsign: WQTF865
+color: pink
+range: 15
+---
+service: OpenSky-ALLE67
+site: ALLE67
+callsign: WQTF865, WRAD370
+color: pink
+range: 15
+---
+service: OpenSky-ALLE68
+site: ALLE68
+callsign: WQTF865
+color: pink
+range: 15
+---
+service: OpenSky-ALLE76
+site: ALLE76
+callsign: WQTS270, WQTS271
+color: pink
+range: 15
+---
+service: OpenSky-ALLE601
+site: ALLE601
+callsign: WQTE770, WRAD370
+color: pink
+range: 15
+---
+service: OpenSky-ALLE605
+site: ALLE605
+callsign: WQBK899
+color: pink
+range: 15
+---
+service: OpenSky-ALLE607
+site: ALLE607
+callsign: WQTE458
+color: pink
+range: 15
+---
+service: OpenSky-ALLE609
+site: ALLE609
+callsign: WQTE770
+color: pink
+range: 15
+---
+service: OpenSky-ALLE611
+site: ALLE611
+callsign: WQTE770
+color: pink
+range: 15
+---
+service: OpenSky-ALLE612
+site: ALLE612
+callsign: WQTE770
+color: pink
+range: 15
+---
+service: OpenSky-ALLE613
+site: ALLE613
+callsign: WQTE770
+color: pink
+range: 15
+---
+service: OpenSky-ALLE631
+site: ALLE631
+callsign: WQTG883
+color: pink
+range: 15
+---
+service: OpenSky-ALLE632
+site: ALLE632
+callsign: WQTG883
+color: pink
+range: 15
+---
+service: OpenSky-ALLE633
+site: ALLE633
+callsign: WQTG883
+color: pink
+range: 15
+---
+service: OpenSky-ALLE634
+site: ALLE634
+callsign: WQTG883
+color: pink
+range: 15
+---
+service: OpenSky-ALLE635
+site: ALLE635
+callsign: WQTF865
+color: pink
+range: 15
+---
+service: OpenSky-ALLE636
+site: ALLE636
+callsign: WQTF865
+color: pink
+range: 15
+---
+service: OpenSky-ALLE637
+site: ALLE637
+callsign: WQTQ742
+color: pink
+range: 15
+---
+service: OpenSky-ALLE690
+site: ALLE690
+callsign: WQTQ742
+color: pink
+range: 1
+---
+service: OpenSky-ALLE691
+site: ALLE691
+callsign: WQTQ742
+color: pink
+range: 1
+---
+service: OpenSky-ALLE692
+site: ALLE692
+callsign: WQTQ742
+color: pink
+range: 1
+---
+service: OpenSky-ALLE69
+site: ALLE69
+callsign: WQTF865
 color: pink
 range: 15
 ---
@@ -139,6 +319,12 @@ range: 15
 service: OpenSky-BEAV02
 site: BEAV02
 callsign: WPZT563
+color: pink
+range: 15
+---
+service: OpenSky-BEAV60
+site: BEAV60
+callsign: WQTY514
 color: pink
 range: 15
 ---

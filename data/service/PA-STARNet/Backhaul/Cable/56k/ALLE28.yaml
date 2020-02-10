@@ -1,0 +1,20 @@
+service: ALLE28-ALLE635
+type: link
+site: ALLE28
+dest: ALLE635
+color: blue
+class: minor
+---
+service: ALLE28-BUTL617
+type: link
+site: ALLE28
+dest: BUTL617
+color: blue
+class: minor
+---
+service: ALLE28-ALLE607
+type: link
+site: ALLE28
+dest: ALLE607
+color: blue
+class: minor

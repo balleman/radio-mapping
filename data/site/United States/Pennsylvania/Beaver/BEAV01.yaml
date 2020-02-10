@@ -4,3 +4,5 @@ loc:
         lat:  40.80194
         lon: -80.28611
 type: tower
+aliases:
+  - PTC-THOMPSONRUN

@@ -1,0 +1,13 @@
+service: ALLE601-BEAV02
+type: link
+site: ALLE601
+dest: BEAV02
+color: black
+callsign: WRBT978
+---
+service: ALLE601-ALLE67
+type: link
+site: ALLE601
+dest: ALLE67
+color: black
+callsign: WRBT978

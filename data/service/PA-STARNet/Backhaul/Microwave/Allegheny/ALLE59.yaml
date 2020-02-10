@@ -1,0 +1,13 @@
+service: ALLE59-ALLE22
+type: link
+site: ALLE59
+dest: ALLE22
+color: black
+callsign: WQFG338
+---
+service: ALLE59-ALLE21
+type: link
+site: ALLE59
+dest: ALLE21
+color: black
+callsign: WQFG338

@@ -1,0 +1,13 @@
+service: PTC-GIBSONIA-ALLE609
+type: link
+site: PTC-GIBSONIA
+dest: ALLE609
+color: blue
+class: minor
+---
+service: PTC-GIBSONIA-ALLE62
+type: link
+site: PTC-GIBSONIA
+dest: ALLE62
+color: blue
+class: minor

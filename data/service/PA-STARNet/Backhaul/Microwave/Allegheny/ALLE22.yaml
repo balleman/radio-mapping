@@ -1,0 +1,11 @@
+service: ALLE22-ALLE631
+type: link
+site: ALLE22
+dest: ALLE631
+color: dkorange
+---
+service: ALLE22-ALLE612
+type: link
+site: ALLE22
+dest: ALLE612
+color: dkorange
