@@ -1,0 +1,6 @@
+service: COLU911-CATAWISSAMT
+type: link
+site: COLU911
+dest: CATAWISSAMT
+callsign: WRDW361
+color: black

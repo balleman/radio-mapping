@@ -1,0 +1,20 @@
+service: CATAWISSAMT-COLU01
+type: link
+site: CATAWISSAMT
+dest: COLU01
+callsign: WRDW365
+color: black
+---
+service: CATAWISSAMT-HUNTINGTONM
+type: link
+site: CATAWISSAMT
+dest: HUNTINGTONM
+callsign: WRDW365
+color: black
+---
+service: CATAWISSAMT-COLU911
+type: link
+site: CATAWISSAMT
+dest: COLU911
+callsign: WRDW365
+color: black

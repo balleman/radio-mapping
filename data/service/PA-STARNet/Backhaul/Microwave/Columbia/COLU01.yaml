@@ -1,0 +1,21 @@
+service: COLU01-MONT01
+type: link
+site: COLU01
+dest: MONT01
+callsign: WPSS418
+color: black
+---
+service: COLU01-CATAWISSAMT
+type: link
+site: COLU01
+dest: CATAWISSAMT
+callsign: WPSS418
+color: black
+---
+service: COLU01-COLU63
+type: link
+site: COLU01
+dest: COLU63
+callsign: WQSL492
+color: black
+class: minor

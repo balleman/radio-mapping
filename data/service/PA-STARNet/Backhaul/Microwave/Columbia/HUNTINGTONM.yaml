@@ -1,0 +1,13 @@
+service: HUNTINGTONM-LUZE06
+type: link
+site: HUNTINGTONM
+dest: LUZE06
+callsign: WRDW367
+color: black
+---
+service: HUNTINGTONM-CATAWISSAMT
+type: link
+site: HUNTINGTONM
+dest: CATAWISSAMT
+callsign: WRDW367
+color: black

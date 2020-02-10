@@ -1114,6 +1114,30 @@ callsign: WPZU957
 color: pink
 range: 15
 ---
+service: OpenSky-COLU01
+site: COLU01
+callsign: WPWU453
+color: pink
+range: 15
+---
+service: OpenSky-COLU02
+site: COLU02
+callsign: WPWU452
+color: pink
+range: 15
+---
+service: OpenSky-COLU63
+site: COLU63
+callsign: WQTX908
+color: pink
+range: 15
+---
+service: OpenSky-COLU64
+site: COLU64
+callsign: WQWQ416
+color: pink
+range: 15
+---
 service: OpenSky-CRAW01
 site: CRAW01
 callsign: WQBN816
