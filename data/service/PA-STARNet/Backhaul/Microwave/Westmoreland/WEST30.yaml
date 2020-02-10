@@ -5,3 +5,9 @@ dest: CAMB02
 callsign: WPTX983
 color: black
 highlight: yellow
+---
+service: WEST30-WEST64
+type: link
+site: WEST30
+dest: WEST64
+color: dkorange

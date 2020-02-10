@@ -55,3 +55,9 @@ dest: PTC-SALEMCHURCH
 color: green
 highlight: yellow
 callsign: KGC70
+---
+service: WEST03-WEST66
+type: link
+site: WEST03
+dest: WEST66
+color: dkorange

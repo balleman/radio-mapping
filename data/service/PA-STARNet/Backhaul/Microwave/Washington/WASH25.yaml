@@ -1,0 +1,5 @@
+service: WASH25-WEST603
+type: link
+site: WASH25
+dest: WEST603
+color: dkorange

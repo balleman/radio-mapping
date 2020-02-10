@@ -1,0 +1,11 @@
+service: ALLE41-WEST630
+type: link
+site: ALLE41
+dest: WEST630
+color: dkorange
+---
+service: ALLE41-ALLE21
+type: link
+site: ALLE41
+dest: ALLE21
+color: black

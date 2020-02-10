@@ -1,6 +1,9 @@
-site: PTC-RODNEY
-name: PTC-RODNEY
+site: WEST04
+name: Rodney
+aliases:
+  - PTC-RODNEY
 loc:
         lat: 40.165916
         lon: -79.40475
 type: tower
+asrn: 1026850

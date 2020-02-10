@@ -3,3 +3,9 @@ type: link
 site: ARMS33
 dest: ARMS634
 color: dkorange
+---
+service: ARMS33-WEST61
+type: link
+site: ARMS33
+dest: WEST61
+color: dkorange

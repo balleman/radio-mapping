@@ -1,0 +1,5 @@
+service: ALLE25-WEST67
+type: link
+site: ALLE25
+dest: WEST67
+color: dkorange

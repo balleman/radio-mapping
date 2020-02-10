@@ -2845,7 +2845,103 @@ range: 15
 ---
 service: OpenSky-WEST03
 site: WEST03
-callsign: WQTM395
+callsign: WQTM395, WQBL882
+color: pink
+range: 15
+---
+service: OpenSky-WEST04
+site: WEST04
+callsign: WPWD598
+color: pink
+range: 15
+---
+service: OpenSky-WEST07
+site: WEST07
+callsign: WPZU935
+color: pink
+range: 15
+---
+service: OpenSky-WEST30
+site: WEST30
+callsign: WQBL883, WQTN868
+color: pink
+range: 15
+---
+service: OpenSky-WEST60
+site: WEST60
+callsign: WQTM456
+color: pink
+range: 15
+---
+service: OpenSky-WEST602
+site: WEST602
+callsign: WQTM456
+color: pink
+range: 15
+---
+service: OpenSky-WEST603
+site: WEST603
+callsign: WQTM456
+color: pink
+range: 15
+---
+service: OpenSky-WEST605
+site: WEST605
+callsign: WQTM456
+color: pink
+range: 15
+---
+service: OpenSky-WEST607
+site: WEST607
+callsign: WQTM456
+color: pink
+range: 15
+---
+service: OpenSky-WEST61
+site: WEST61
+callsign: WQTM456
+color: pink
+range: 15
+---
+service: OpenSky-WEST62
+site: WEST62
+callsign: WQTM305
+color: pink
+range: 15
+---
+service: OpenSky-WEST64
+site: WEST64
+callsign: WQTM305
+color: pink
+range: 15
+---
+service: OpenSky-WEST65
+site: WEST65
+callsign: WQTM305
+color: pink
+range: 15
+---
+service: OpenSky-WEST66
+site: WEST66
+callsign: WQTM305
+color: pink
+range: 15
+---
+service: OpenSky-WEST67
+site: WEST67
+callsign: WQTM305
+color: pink
+range: 15
+---
+service: OpenSky-WEST630
+site: WEST630
+callsign: WQTK959
+color: pink
+range: 15
+---
+service: OpenSky-WEST653
+site: WEST653
+callsign: WQTE808
 color: pink
 range: 15
 ---

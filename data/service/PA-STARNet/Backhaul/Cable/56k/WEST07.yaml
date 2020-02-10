@@ -1,0 +1,13 @@
+service: WEST07-WEST605
+type: link
+site: WEST07
+dest: WEST605
+color: blue
+class: minor
+---
+service: WEST07-WEST62
+type: link
+site: WEST07
+dest: WEST62
+color: blue
+class: minor

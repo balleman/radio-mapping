@@ -3,3 +3,18 @@ type: link
 site: WEST07
 dest: WEST911
 callsign: WQSL436
+color: black
+---
+service: WEST07-PTC-AKH
+type: link
+site: WEST07
+dest: PTC-AKH
+color: black
+highlight: red
+---
+service: WEST07-WEST602
+type: link
+site: WEST07
+dest: WEST602
+color: dkorange
+class: minor

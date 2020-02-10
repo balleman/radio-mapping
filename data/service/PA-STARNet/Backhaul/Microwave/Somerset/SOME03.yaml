@@ -40,3 +40,10 @@ dest: PTC-RODNEY
 color: green
 highlight: yellow
 callsign: KGC69
+---
+service: SOME03-WEST653
+type: link
+site: SOME03
+dest: WEST653
+color: dkorange
+class: minor

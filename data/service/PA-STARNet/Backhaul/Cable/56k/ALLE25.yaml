@@ -1,0 +1,13 @@
+service: ADAM40-ADAM690
+type: link
+site: ADAM40
+dest: ADAM690
+color: blue
+class: minor
+---
+service: ADAM40-ADAM60
+type: link
+site: ADAM40
+dest: ADAM60
+color: blue
+class: minor
