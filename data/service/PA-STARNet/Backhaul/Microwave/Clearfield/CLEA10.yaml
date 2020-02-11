@@ -1,0 +1,5 @@
+service: CLEA10-CLEA630
+type: link
+site: CLEA10
+dest: CLEA630
+color: dkorange

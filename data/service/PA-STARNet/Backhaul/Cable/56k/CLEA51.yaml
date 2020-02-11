@@ -25,3 +25,10 @@ site: CLEA51
 dest: CAME612
 color: blue
 class: minor
+---
+service: CLEA51-CLEA60
+type: link
+site: CLEA51
+dest: CLEA60
+color: blue
+class: minor

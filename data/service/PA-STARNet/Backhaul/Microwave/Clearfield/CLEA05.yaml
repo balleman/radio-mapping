@@ -11,3 +11,9 @@ site: CLEA05
 dest: CENT04
 callsign: WPST214
 color: black
+---
+service: CLEA05-CLEA690
+type: link
+site: CLEA05
+dest: CLEA690
+color: dkorange

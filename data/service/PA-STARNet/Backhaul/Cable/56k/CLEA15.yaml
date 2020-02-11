@@ -1,0 +1,6 @@
+service: CLEA15-CLEA602
+type: link
+site: CLEA15
+dest: CLEA602
+color: blue
+class: minor

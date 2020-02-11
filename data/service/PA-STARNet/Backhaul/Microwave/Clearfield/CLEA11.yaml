@@ -1,0 +1,6 @@
+service: CLEA11-CLEA10
+type: link
+site: CLEA11
+dest: CLEA10
+color: black
+highlight: red

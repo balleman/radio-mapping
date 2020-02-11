@@ -21,3 +21,10 @@ dest: CLEA51
 callsign: WPQZ546
 color: black
 highlight: red
+---
+service: CLEA01-CLEA11
+type: link
+site: CLEA01
+dest: CLEA11
+color: black
+highlight: red

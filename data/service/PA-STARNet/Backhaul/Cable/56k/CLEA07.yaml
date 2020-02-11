@@ -25,3 +25,17 @@ site: CLEA07
 dest: CAME648
 color: blue
 class: minor
+---
+service: CLEA07-CLEA604
+type: link
+site: CLEA07
+dest: CLEA604
+color: blue
+class: minor
+---
+service: CLEA07-CLEA631
+type: link
+site: CLEA07
+dest: CLEA631
+color: blue
+class: minor

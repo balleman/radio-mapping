@@ -1,6 +1,7 @@
 site: CLEA01
-name: CLEA01
+name: Clearfield
 loc:
         lat: 41.148666
         lon: -78.334444
 type: tower
+asrn: 1205200

@@ -4,6 +4,7 @@ site: CLEA51
 dest: CLEA640
 class: minor
 callsign: WQSM403
+color: black
 ---
 service: CLEA51-ELKC621
 type: link
@@ -11,6 +12,7 @@ site: CLEA51
 dest: ELKC621
 class: minor
 callsign: WQSM403
+color: black
 ---
 service: CLEA51-CENT62
 type: link

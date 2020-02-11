@@ -34,3 +34,9 @@ site: CLEA07
 dest: POTT696
 color: gray
 class: minor
+---
+service: CLEA07-CLEA61
+type: link
+site: CLEA07
+dest: CLEA61
+color: dkorange

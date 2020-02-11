@@ -1,0 +1,6 @@
+service: CLEA10-CLEA63
+type: link
+site: CLEA10
+dest: CLEA63
+color: blue
+class: minor
