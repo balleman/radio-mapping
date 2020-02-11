@@ -376,6 +376,12 @@ callsign: WQTE808
 color: pink
 range: 15
 ---
+service: OpenSky-BEDF605
+site: BEDF605
+callsign: WQTF958
+color: pink
+range: 15
+---
 service: OpenSky-BEDF630
 site: BEDF630
 callsign: WQTE856
@@ -385,6 +391,12 @@ range: 15
 service: OpenSky-BEDF691
 site: BEDF691
 callsign: WQTS271
+color: pink
+range: 15
+---
+service: OpenSky-BEDF692
+site: BEDF692
+callsign: WQTF958
 color: pink
 range: 15
 ---
@@ -1337,8 +1349,104 @@ callsign: WQNS802
 color: pink
 range: 15
 ---
+service: OpenSky-ELKC03
+site: ELKC03
+callsign: WQZU934, WQTK334
+color: pink
+range: 15
+---
+service: OpenSky-ELKC04
+site: ELKC04
+callsign: WPZT936
+color: pink
+range: 15
+---
+service: OpenSky-ELKC09
+site: ELKC09
+callsign: WQTQ920
+color: pink
+range: 15
+---
+service: OpenSky-ELKC38
+site: ELKC38
+callsign: WPZV480
+color: pink
+range: 15
+---
+service: OpenSky-ELKC53
+site: ELKC53
+callsign: WQBL870
+color: pink
+range: 15
+---
+service: OpenSky-ELKC608
+site: ELKC608
+callsign: WQTQ920
+color: pink
+range: 15
+---
+service: OpenSky-ELKC613
+site: ELKC613
+callsign: WQTE458, WQTT765
+color: pink
+range: 15
+---
+service: OpenSky-ELKC614
+site: ELKC614
+callsign: WQTF957
+color: pink
+range: 15
+---
+service: OpenSky-ELKC687
+site: ELKC687
+callsign: WQTK390
+color: pink
+range: 15
+---
+service: OpenSky-ELKC690
+site: ELKC690
+callsign: WQTK323
+color: pink
+range: 15
+---
+service: OpenSky-ELKC691
+site: ELKC691
+callsign: WQTF958
+color: pink
+range: 15
+---
+service: OpenSky-ELKC692
+site: ELKC692
+callsign: WQTE811
+color: pink
+range: 15
+---
+service: OpenSky-ELKC693
+site: ELKC693
+callsign: WQTK390
+color: pink
+range: 15
+---
 service: OpenSky-ELKC694
 site: ELKC694
+callsign: WQTE811
+color: pink
+range: 15
+---
+service: OpenSky-ELKC695
+site: ELKC695
+callsign: WQTJ821
+color: pink
+range: 15
+---
+service: OpenSky-ELKC696
+site: ELKC696
+callsign: WQTJ821
+color: pink
+range: 15
+---
+service: OpenSky-ELKC697
+site: ELKC697
 callsign: WQTE811
 color: pink
 range: 15

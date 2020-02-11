@@ -32,3 +32,10 @@ site: CLEA51
 dest: CLEA60
 color: blue
 class: minor
+---
+service: CLEA51-ELKC692
+type: link
+site: CLEA51
+dest: ELKC692
+color: blue
+class: minor

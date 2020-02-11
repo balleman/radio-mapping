@@ -1,5 +1,5 @@
 site: ELKC09
-name: ELKC09
+name: Terra Cotta Street, Johnsonburg
 aliases: 
   - ELKC56
   - NOC-2
@@ -7,3 +7,4 @@ loc:
         lat: 41.482222 
         lon: -78.687083 
 type: tower
+asrn: 1242592

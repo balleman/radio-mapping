@@ -74,3 +74,45 @@ site: ELKC53
 dest: CAME624
 color: blue
 class: minor
+---
+service: ELKC53-ELKC608
+type: link
+site: ELKC53
+dest: ELKC608
+color: blue
+class: minor
+---
+service: ELKC53-ELKC690
+type: link
+site: ELKC53
+dest: ELKC690
+color: blue
+class: minor
+---
+service: ELKC53-ELKC693
+type: link
+site: ELKC53
+dest: ELKC693
+color: blue
+class: minor
+---
+service: ELKC53-ELKC694
+type: link
+site: ELKC53
+dest: ELKC694
+color: blue
+class: minor
+---
+service: ELKC53-ELKC696
+type: link
+site: ELKC53
+dest: ELKC696
+color: blue
+class: minor
+---
+service: ELKC53-ELKC697
+type: link
+site: ELKC53
+dest: ELKC697
+color: blue
+class: minor
