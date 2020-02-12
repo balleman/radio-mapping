@@ -1,7 +1,7 @@
 service: NOC-Primary
 type: noc
-site: DAUP31
+site: NOC-1
 ---
 service: NOC-Secondary
 type: noc
-site: ELKC56
+site: NOC-2

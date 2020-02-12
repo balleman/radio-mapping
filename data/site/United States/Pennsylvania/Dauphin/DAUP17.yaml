@@ -1,8 +1,10 @@
 site: DAUP17
-name: Harrisburg
+name: One Technology Park, Harrisburg
 aliases:
   - DAUP78
   - ROC-7
+  - NOC-1
+  - DAUP51
 loc:
         lat: 40.28758
         lon: -76.87858 

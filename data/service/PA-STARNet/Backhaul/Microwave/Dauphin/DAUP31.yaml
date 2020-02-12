@@ -19,8 +19,7 @@ type: link
 site: DAUP31
 dest: DAUP81
 callsign: WPQR249
-color: orange
-class: minor
+color: black
 ---
 service: DAUP31-LEBA74
 type: link
@@ -49,3 +48,9 @@ type: link
 site: DAUP31
 dest: BERK30
 color: purple
+---
+service: DAUP31-DAUP680
+type: link
+site: DAUP31
+dest: DAUP680
+color: dkorange

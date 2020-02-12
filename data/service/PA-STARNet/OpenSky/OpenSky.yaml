@@ -1279,7 +1279,7 @@ range: 15
 ---
 service: OpenSky-DAUP01
 site: DAUP01
-callsign: WPQG332
+callsign: WPQG332, WRAD754
 color: pink
 range: 15
 ---
@@ -1301,9 +1301,21 @@ callsign: WPGX763
 color: pink
 range: 15
 ---
+service: OpenSky-DAUP36
+site: DAUP36
+callsign: WQWQ414
+color: pink
+range: 15
+---
 service: OpenSky-DAUP37
 site: DAUP37
-callsign: WQMM327
+callsign: WQMM327, WQOE776
+color: pink
+range: 15
+---
+service: OpenSky-DAUP39
+site: DAUP39
+callsign: WQUS875
 color: pink
 range: 15
 ---
@@ -1321,13 +1333,13 @@ range: 15
 ---
 service: OpenSky-DAUP62
 site: DAUP62
-callsign: WQCC382
+callsign: WQCC382, WRAD754
 color: pink
 range: 15
 ---
 service: OpenSky-DAUP63
 site: DAUP63
-callsign: WQOF646
+callsign: WQOF646, WQOE339
 color: pink
 range: 15
 ---
@@ -1346,6 +1358,108 @@ range: 15
 service: OpenSky-DAUP68
 site: DAUP68
 callsign: WQNS802
+color: pink
+range: 15
+---
+service: OpenSky-DAUP73
+site: DAUP73
+callsign: WRAD754
+color: pink
+range: 15
+---
+service: OpenSky-DAUP81
+site: DAUP81
+callsign: WQWQ416
+color: pink
+range: 15
+---
+service: OpenSky-DAUP638
+site: DAUP638
+callsign: WQWQ414
+color: pink
+range: 15
+---
+service: OpenSky-DAUP657
+site: DAUP657
+callsign: WQOE475, WQOE776
+color: pink
+range: 15
+---
+service: OpenSky-DAUP668
+site: DAUP668
+callsign: WQOF646
+color: pink
+range: 15
+---
+service: OpenSky-DAUP669
+site: DAUP669
+callsign: WQOD926
+color: pink
+range: 1
+---
+service: OpenSky-DAUP670
+site: DAUP670
+callsign: WQOD926
+color: pink
+range: 15
+---
+service: OpenSky-DAUP671
+site: DAUP671
+callsign: WQOD926
+color: pink
+range: 1
+---
+service: OpenSky-DAUP672
+site: DAUP672
+callsign: WQOD926
+color: pink
+range: 15
+---
+service: OpenSky-DAUP673
+site: DAUP673
+callsign: WQOD926
+color: pink
+range: 15
+---
+service: OpenSky-DAUP674
+site: DAUP674
+callsign: WQOD926
+color: pink
+range: 1
+---
+service: OpenSky-DAUP675
+site: DAUP675
+callsign: WQOE295
+color: pink
+range: 15
+---
+service: OpenSky-DAUP676
+site: DAUP676
+callsign: WQOF646
+color: pink
+range: 15
+---
+service: OpenSky-DAUP680
+site: DAUP680
+callsign: WQOF646
+color: pink
+range: 15
+---
+service: OpenSky-DAUP681
+site: DAUP681
+callsign: WQOF646
+color: pink
+range: 15
+---
+service: OpenSky-DAUP690
+site: DAUP690
+callsign: WQOF646
+color: pink
+range: 15
+---
+service: OpenSky-DAUP691
+site: DAUP691
+callsign: WQOE295
 color: pink
 range: 15
 ---

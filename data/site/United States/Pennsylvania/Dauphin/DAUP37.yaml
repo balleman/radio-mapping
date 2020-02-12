@@ -1,6 +1,9 @@
 site: DAUP37
 name: Wiconisco
 loc:
-        lat: 40.5734194 
-        lon: -76.6913551 
+#        lat: 40.5734194 
+#        lon: -76.6913551
+        lat:  40.581944444444446
+        lon:  -76.69133333333333
+ 
 type: tower

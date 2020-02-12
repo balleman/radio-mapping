@@ -1,6 +1,10 @@
 site: DAUP68
-name: Royalton
+#name: Royalton
+name: 100 Amp Drive, Harrisburg
 loc:
-        lat:  40.19481 
-        lon:   -76.67719 
+#        lat:  40.19481 
+#        lon:   -76.67719
+        lat:   40.31583333333333
+        lon:   -76.78702777777778
 type: tower
+#asrn: 1276570

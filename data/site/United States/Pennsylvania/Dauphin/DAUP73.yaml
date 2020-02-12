@@ -1,6 +1,6 @@
 site: DAUP73
-name: Harrisburg
+name: 400 Market Street, Harrisburg
 loc:
         lat: 40.26275
         lon: -76.87997
-type: tower
+type: building
