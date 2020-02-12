@@ -4,4 +4,9 @@ site: CHES31
 dest: CHES33
 callsign: WPUD401
 color: black
-
+---
+service: CHES31-DELA31
+type: link
+site: CHES31
+dest: DELA31
+color: dkorange

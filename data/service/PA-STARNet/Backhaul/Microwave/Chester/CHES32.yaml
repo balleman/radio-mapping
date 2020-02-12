@@ -1,0 +1,6 @@
+service: CHES32-CHES96
+type: link
+site: CHES32
+dest: CHES96
+color: dkorange
+

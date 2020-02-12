@@ -1,0 +1,20 @@
+service: PHIL02-DELA61
+type: link
+site: PHIL02
+dest: DELA61
+color: blue
+class: minor
+---
+service: PHIL02-DELA62
+type: link
+site: PHIL02
+dest: DELA62
+color: blue
+class: minor
+---
+service: PHIL02-DELA603
+type: link
+site: PHIL02
+dest: DELA603
+color: blue
+class: minor

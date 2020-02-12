@@ -1463,6 +1463,54 @@ callsign: WQOE295
 color: pink
 range: 15
 ---
+service: OpenSky-DELA31
+site: DELA31
+callsign: WQNC938
+color: pink
+range: 15
+---
+service: OpenSky-DELA60
+site: DELA60
+callsign: WQOE236
+color: pink
+range: 15
+---
+service: OpenSky-DELA61
+site: DELA61
+callsign: WQOE339
+color: pink
+range: 15
+---
+service: OpenSky-DELA62
+site: DELA62
+callsign: WQOE458
+color: pink
+range: 15
+---
+service: OpenSky-DELA64
+site: DELA64
+callsign: WQOE236, WRAL448
+color: pink
+range: 15
+---
+service: OpenSky-DELA601
+site: DELA601
+callsign: WQOE236
+color: pink
+range: 15
+---
+service: OpenSky-DELA603
+site: DELA603
+callsign: WQOE475
+color: pink
+range: 15
+---
+service: OpenSky-DELA90
+site: DELA90
+callsign: WPXJ728
+color: pink
+range: 15
+---
 service: OpenSky-ELKC03
 site: ELKC03
 callsign: WQZU934, WQTK334

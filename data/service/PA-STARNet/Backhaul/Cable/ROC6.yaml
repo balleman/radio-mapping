@@ -1,0 +1,17 @@
+service: ROC6-PHIL02
+type: link
+site: ROC-6
+dest: PHIL02
+color: gray
+---
+service: ROC6-CHES32
+type: link
+site: ROC-6
+dest: CHES32
+color: gray
+---
+service: ROC6-DELA90
+type: link
+site: ROC-6
+dest: DELA90
+color: gray
