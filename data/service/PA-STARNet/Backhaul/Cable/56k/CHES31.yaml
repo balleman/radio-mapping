@@ -1,0 +1,6 @@
+service: CHES31-CHES680
+type: link
+site: CHES31
+dest: CHES680
+color: blue
+class: minor

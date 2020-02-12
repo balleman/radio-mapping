@@ -1012,6 +1012,162 @@ callsign: WQTE856
 color: pink
 range: 15
 ---
+service: OpenSky-CHES01
+site: CHES01
+callsign: WPGX762, WQOE339, WRAL397
+color: pink
+range: 15
+---
+service: OpenSky-CHES02
+site: CHES02
+callsign: WPQG325, WRAL397
+color: pink
+range: 15
+---
+service: OpenSky-CHES31
+site: CHES31
+callsign: WQOE339, WRAL397
+color: pink
+range: 15
+---
+service: OpenSky-CHES32
+site: CHES32
+callsign: WPXJ726, WQJZ341
+color: pink
+range: 15
+---
+service: OpenSky-CHES33
+site: CHES33
+callsign: WPXJ727, WQOE339
+color: pink
+range: 15
+---
+service: OpenSky-CHES61
+site: CHES61
+callsign: WQOD950
+color: pink
+range: 15
+---
+service: OpenSky-CHES62
+site: CHES62
+callsign: WQUS875
+color: pink
+range: 15
+---
+service: OpenSky-CHES64
+site: CHES64
+callsign: WQWQ417
+color: pink
+range: 15
+---
+service: OpenSky-CHES63
+site: CHES63
+callsign: WQCC376
+color: pink
+range: 15
+---
+service: OpenSky-CHES65
+site: CHES65
+callsign: WQOE339
+color: pink
+range: 15
+---
+service: OpenSky-CHES66
+site: CHES66
+callsign: WQCC378
+color: pink
+range: 15
+---
+service: OpenSky-CHES68
+site: CHES68
+callsign: WQOE545
+color: pink
+range: 15
+---
+service: OpenSky-CHES69
+site: CHES69
+callsign: WQUW726
+color: pink
+range: 15
+---
+service: OpenSky-CHES82
+site: CHES82
+callsign: WQWQ417
+color: pink
+range: 15
+---
+service: OpenSky-CHES96
+site: CHES96
+callsign: WRAL397
+color: pink
+range: 15
+---
+service: OpenSky-CHES602
+site: CHES602
+callsign: WQOD950
+color: pink
+range: 15
+---
+service: OpenSky-CHES603
+site: CHES603
+callsign: WQOD950
+color: pink
+range: 15
+---
+service: OpenSky-CHES609
+site: CHES609
+callsign: WQOF964
+color: pink
+range: 15
+---
+service: OpenSky-CHES612
+site: CHES612
+callsign: WQOD950
+color: pink
+range: 15
+---
+service: OpenSky-CHES613
+site: CHES613
+callsign: WQOE469, WQXB209
+color: pink
+range: 15
+---
+service: OpenSky-CHES614
+site: CHES614
+callsign: WQUS877
+color: pink
+range: 15
+---
+service: OpenSky-CHES617
+site: CHES617
+callsign: WQOD950
+color: pink
+range: 15
+---
+service: OpenSky-CHES680
+site: CHES680
+callsign: WQOD950
+color: pink
+range: 15
+---
+service: OpenSky-CHES691
+site: CHES691
+callsign: WQOE767
+color: pink
+range: 15
+---
+service: OpenSky-CHES693
+site: CHES693
+callsign: WQWQ417
+color: pink
+range: 15
+---
+service: OpenSky-CHES694
+site: CHES694
+callsign: WQUS877
+color: pink
+range: 15
+---
 service: OpenSky-CLAR05
 site: CLAR05
 callsign: WQBL313

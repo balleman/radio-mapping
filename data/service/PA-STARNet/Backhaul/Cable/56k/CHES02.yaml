@@ -11,3 +11,10 @@ site: CHES02
 dest: DELA64
 color: blue
 class: minor
+---
+service: CHES02-CHES603
+type: link
+site: CHES02
+dest: CHES603
+color: blue
+class: minor

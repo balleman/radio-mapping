@@ -1,0 +1,6 @@
+service: CHES33-CHES691
+type: link
+site: CHES33
+dest: CHES691
+color: blue
+class: minor

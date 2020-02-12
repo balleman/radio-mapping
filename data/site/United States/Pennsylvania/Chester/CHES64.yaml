@@ -1,6 +1,6 @@
 site: CHES64
-name: CHES64
+name: Atglen
 loc:
         lat: 39.934555555555555
         lon: -75.95558333333334
-type: tower
+type: pole

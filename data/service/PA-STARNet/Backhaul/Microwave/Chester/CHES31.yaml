@@ -10,3 +10,15 @@ type: link
 site: CHES31
 dest: DELA31
 color: dkorange
+---
+service: CHES31-CHES617
+type: link
+site: CHES31
+dest: CHES617
+color: dkorange
+---
+service: CHES31-CHES68
+type: link
+site: CHES31
+dest: CHES68
+color: dkorange
