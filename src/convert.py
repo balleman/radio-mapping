@@ -12,11 +12,11 @@ def process(line):
 def dms(line):
     parts = re.split("[-, ]+", line.strip())
     #for x in range(len(parts)):
-    #    print(str(x) + "=" + parts[x] + ",") 
-    lat = int(parts[0]) + int(parts[1])/60 + float(parts[2])/3600
+    #    print(str(x) + "=" + parts[x]) 
+    lat = int(parts[0]) + float(parts[1])/60 + float(parts[2])/3600
     if parts[3] == "S":
         lat = lat * -1
-    lon = int(parts[4]) + int(parts[5])/60 + float(parts[6])/3600
+    lon = int(parts[4]) + float(parts[5])/60 + float(parts[6])/3600
     if parts[7] == "W":
         lon = lon * -1
     print(str(lat) + " " + str(lon))
