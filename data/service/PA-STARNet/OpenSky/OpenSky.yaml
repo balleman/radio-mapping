@@ -2891,6 +2891,54 @@ callsign: WPZU234
 color: pink
 range: 15
 ---
+service: OpenSky-POTT41
+site: POTT41
+callsign: WPZU972
+color: pink
+range: 15
+---
+service: OpenSky-POTT619
+site: POTT619
+callsign: WQTK670
+color: pink
+range: 15
+---
+service: OpenSky-POTT623
+site: POTT623
+callsign: WQTK670
+color: pink
+range: 15
+---
+service: OpenSky-POTT638
+site: POTT638
+callsign: WQTK670
+color: pink
+range: 15
+---
+service: OpenSky-POTT639
+site: POTT639
+callsign: WQTK331
+color: pink
+range: 15
+---
+service: OpenSky-POTT662
+site: POTT662
+callsign: WQTK670
+color: pink
+range: 15
+---
+service: OpenSky-POTT684
+site: POTT684
+callsign: WQTK670
+color: pink
+range: 15
+---
+service: OpenSky-POTT696
+site: POTT696
+callsign: WQTK331
+color: pink
+range: 15
+---
 service: OpenSky-SOME01
 site: SOME01
 callsign: WPWD469
