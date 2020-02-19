@@ -1,0 +1,13 @@
+service: LEHI05-BUCK61
+type: link
+site: LEHI05
+dest: BUCK61
+color: blue
+class: minor
+---
+service: LEHI05-BUCK613
+type: link
+site: LEHI05
+dest: BUCK613
+color: blue
+class: minor

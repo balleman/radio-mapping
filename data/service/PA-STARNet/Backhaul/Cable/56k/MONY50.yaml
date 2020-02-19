@@ -1,0 +1,20 @@
+service: MONY50-BUCK60
+type: link
+site: MONY50
+dest: BUCK60
+color: blue
+class: minor
+---
+service: MONY50-BUCK62
+type: link
+site: MONY50
+dest: BUCK62
+color: blue
+class: minor
+---
+service: MONY50-BUCK65
+type: link
+site: MONY50
+dest: BUCK65
+color: blue
+class: minor

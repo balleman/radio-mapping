@@ -1,0 +1,13 @@
+service: PTC-TREVOSE-BUCK64
+type: link
+site: PTC-TREVOSE
+dest: BUCK64
+color: blue
+class: minor
+---
+service: PTC-TREVOSE-BUCK603
+type: link
+site: PTC-TREVOSE
+dest: BUCK603
+color: blue
+class: minor

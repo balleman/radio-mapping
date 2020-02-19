@@ -1,0 +1,20 @@
+service: BUCK90-BUCK615
+type: link
+site: BUCK90
+dest: BUCK615
+color: blue
+class: minor
+---
+service: BUCK90-BUCK690
+type: link
+site: BUCK90
+dest: BUCK690
+color: blue
+class: minor
+---
+service: BUCK90-BUCK605
+type: link
+site: BUCK90
+dest: BUCK605
+color: blue
+class: minor

@@ -586,6 +586,126 @@ callsign: WQWQ418
 color: pink
 range: 15
 ---
+service: OpenSky-BUCK06
+site: BUCK06
+callsign: WPGX759
+color: pink
+range: 15
+---
+service: OpenSky-BUCK31
+site: BUCK31
+callsign: WQOE469
+color: pink
+range: 15
+---
+service: OpenSky-BUCK33
+site: BUCK33
+callsign: WRAL397
+color: pink
+range: 15
+---
+service: OpenSky-BUCK40
+site: BUCK40
+callsign: WPQF893, WQOE333, WREW649
+color: pink
+range: 15
+---
+service: OpenSky-BUCK60
+site: BUCK60
+callsign: WQCB995
+color: pink
+range: 15
+---
+service: OpenSky-BUCK61
+site: BUCK61
+callsign: WQOE299
+color: pink
+range: 15
+---
+service: OpenSky-BUCK612
+site: BUCK612
+callsign: WQOF628
+color: pink
+range: 15
+---
+service: OpenSky-BUCK613
+site: BUCK613
+callsign: WQOE767
+color: pink
+range: 15
+---
+service: OpenSky-BUCK615
+site: BUCK615
+callsign: WQOF628
+color: pink
+range: 15
+---
+service: OpenSky-BUCK62
+site: BUCK62
+callsign: WQOE299
+color: pink
+range: 15
+---
+service: OpenSky-BUCK63
+site: BUCK63
+callsign: WQOE333
+color: pink
+range: 15
+---
+service: OpenSky-BUCK64
+site: BUCK64
+callsign: WQOE299
+color: pink
+range: 15
+---
+service: OpenSky-BUCK640
+site: BUCK640
+callsign: WQXB209
+color: pink
+range: 15
+---
+service: OpenSky-BUCK65
+site: BUCK65
+callsign: WQCC880
+color: pink
+range: 15
+---
+service: OpenSky-BUCK68
+site: BUCK68
+callsign: WQOE333
+color: pink
+range: 15
+---
+service: OpenSky-BUCK603
+site: BUCK603
+callsign: WQOE299
+color: pink
+range: 15
+---
+service: OpenSky-BUCK604
+site: BUCK604
+callsign: WPQF914
+color: pink
+range: 15
+---
+service: OpenSky-BUCK605
+site: BUCK605
+callsign: WQOE299
+color: pink
+range: 15
+---
+service: OpenSky-BUCK690
+site: BUCK690
+callsign: WQOE469
+color: pink
+range: 15
+---
+service: OpenSky-BUCK90
+site: BUCK90
+callsign: WQCC360
+color: pink
+range: 15
+---
 service: OpenSky-BUTL01
 site: BUTL01
 callsign: WQBK913

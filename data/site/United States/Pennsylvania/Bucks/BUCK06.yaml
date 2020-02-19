@@ -1,0 +1,9 @@
+site: BUCK06
+name: Toll Plaza, PTC Exit 29, Bristole
+aliases:
+  - PTC-DELAWAREVLY
+loc:
+        lat: 40.12177777777778
+        lon:  -74.85155555555555
+type: tower
+asrn: 1200413

@@ -15,3 +15,9 @@ type: link
 site: ROC-6
 dest: DELA90
 color: gray
+---
+service: ROC6-BUCK31
+type: link
+site: ROC-6
+dest: BUCK31
+color: gray

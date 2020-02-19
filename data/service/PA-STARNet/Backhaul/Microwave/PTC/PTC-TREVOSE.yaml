@@ -1,0 +1,13 @@
+service: PTC-TREVOSE-WILLOWGROVE
+type: link
+site: PTC-TREVOSE
+dest: PTC-WILLOWGROVE
+callsign: WPQW651
+color: green
+---
+service: PTC-TREVOSE-DELAWAREVLY
+type: link
+site: PTC-TREVOSE
+dest: PTC-DELAWAREVLY
+callsign: WPQW651
+color: green

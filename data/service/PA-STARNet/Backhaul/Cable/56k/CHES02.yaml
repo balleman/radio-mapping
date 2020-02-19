@@ -25,3 +25,10 @@ site: CHES02
 dest: CHES62
 color: blue
 class: minor
+---
+service: CHES02-BUCK604
+type: link
+site: CHES02
+dest: BUCK604
+color: blue
+class: minor

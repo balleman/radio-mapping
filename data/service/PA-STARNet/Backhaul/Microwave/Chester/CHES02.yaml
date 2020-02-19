@@ -19,8 +19,7 @@ type: link
 site: PTC-VALLEYFORGE
 dest: PTC-WILLOWGROVE
 callsign: KGC59
-color: red
-highlight: yellow
+color: green
 ---
 service: PTC-VALLEYFORGE-PLYMOUTHMTG
 type: link

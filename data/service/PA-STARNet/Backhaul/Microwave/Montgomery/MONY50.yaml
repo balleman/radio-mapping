@@ -1,0 +1,5 @@
+service: MONY50-BUCK63
+type: link
+site: MONY50
+dest: BUCK63
+color: dkorange

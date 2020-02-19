@@ -1,0 +1,6 @@
+service: MONY02-BUCK68
+type: link
+site: MONY02
+dest: BUCK68
+color: blue
+class: minor
