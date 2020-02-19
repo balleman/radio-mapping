@@ -1,0 +1,13 @@
+service: SCHU50-SCHU63
+type: link
+site: SCHU50
+dest: SCHU63
+color: blue
+class: minor
+---
+service: SCHU50-SCHU65
+type: link
+site: SCHU50
+dest: SCHU65
+color: blue
+class: minor

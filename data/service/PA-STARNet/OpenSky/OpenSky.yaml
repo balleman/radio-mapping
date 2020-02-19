@@ -2993,6 +2993,90 @@ callsign: WQTK331
 color: pink
 range: 15
 ---
+service: OpenSky-SCHU03
+site: SCHU03
+callsign: WPGX778, WQOE758
+color: pink
+range: 15
+---
+service: OpenSky-SCHU33
+site: SCHU33
+callsign: WQOE238
+color: pink
+range: 15
+---
+service: OpenSky-SCHU34
+site: SCHU34
+callsign: WQNS802
+color: pink
+range: 15
+---
+service: OpenSky-SCHU50
+site: SCHU50
+callsign: WPQC602
+color: pink
+range: 15
+---
+service: OpenSky-SCHU60
+site: SCHU60
+callsign: WQOE239
+color: pink
+range: 15
+---
+service: OpenSky-SCHU61
+site: SCHU61
+callsign: WQOE239
+color: pink
+range: 15
+---
+service: OpenSky-SCHU62
+site: SCHU62
+callsign: WQOE239
+color: pink
+range: 15
+---
+service: OpenSky-SCHU63
+site: SCHU63
+callsign: WQCC385
+color: pink
+range: 15
+---
+service: OpenSky-SCHU64
+site: SCHU64
+callsign: WQOE239
+color: pink
+range: 15
+---
+service: OpenSky-SCHU65
+site: SCHU65
+callsign: WQOE239
+color: pink
+range: 15
+---
+service: OpenSky-SCHU66
+site: SCHU66
+callsign: WQUS874
+color: pink
+range: 15
+---
+service: OpenSky-SCHU69
+site: SCHU69
+callsign: WQOE767
+color: pink
+range: 15
+---
+service: OpenSky-SCHU631
+site: SCHU631
+callsign: WQOE545
+color: pink
+range: 15
+---
+service: OpenSky-SCHU640
+site: SCHU640
+callsign: WQOE239
+color: pink
+range: 15
+---
 service: OpenSky-SOME01
 site: SOME01
 callsign: WPWD469

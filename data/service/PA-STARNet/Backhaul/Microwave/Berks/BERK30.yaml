@@ -3,3 +3,10 @@ type: link
 site: BERK30
 dest: BERK34
 color: purple
+---
+service: BERK30-SCHU03
+type: link
+site: BERK30
+dest: SCHU03
+color: black
+highlight: red

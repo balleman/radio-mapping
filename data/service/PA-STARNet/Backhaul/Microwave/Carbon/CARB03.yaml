@@ -28,3 +28,10 @@ dest: LUZE33
 callsign: WQST973
 color: orange
 class: minor
+---
+service: CARB03-SCHU33
+type: link
+site: CARB03
+dest: SCHU33
+color: black
+highlight: red

@@ -1,0 +1,5 @@
+service: SCHU50-SCH60
+type: link
+site: SCHU50
+dest: SCHU60
+color: dkorange

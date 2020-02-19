@@ -1,10 +1,9 @@
-service: BERK04-SCHU66
+service: BERK04-SCHU69
 type: link
 site: BERK04
-dest: SCHU66
+dest: SCHU69
 callsign: WQSL497
 color: orange
-class: minor
 ---
 service: BERK04-SCHU34
 type: link
@@ -12,7 +11,6 @@ site: BERK04
 dest: SCHU34
 callsign: WQSL497
 color: orange
-class: minor
 ---
 service: BERK31-BERK04
 type: link

@@ -3,13 +3,18 @@ type: link
 site: SCHU33
 dest: SCHU61
 callsign: WQSL470
-color: orange
-class: minor
+color: dkorange
 ---
 service: SCHU33-SCHU62
 type: link
 site: SCHU33
 dest: SCHU62
 callsign: WQSL470
-color: orange
-class: minor
+color: dkorange
+---
+service: SCHU33-SCHU50
+type: link
+site: SCHU33
+dest: SCHU50
+color: black
+highlight: red

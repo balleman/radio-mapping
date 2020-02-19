@@ -3,29 +3,37 @@ type: link
 site: SCHU03
 dest: LEBA691
 callsign: WQSL474
-color: orange
-class: minor
+color: brown
 ---
 service: SCHU03-DAUP61
 type: link
 site: SCHU03
 dest: DAUP61
 callsign: WQSL474
-color: orange
-class: minor
+color: brown
 ---
 service: SCHU03-DAUP37
 type: link
 site: SCHU03
 dest: DAUP37
 callsign: WQSL474
-color: orange
-class: minor
+color: brown
 ---
 service: SCHU03-DAUP37
 type: link
 site: SCHU03
 dest: DAUP37
 callsign: WRCC503
-color: orange
-class: minor
+color: brown
+---
+service: SCHU03-SCHU631
+type: link
+site: SCHU03
+dest: SCHU631
+color: brown
+---
+service: SCHU03-SCHU640
+type: link
+site: SCHU03
+dest: SCHU640
+color: dkorange

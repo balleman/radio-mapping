@@ -1,0 +1,6 @@
+service: SCHU03-SCHU64
+type: link
+site: SCHU03
+dest: SCHU64
+color: blue
+class: minor
