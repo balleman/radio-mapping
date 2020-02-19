@@ -2519,6 +2519,60 @@ callsign: WQOE295
 color: pink
 range: 15
 ---
+service: OpenSky-LEHI01
+site: LEHI01
+callsign: WRAL448
+color: pink
+range: 15
+---
+service: OpenSky-LEHI05
+site: LEHI05
+callsign: WPQG319
+color: pink
+range: 15
+---
+service: OpenSky-LEHI06
+site: LEHI06
+callsign: WPXJ740
+color: pink
+range: 15
+---
+service: OpenSky-LEHI30
+site: LEHI30
+callsign: WQWQ415
+color: pink
+range: 15
+---
+service: OpenSky-LEHI60
+site: LEHI60
+callsign: WQCC374
+color: pink
+range: 15
+---
+service: OpenSky-LEHI61
+site: LEHI61
+callsign: WQCC372
+color: pink
+range: 15
+---
+service: OpenSky-LEHI62
+site: LEHI62
+callsign: WQCC375
+color: pink
+range: 15
+---
+service: OpenSky-LEHI63
+site: LEHI63
+callsign: WQOE238
+color: pink
+range: 15
+---
+service: OpenSky-LEHI65
+site: LEHI65
+callsign: WQNS443
+color: pink
+range: 15
+---
 service: OpenSky-LYCO01
 site: LYCO01
 callsign: WQOE458

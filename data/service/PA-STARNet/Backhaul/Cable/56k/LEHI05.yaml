@@ -11,3 +11,10 @@ site: LEHI05
 dest: BUCK613
 color: blue
 class: minor
+---
+service: LEHI05-LEHI61
+type: link
+site: LEHI05
+dest: LEHI61
+color: blue
+class: minor

@@ -26,4 +26,15 @@ type: link
 site: LEHI06
 dest: CARB61
 color: dkorange
-class: minor
+---
+service: LEHI06-LEHI60
+type: link
+site: LEHI06
+dest: LEHI60
+color: dkorange
+---
+service: LEHI06-LEHI62
+type: link
+site: LEHI06
+dest: LEHI62
+color: dkorange

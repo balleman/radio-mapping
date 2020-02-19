@@ -1,0 +1,6 @@
+service: LEHI01-LEHI63
+type: link
+site: LEHI01
+dest: LEHI63
+color: blue
+class: minor
