@@ -4,3 +4,87 @@ site: POTT12
 dest: TIOG630
 color: blue
 class: minor
+---
+service: POTT12-MCKE681
+type: link
+site: POTT12
+dest: MCKE681
+color: blue
+class: minor
+---
+service: POTT12-MCKE684
+type: link
+site: POTT12
+dest: MCKE684
+color: blue
+class: minor
+---
+service: POTT12-MCKE659
+type: link
+site: POTT12
+dest: MCKE659
+color: blue
+class: minor
+---
+service: POTT12-MCKE686
+type: link
+site: POTT12
+dest: MCKE686
+color: blue
+class: minor
+---
+service: POTT12-MCKE691
+type: link
+site: POTT12
+dest: MCKE691
+color: blue
+class: minor
+---
+service: POTT12-MCKE683
+type: link
+site: POTT12
+dest: MCKE683
+color: blue
+class: minor
+---
+service: POTT12-MCKE690
+type: link
+site: POTT12
+dest: MCKE690
+color: blue
+class: minor
+---
+service: POTT12-MCKE697
+type: link
+site: POTT12
+dest: MCKE697
+color: blue
+class: minor
+---
+service: POTT12-MCKE685
+type: link
+site: POTT12
+dest: MCKE685
+color: blue
+class: minor
+---
+service: POTT12-MCKE682
+type: link
+site: POTT12
+dest: MCKE682
+color: blue
+class: minor
+---
+service: POTT12-MCKE692
+type: link
+site: POTT12
+dest: MCKE692
+color: blue
+class: minor
+---
+service: POTT12-MCKE688
+type: link
+site: POTT12
+dest: MCKE688
+color: blue
+class: minor

@@ -1813,7 +1813,61 @@ range: 15
 ---
 service: OpenSky-FAYE10
 site: FAYE10
-callsign: WQBL871
+callsign: WQBL871, WQTT768
+color: pink
+range: 15
+---
+service: OpenSky-FAYE60
+site: FAYE60
+callsign: WQTJ908
+color: pink
+range: 15
+---
+service: OpenSky-FAYE61
+site: FAYE61
+callsign: WQTJ908
+color: pink
+range: 15
+---
+service: OpenSky-FAYE607
+site: FAYE607
+callsign: WQTE808
+color: pink
+range: 15
+---
+service: OpenSky-FAYE625
+site: FAYE625
+callsign: WQTJ908
+color: pink
+range: 15
+---
+service: OpenSky-FAYE631
+site: FAYE631
+callsign: WQTJ908
+color: pink
+range: 15
+---
+service: OpenSky-FAYE632
+site: FAYE632
+callsign: WQTJ908
+color: pink
+range: 15
+---
+service: OpenSky-FAYE62
+site: FAYE62
+callsign: WQTJ908
+color: pink
+range: 15
+---
+service: OpenSky-FAYE62A
+site: FAYE62A
+callsign: WPEF490
+color: pink
+range: 15
+---
+service: OpenSky-FAYE691
+site: FAYE691
+callsign: WQTS271
 color: pink
 range: 15
 ---

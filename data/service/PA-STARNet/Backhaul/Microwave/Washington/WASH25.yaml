@@ -3,3 +3,15 @@ type: link
 site: WASH25
 dest: WEST603
 color: dkorange
+---
+service: WASH25-FAYE61
+type: link
+site: WASH25
+dest: FAYE61
+color: dkorange
+---
+service: WASH25-FAYE631
+type: link
+site: WASH25
+dest: FAYE631
+color: dkorange

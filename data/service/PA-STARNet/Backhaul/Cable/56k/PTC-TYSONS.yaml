@@ -11,3 +11,10 @@ site: PTC-TYSONS
 dest: WEST60
 color: blue
 class: minor
+---
+service: PTC-TYSONS-FAYE607
+type: link
+site: PTC-TYSONS
+dest: FAYE607
+color: blue
+class: minor

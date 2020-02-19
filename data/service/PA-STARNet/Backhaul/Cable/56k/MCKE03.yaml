@@ -1,0 +1,13 @@
+service: MCKE03-MCKE699
+type: link
+site: MCKE03
+dest: MCKE699
+color: blue
+class: minor
+---
+service: MCKE03-MCKE635
+type: link
+site: MCKE03
+dest: MCKE635
+color: blue
+class: minor

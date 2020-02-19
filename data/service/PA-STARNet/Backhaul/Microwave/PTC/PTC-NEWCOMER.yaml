@@ -1,0 +1,13 @@
+service: PTC-NEWCOMER-REDSTONE
+type: link
+site: PTC-NEWCOMER
+dest: PTC-REDSTONE
+color: green
+callsign: WPQW593
+---
+service: PTC-NEWCOMER-MFESBARRIER
+type: link
+site: PTC-NEWCOMER
+dest: PTC-MFESBARRIER
+color: green
+callsign: WPQW593

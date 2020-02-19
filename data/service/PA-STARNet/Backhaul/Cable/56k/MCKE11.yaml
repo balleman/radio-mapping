@@ -1,0 +1,13 @@
+service: MCKE11-MCKE37
+type: link
+site: MCKE11
+dest: MCKE37
+color: blue
+class: minor
+---
+service: MCKE11-MCKE613
+type: link
+site: MCKE11
+dest: MCKE613
+color: blue
+class: minor

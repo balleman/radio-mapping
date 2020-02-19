@@ -18,3 +18,9 @@ site: FAYE01
 dest: GREE32
 color: black
 callsign: WPTC473
+---
+service: FAYE01-FAYE632
+type: link
+site: FAYE01
+dest: FAYE632
+color: dkorange

@@ -1,0 +1,6 @@
+service: MCKE90-MCKE693
+type: link
+site: MCKE90
+dest: MCKE693
+color: blue
+class: minor
