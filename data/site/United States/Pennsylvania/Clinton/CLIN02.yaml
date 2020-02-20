@@ -1,6 +1,7 @@
 site: CLIN02
-name: Tamarack
+name: Tamarack Route 144, Renovo
 loc:
         lat:  41.39742
         lon: -77.85431 
 type: tower
+asrn: 1208273

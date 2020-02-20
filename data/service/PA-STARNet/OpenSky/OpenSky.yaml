@@ -1452,7 +1452,7 @@ range: 15
 ---
 service: OpenSky-CLIN02
 site: CLIN02
-callsign: WPWS620
+callsign: WPWS620, WQTD852
 color: pink
 range: 15
 ---
@@ -1464,7 +1464,85 @@ range: 15
 ---
 service: OpenSky-CLIN04
 site: CLIN04
-callsign: WPZU957
+callsign: WPZU957, WQTD852
+color: pink
+range: 15
+---
+service: OpenSky-CLIN08
+site: CLIN08
+callsign: WQTQ747
+color: pink
+range: 15
+---
+service: OpenSky-CLIN41
+site: CLIN41
+callsign: WQTD852
+color: pink
+range: 15
+---
+service: OpenSky-CLIN683
+site: CLIN683
+callsign: WQTJ796
+color: pink
+range: 15
+---
+service: OpenSky-CLIN686
+site: CLIN686
+callsign: WQTJ796
+color: pink
+range: 15
+---
+service: OpenSky-CLIN687
+site: CLIN687
+callsign: WQTK390
+color: pink
+range: 15
+---
+service: OpenSky-CLIN688
+site: CLIN688
+callsign: WQTJ796
+color: pink
+range: 15
+---
+service: OpenSky-CLIN690
+site: CLIN690
+callsign: WQTJ796
+color: pink
+range: 15
+---
+service: OpenSky-CLIN691
+site: CLIN691
+callsign: WQTK331
+color: pink
+range: 15
+---
+service: OpenSky-CLIN692
+site: CLIN692
+callsign: WQTQ781
+color: pink
+range: 15
+---
+service: OpenSky-CLIN696
+site: CLIN696
+callsign: WQTK390
+color: pink
+range: 15
+---
+service: OpenSky-CLIN697
+site: CLIN697
+callsign: WQTK390
+color: pink
+range: 15
+---
+service: OpenSky-CLIN698
+site: CLIN698
+callsign: WQTK390
+color: pink
+range: 15
+---
+service: OpenSky-CLIN699
+site: CLIN699
+callsign: WQTK331
 color: pink
 range: 15
 ---

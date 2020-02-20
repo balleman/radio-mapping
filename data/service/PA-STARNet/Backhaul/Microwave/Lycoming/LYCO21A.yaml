@@ -3,3 +3,10 @@ type: link
 site: LYCO21A
 dest: LYCO02
 color: black
+---
+service: LYCO21A-CLIN08
+type: link
+site: LYCO21A
+dest: CLIN08
+color: black
+highlight: red

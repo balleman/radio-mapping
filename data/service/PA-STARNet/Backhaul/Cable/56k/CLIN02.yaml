@@ -1,0 +1,55 @@
+service: CLIN02-CLIN687
+type: link
+site: CLIN02
+dest: CLIN687
+color: blue
+class: minor
+---
+service: CLIN02-CLIN688
+type: link
+site: CLIN02
+dest: CLIN688
+color: blue
+class: minor
+---
+service: CLIN02-CLIN690
+type: link
+site: CLIN02
+dest: CLIN690
+color: blue
+class: minor
+---
+service: CLIN02-CLIN691
+type: link
+site: CLIN02
+dest: CLIN691
+color: blue
+class: minor
+---
+service: CLIN02-CLIN692
+type: link
+site: CLIN02
+dest: CLIN692
+color: blue
+class: minor
+---
+service: CLIN02-CLIN696
+type: link
+site: CLIN02
+dest: CLIN696
+color: blue
+class: minor
+---
+service: CLIN02-CLIN697
+type: link
+site: CLIN02
+dest: CLIN697
+color: blue
+class: minor
+---
+service: CLIN02-CLIN698
+type: link
+site: CLIN02
+dest: CLIN698
+color: blue
+class: minor

@@ -1,0 +1,13 @@
+service: LYCO2-CLIN686
+type: link
+site: LYCO02
+dest: CLIN686
+color: blue
+class: minor
+---
+service: LYCO2-CLIN699
+type: link
+site: LYCO02
+dest: CLIN699
+color: blue
+class: minor
