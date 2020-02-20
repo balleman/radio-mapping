@@ -20,3 +20,15 @@ site: LUZE04
 dest: LUZE06
 color: black
 callsign: WPSJ869
+---
+service: LUZE04-LUZE690
+type: link
+site: LUZE04
+dest: LUZE690
+color: dkorange
+---
+service: LUZE04-LUZE631
+type: link
+site: LUZE04
+dest: LUZE631
+color: dkorange

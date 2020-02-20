@@ -2483,12 +2483,6 @@ callsign: WQOF628, WQXB209
 color: pink
 range: 15
 ---
-service: OpenSky-LACK631
-site: LACK631
-callsign: WQXB209
-color: pink
-range: 15
----
 service: OpenSky-LANC01
 site: LANC01
 callsign: WPQG327
@@ -2648,6 +2642,84 @@ range: 15
 service: OpenSky-LEHI65
 site: LEHI65
 callsign: WQNS443
+color: pink
+range: 15
+---
+service: OpenSky-LUZE01
+site: LUZE01
+callsign: WPXJ744
+color: pink
+range: 15
+---
+service: OpenSky-LUZE04
+site: LUZE04
+callsign: WPWJ886
+color: pink
+range: 15
+---
+service: OpenSky-LUZE06
+site: LUZE06
+callsign: WPWW352
+color: pink
+range: 15
+---
+service: OpenSky-LUZE60
+site: LUZE60
+callsign: WQCC362
+color: pink
+range: 15
+---
+service: OpenSky-LUZE62
+site: LUZE62
+callsign: WQOE301
+color: pink
+range: 15
+---
+service: OpenSky-LUZE64
+site: LUZE64
+callsign: WQWQ414
+color: pink
+range: 15
+---
+service: OpenSky-LUZE67
+site: LUZE67
+callsign: WQWQ414
+color: pink
+range: 15
+---
+service: OpenSky-LUZE604
+site: LUZE604
+callsign: WQOE469
+color: pink
+range: 15
+---
+service: OpenSky-LUZE630
+site: LUZE630
+callsign: WQUS878
+color: pink
+range: 15
+---
+service: OpenSky-LUZE631
+site: LUZE631
+callsign: WQOE767, WQXB209
+color: pink
+range: 15
+---
+service: OpenSky-LUZE68
+site: LUZE68
+callsign: WQUS874
+color: pink
+range: 15
+---
+service: OpenSky-LUZE680
+site: LUZE680
+callsign: WQOE301
+color: pink
+range: 15
+---
+service: OpenSky-LUZE690
+site: LUZE690
+callsign: WQOE301
 color: pink
 range: 15
 ---

@@ -1,0 +1,5 @@
+service: LUZE01-LUZE62
+type: link
+site: LUZE01
+dest: LUZE62
+color: dkorange

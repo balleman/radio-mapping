@@ -1,0 +1,13 @@
+service: PTC-WYOMINGMAIN-LUZE604
+type: link
+site: PTC-WYOMINGMAIN
+dest: LUZE604
+color: blue
+class: minor
+---
+service: PTC-WYOMINGMAIN-LUZE680
+type: link
+site: PTC-WYOMINGMAIN
+dest: LUZE680
+color: blue
+class: minor

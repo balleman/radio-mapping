@@ -4,14 +4,12 @@ site: CARB03
 dest: CARB60
 callsign: WQST973
 color: orange
-class: minor
 ---
 service: CARB03-CARB631
 type: link
 site: CARB03
 dest: CARB631
 color: orange
-class: minor
 ---
 service: CARB03-CARB632
 type: link
@@ -19,15 +17,13 @@ site: CARB03
 dest: CARB632
 callsign: WQST973
 color: orange
-class: minor
 ---
-service: CARB03-LUZE33
+service: CARB03-LUZE60
 type: link
 site: CARB03
-dest: LUZE33
+dest: LUZE60
 callsign: WQST973
 color: orange
-class: minor
 ---
 service: CARB03-SCHU33
 type: link

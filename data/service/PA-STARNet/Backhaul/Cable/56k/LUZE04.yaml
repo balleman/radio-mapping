@@ -4,3 +4,10 @@ site: LUZE04
 dest: WYOM630
 color: blue
 class: minor
+---
+service: LUZE04-LUZE630
+type: link
+site: LUZE04
+dest: LUZE630
+color: blue
+class: minor
