@@ -4,3 +4,17 @@ site: MONY02
 dest: BUCK68
 color: blue
 class: minor
+---
+service: MONY02-MONY63
+type: link
+site: MONY02
+dest: MONY63
+color: blue
+class: minor
+---
+service: MONY02-MONY69
+type: link
+site: MONY02
+dest: MONY69
+color: blue
+class: minor

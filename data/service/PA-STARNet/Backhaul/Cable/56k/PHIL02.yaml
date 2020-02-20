@@ -18,3 +18,10 @@ site: PHIL02
 dest: DELA603
 color: blue
 class: minor
+---
+service: PHIL02-MONY80
+type: link
+site: PHIL02
+dest: MONY80
+color: blue
+class: minor

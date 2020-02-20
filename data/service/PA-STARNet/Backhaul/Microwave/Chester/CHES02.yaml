@@ -27,6 +27,7 @@ site: PTC-VALLEYFORGE
 dest: PTC-PLYMOUTHMTG
 callsign: KGC59
 color: green
+highlight: yellow
 ---
 service: PTC-VALLEYFORGE-VALFORGEIN
 type: link
@@ -48,3 +49,9 @@ site: CHES02
 dest: CHES33
 callsign: WPQQ918
 color: black
+---
+service: CHES02-MONY691
+type: link
+site: CHES02
+dest: MONY691
+color: dkorange

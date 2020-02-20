@@ -19,6 +19,13 @@ dest: CHES603
 color: blue
 class: minor
 ---
+service: CHES02-CHES613
+type: link
+site: CHES02
+dest: CHES613
+color: blue
+class: minor
+---
 service: CHES02-CHES62
 type: link
 site: CHES02

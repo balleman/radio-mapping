@@ -1,0 +1,8 @@
+site: MONY605
+name: Plymouth Meeting, I-265 and I-476
+aliases:
+  - PTC-PLYMOUTHMTG
+loc:
+        lat:  40.11288888888889
+        lon: -75.28133333333334
+type: tower

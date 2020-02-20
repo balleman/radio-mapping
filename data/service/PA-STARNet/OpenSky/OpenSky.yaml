@@ -3143,6 +3143,54 @@ callsign: WPWK263
 color: pink
 range: 15
 ---
+service: OpenSky-MONY02
+site: MONY02
+callsign: WPXJ755, WRAL448
+color: pink
+range: 15
+---
+service: OpenSky-MONY50
+site: MONY50
+callsign: WPQG307, WQOE758, WRAL448
+color: pink
+range: 15
+---
+service: OpenSky-MONY63
+site: MONY63
+callsign: WQOE238
+color: pink
+range: 15
+---
+service: OpenSky-MONY66
+site: MONY66
+callsign: WQWQ419
+color: pink
+range: 15
+---
+service: OpenSky-MONY69
+site: MONY69
+callsign: WQCC365
+color: pink
+range: 15
+---
+service: OpenSky-MONY80
+site: MONY80
+callsign: WQUX870
+color: pink
+range: 15
+---
+service: OpenSky-MONY691
+site: MONY691
+callsign: WQOE238
+color: pink
+range: 15
+---
+service: OpenSky-MONY605
+site: MONY605
+callsign: WQOE238
+color: pink
+range: 15
+---
 service: OpenSky-NORH30
 site: NORH30
 callsign: WQOE544
