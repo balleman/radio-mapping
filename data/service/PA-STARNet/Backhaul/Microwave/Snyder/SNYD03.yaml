@@ -1,0 +1,5 @@
+service: SNYD03-NORU61
+type: link
+site: SNYD03
+dest: NORU61
+color: dkorange
