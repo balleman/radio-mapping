@@ -18,3 +18,10 @@ site: BUCK90
 dest: BUCK605
 color: blue
 class: minor
+---
+service: BUCK90-PHIL63
+type: link
+site: BUCK90
+dest: PHIL63
+color: blue
+class: minor

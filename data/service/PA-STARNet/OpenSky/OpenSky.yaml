@@ -3257,6 +3257,60 @@ callsign: WQTM395
 color: pink
 range: 15
 ---
+service: OpenSky-PHIL02
+site: PHIL02
+callsign: WPGX776, WQVX455, WRAL448
+color: pink
+range: 15
+---
+service: OpenSky-PHIL31
+site: PHIL31
+callsign: WQTQ410, WQVX455
+color: pink
+range: 15
+---
+service: OpenSky-PHIL62
+site: PHIL62
+callsign: WQCC366
+color: pink
+range: 15
+---
+service: OpenSky-PHIL63
+site: PHIL63
+callsign: WQOF628
+color: pink
+range: 15
+---
+service: OpenSky-PHIL64
+site: PHIL64
+callsign: WQOE236
+color: pink
+range: 15
+---
+service: OpenSky-PHIL65
+site: PHIL65
+callsign: WQUS878
+color: pink
+range: 15
+---
+service: OpenSky-PHIL91
+site: PHIL91
+callsign: WQUS877
+color: pink
+range: 15
+---
+service: OpenSky-PHIL601
+site: PHIL601
+callsign: WQOE236
+color: pink
+range: 15
+---
+service: OpenSky-PHIL691
+site: PHIL691
+callsign: WQVX455
+color: pink
+range: 15
+---
 service: OpenSky-PIKE01
 site: PIKE01
 callsign: WPXJ761, WQJZ509, WQUT582

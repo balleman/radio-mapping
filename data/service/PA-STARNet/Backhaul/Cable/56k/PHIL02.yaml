@@ -25,3 +25,10 @@ site: PHIL02
 dest: MONY80
 color: blue
 class: minor
+---
+service: PHIL02-PHIL601
+type: link
+site: PHIL02
+dest: PHIL601
+color: blue
+class: minor

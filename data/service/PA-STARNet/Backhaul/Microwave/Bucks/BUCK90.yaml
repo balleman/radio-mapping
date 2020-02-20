@@ -1,0 +1,5 @@
+service: BUCK90-PHIL65
+type: link
+site: BUCK90
+dest: PHIL65
+color: dkorange

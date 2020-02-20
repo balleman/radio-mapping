@@ -18,3 +18,10 @@ site: MONY02
 dest: MONY69
 color: blue
 class: minor
+---
+service: MONY02-PHIL62
+type: link
+site: MONY02
+dest: PHIL62
+color: blue
+class: minor

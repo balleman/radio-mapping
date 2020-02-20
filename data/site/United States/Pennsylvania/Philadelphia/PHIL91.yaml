@@ -1,0 +1,9 @@
+site: PHIL91
+name: Bartram Ave, Penndot #6-5
+aliases:
+  - PHIL691
+loc:
+        lat: 39.88202777777778
+        lon: -75.25266666666667
+type: tower
+asrn: 1278985
