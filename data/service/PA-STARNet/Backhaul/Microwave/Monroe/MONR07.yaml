@@ -11,3 +11,9 @@ site: MONR07
 dest: MONR64
 color: black
 callsign: WQSL476
+---
+service: MONR07-NORH30
+type: link
+site: MONR07
+dest: NORH30
+color: dkorange

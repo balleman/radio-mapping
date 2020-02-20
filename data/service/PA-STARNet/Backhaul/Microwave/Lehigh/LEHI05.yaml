@@ -24,3 +24,9 @@ type: link
 site: LEHI05
 dest: LEHI65
 color: dkorange
+---
+service: LEHI05
+type: link
+site: LEHI05
+dest: NORH680
+color: dkorange

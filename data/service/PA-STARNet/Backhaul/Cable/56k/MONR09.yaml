@@ -1,6 +1,6 @@
-service: MONR09-NJWA631
+service: MONR09-NORH63
 type: link
 site: MONR09
-dest: NJWA631
+dest: NORH63
 color: blue
 class: minor

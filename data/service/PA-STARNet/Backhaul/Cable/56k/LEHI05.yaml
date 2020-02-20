@@ -18,3 +18,10 @@ site: LEHI05
 dest: LEHI61
 color: blue
 class: minor
+---
+service: LEHI05-NORH62
+type: link
+site: LEHI05
+dest: NORH62
+color: blue
+class: minor

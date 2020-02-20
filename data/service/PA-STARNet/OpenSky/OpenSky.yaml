@@ -2987,6 +2987,30 @@ callsign: WQWQ415
 color: pink
 range: 15
 ---
+service: OpenSky-NORH30
+site: NORH30
+callsign: WQOE544
+color: pink
+range: 15
+---
+service: OpenSky-NORH62
+site: NORH62
+callsign: WQOE758
+color: pink
+range: 15
+---
+service: OpenSky-NORH63
+site: NORH63
+callsign: WQOE544
+color: pink
+range: 15
+---
+service: OpenSky-NORH680
+site: NORH680
+callsign: WQOE299
+color: pink
+range: 15
+---
 service: OpenSky-PERR01
 site: PERR01
 callsign: WPQE479
