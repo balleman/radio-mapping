@@ -101,11 +101,18 @@ def main():
             folders[os.path.join(dirpath, dirname)] = fld 
         for name in sorted(filenames):
             filename = os.path.join(dirpath, name)
-            if (filename.endswith(".yaml")):
+            fld = folders[dirpath]
+            if filename.endswith("/folder.yaml"):
+                stream = open(filename, 'r')
+                fldopts = yaml.safe_load(stream)
+                if "hidden" in fldopts:
+                    if fldopts['hidden']:
+                        fld.visibility = 0
+            elif filename.endswith(".yaml"):
+                #print(filename)
                 stream = open(filename, 'r')
                 svcs = yaml.safe_load_all(stream)
-                for svc in svcs:
-                    fld = folders[dirpath]
+                for svc in svcs:                    
                     if "type" not in svc:
                         fld_this = fld.newfolder(name=svc['service'])
                         point = fld_this.newpoint(name=svc['service'])
@@ -180,7 +187,13 @@ def main():
                         site = sites[svc['site']]
                         point.coords = [(site['loc']['lon'], site['loc']['lat'])]
                         point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/shapes/square.png"
-                        point.style.iconstyle.scale = 2              
+                        point.style.iconstyle.scale = 2
+                        
+    for folder in folders.values():
+        if folder.visibility == 0:
+            for geo in folder.allgeometries:
+                geo.visibility = 0
+            
                         
     kml.savekmz(target + "/radio-mapping.kmz", format=False)
 
