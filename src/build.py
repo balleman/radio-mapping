@@ -54,14 +54,15 @@ def main():
                 
     site_path = "../data/site"
     for (dirpath, dirnames, filenames) in os.walk(site_path):
-        for dirname in dirnames:
-            if dirpath in sorted(folders):
+        for dirname in sorted(dirnames):
+            if dirpath in folders:
                 fld = folders[dirpath].newfolder(name=dirname)
             else:
                 fld = fld_phy.newfolder(name=dirname)
             folders[os.path.join(dirpath, dirname)] = fld 
         for name in sorted(filenames):
             filename = os.path.join(dirpath, name)
+            print(filename)
             if (filename.endswith(".yaml")):
                 stream = open(filename, 'r')
                 site = yaml.safe_load(stream)
@@ -74,6 +75,8 @@ def main():
                     for alias in site['aliases']:
                         sites[alias] = site
                         point.description += "<br />Alias: " + alias
+                if "asrn" in site:
+                    point.description += "<br />ASRN: " + str(site['asrn'])
                 if not 'type' in site:
                     point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png"
                 elif site['type'] == 'tower':
@@ -86,18 +89,17 @@ def main():
                     point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png"
                 else:
                     point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png"
-                
     
     fld_svc = kml.newfolder(name="Services")
     service_path = "../data/service"
     for (dirpath, dirnames, filenames) in os.walk(service_path):
-        for dirname in dirnames:
+        for dirname in sorted(dirnames):
             if dirpath in folders:
                 fld = folders[dirpath].newfolder(name=dirname)
             else:
                 fld = fld_svc.newfolder(name=dirname)
             folders[os.path.join(dirpath, dirname)] = fld 
-        for name in filenames:
+        for name in sorted(filenames):
             filename = os.path.join(dirpath, name)
             if (filename.endswith(".yaml")):
                 stream = open(filename, 'r')
