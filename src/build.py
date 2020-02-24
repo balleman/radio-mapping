@@ -62,7 +62,7 @@ def main():
             folders[os.path.join(dirpath, dirname)] = fld 
         for name in sorted(filenames):
             filename = os.path.join(dirpath, name)
-            print(filename)
+            #print(filename)
             if (filename.endswith(".yaml")):
                 stream = open(filename, 'r')
                 site = yaml.safe_load(stream)
@@ -144,8 +144,6 @@ def main():
                                 line.coords = [(site0['loc']['lon'], site0['loc']['lat']), (site1['loc']['lon'], site1['loc']['lat'])]
                                 line.extrude = 1
                                 line.style.linestyle.color = simplekml.Color.beige
-                                
-                                                            
                     elif svc['type'] == "link":
                         line = fld.newlinestring(name=svc['service'])
                         site0 = sites[svc['site']]
@@ -184,7 +182,7 @@ def main():
                         point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/shapes/square.png"
                         point.style.iconstyle.scale = 2              
                         
-    kml.save(target + "/radio-mapping.kml")
+    kml.savekmz(target + "/radio-mapping.kmz", format=False)
 
 if __name__ == '__main__':
     main()
