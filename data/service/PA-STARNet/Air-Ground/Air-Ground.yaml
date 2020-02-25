@@ -1,0 +1,99 @@
+service: P25AG-VENA08
+site: VENA08
+callsign: WPTZ795
+range: 25
+color: orange
+p25:
+  nac: 01B
+  site: 1
+  rfss: 1
+---
+service: P25AG-WEST03
+site: WEST03
+callsign: WPTZ795
+range: 25
+color: orange
+p25:
+  nac: 01B
+  site: 1
+  rfss: 2
+---
+service: P25AG-LYCO01
+site: LYCO01
+callsign: WPTZ795
+range: 25
+color: orange
+p25:
+  nac: 01B
+  site: 1
+  rfss: 3
+---
+service: P25AG-POTT11
+site: POTT11
+callsign: WPTZ795
+range: 25
+color: orange
+p25:
+  nac: 01B
+  site: 2
+  rfss: 3
+---
+service: P25AG-BLAI02
+site: BLAI02
+callsign: WPTZ795
+range: 25
+color: orange
+p25:
+  nac: 01B
+  site: 1
+  rfss: 4
+---
+service: P25AG-LUZE01
+site: LUZE01
+callsign: WPTZ795
+range: 25
+color: orange
+p25:
+  nac: 01B
+  site: 1
+  rfss: 5
+---
+service: P25AG-BERK02
+site: BERK02
+callsign: WPTZ795
+range: 25
+color: orange
+p25:
+  nac: 01B
+  site: 1
+  rfss: 6
+---
+service: P25AG-BUCK40
+site: BUCK40
+callsign: WPTZ795
+range: 25
+color: orange
+p25:
+  nac: 01B
+  site: 2
+  rfss: 6
+---
+service: P25AG-YORK01
+site: YORK01
+callsign: WPTZ795
+range: 25
+color: orange
+p25:
+  nac: 01B
+  site: 1
+  rfss: 7
+---
+service: P25AG-PERR01
+site: PERR01
+callsign: WPTZ795
+range: 25
+color: orange
+p25:
+  nac: 01B
+  site: 2
+  rfss: 7
