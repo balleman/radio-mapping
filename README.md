@@ -44,3 +44,16 @@ DO NOT RELY ON THIS DATA FOR ANY PURPOSE!  This is a hobbyist project based on p
   * DS3 Capacity or better
 * Red Highlight
   * Spread Spectrum
+### Circles
+#### OpenSky
+* Purple
+  * 800MHz
+#### P25
+* Green
+  * VHF (~ 150 MHz)
+* Blue
+  * UHF (~ 400 MHz)
+* Orange
+  * 700 MHz
+* Red
+  * 800 MHz
