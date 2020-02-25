@@ -1,10 +1,10 @@
 # radio-mapping
 Repository of radio site mapping and date with associated transforms.
 
-# disclaimer
+# Disclaimer
 DO NOT RELY ON THIS DATA FOR ANY PURPOSE!  This is a hobbyist project based on public data that may not be current and a good deal of guesswork.
 
-# building
+# Building
 * git clone https://github.com/balleman/radio-mapping.git
 * cd radio-mapping/src
 * ./build.py
