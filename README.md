@@ -19,8 +19,16 @@ DO NOT RELY ON THIS DATA FOR ANY PURPOSE!  This is a hobbyist project based on p
 ## Sites
 * Red Circle Bubble
   * Tower
+* Cyan Circle Bubble
+  * Tank
 * Small Circle
   * Pole
+* Small Square
+  * Building
+* Large Square
+  * Regional Operations Center (ROC)
+* Huge Square
+  * Network Operations Center (NOC)
 ## Services
 ### Points
 * Target
