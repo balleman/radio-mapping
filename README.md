@@ -52,6 +52,8 @@ DO NOT RELY ON THIS DATA FOR ANY PURPOSE!  This is a hobbyist project based on p
   * DS3 Capacity or better
 * Red Highlight
   * Spread Spectrum
+* White Line (thin)
+  * P25 Neighbor Site
 ### Circles
 #### OpenSky
 * Purple
