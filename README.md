@@ -41,6 +41,6 @@ DO NOT RELY ON THIS DATA FOR ANY PURPOSE!  This is a hobbyist project based on p
 * Dark Orange
   * ISM Microwave Link
 * Yellow Highlight
-  * >= DS3 Capacity
+  * DS3 Capacity or better
 * Red Highlight
   * Spread Spectrum
