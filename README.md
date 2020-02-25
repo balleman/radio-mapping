@@ -8,7 +8,7 @@ DO NOT RELY ON THIS DATA FOR ANY PURPOSE!  This is a hobbyist project based on p
 * git clone https://github.com/balleman/radio-mapping.git
 * cd radio-mapping/src
 * ./build.py
-* load radio-mapping/target/radio-mapping.kml into Google Earth as a Network Link (allows for refreshing)
+* load radio-mapping/target/radio-mapping.kmz into Google Earth as a Network Link (allows for refreshing)
 
 # Covered Systems
 * PA-STARNET
