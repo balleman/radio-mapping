@@ -1,0 +1,13 @@
+service: SCTF-FRANKLINCH-CLARKSKNOB
+type: link
+site: SCTF-FRANKLINCH
+dest: SCTF-CLARKSKNOB
+color: black
+callsign: WQKK805
+---
+service: SCTF-FRANKLINCH-QUIRAUKMT
+type: link
+site: SCTF-FRANKLINCH
+dest: SCTF-QUIRAUNKMT
+color: black
+callsign: WQKK805

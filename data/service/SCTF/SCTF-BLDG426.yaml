@@ -1,0 +1,13 @@
+service: SCTF-LETTERKENNY-CLARKSKNOB
+type: link
+site: SCTF-LETTERKENNY
+dest: SCTF-CLARKSKNOB
+color: black
+callsign: WQMD407
+---
+service: SCTF-LETTERKENNY-SITEC
+type: link
+site: SCTF-LETTERKENNY
+dest: SCTF-SITEC
+color: black
+callsign: WQMD407

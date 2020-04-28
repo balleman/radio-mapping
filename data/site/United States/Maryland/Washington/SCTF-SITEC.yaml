@@ -1,0 +1,8 @@
+site: SCTF-SITEC
+name: Site C
+loc:
+        lat: 39.69647222222222
+        lon: -77.51247222222223
+type: tower
+aliases:
+  - SCTF-QUIRAUKMT

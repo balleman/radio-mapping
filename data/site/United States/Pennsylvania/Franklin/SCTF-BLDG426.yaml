@@ -1,0 +1,9 @@
+site: SCTF-BLDG426
+name: Building 426
+loc:
+        lat: 39.991527777777776
+        lon: -77.64291666666668
+type: tower
+asrn: 1260413
+aliases:
+  - SCTF-LETTERKENNY

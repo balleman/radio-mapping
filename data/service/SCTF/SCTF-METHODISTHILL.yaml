@@ -1,0 +1,6 @@
+service: SCTF-CLARKSKNOB-METHODISTHILL
+type: link
+site: SCTF-METHODISTHILL
+dest: SCTF-CLARKSKNOB
+color: black
+callsign: WQHA931

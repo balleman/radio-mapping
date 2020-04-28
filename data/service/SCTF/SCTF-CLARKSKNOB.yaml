@@ -1,0 +1,41 @@
+service: SCTF-CLARKSKNOB-METHODISTHILL
+type: link
+site: SCTF-CLARKSKNOB
+dest: SCTF-METHODISTHILL
+color: black
+callsign: WQHB324
+---
+service: SCTF-CLARKSKNOB-BLDG426
+type: link
+site: SCTF-CLARKSKNOB
+dest: SCTF-BLDG426
+color: black
+callsign: WQHB324, WQMD404
+---
+service: SCTF-CLARKSKNOB-PTC-ROXBURY
+type: link
+site: SCTF-CLARKSKNOB
+dest: FRAN07
+color: black
+callsign: WQHB324
+---
+service: SCTF-CLARKSKNOB-TUSCARORAMT
+type: link
+site: SCTF-CLARKSKNOB
+dest: SCTF-TUSCARORAMT
+color: black
+callsign: WQHB324
+---
+service: SCTF-CLARKSKNOB-FRANKLINCH
+type: link
+site: SCTF-CLARKSKNOB
+dest: SCTF-FRANKLINCH
+color: black
+callsign: WQHB324
+---
+service: SCTF-CLARKSKNOB-CUMB-EOC
+type: link
+site: SCTF-CLARKSKNOB
+dest: CUMB-EOC
+color: black
+callsign: WQMD404
