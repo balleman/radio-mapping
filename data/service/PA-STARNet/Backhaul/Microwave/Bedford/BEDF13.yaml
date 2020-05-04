@@ -4,3 +4,10 @@ site: BEDF13
 dest: BLAI65
 class: minor
 color: dkorange
+---
+service: BEDF13-BEDF691
+type: link
+site: BEDF13
+dest: BEDF691
+class: minor
+color: dkorange
