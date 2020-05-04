@@ -1,0 +1,11 @@
+service: P25-113-BRAD31
+site: BRAD31
+range: 20
+callsign: WQVA717,WRBT765
+p25:
+  site: 113
+  rfss: 1
+adjacent:
+  - SULL01
+  - BRAD41
+  - SUSQ86

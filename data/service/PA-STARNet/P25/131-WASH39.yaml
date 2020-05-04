@@ -1,0 +1,8 @@
+service: P25-131-WASH39
+site: WASH39
+range: 10
+callsign: WQTK944
+p25:
+  site: 131
+  rfss: 1
+color: red

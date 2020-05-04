@@ -1,0 +1,7 @@
+service: P25-106-SUSQ86
+site: SUSQ86
+range: 20
+p25:
+  nac: 942
+  site: 106
+  rfss: 1

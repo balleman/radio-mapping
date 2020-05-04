@@ -1,0 +1,7 @@
+service: P25-114-BRAD41
+site: BRAD41
+range: 20
+callsign: WQVA716
+p25:
+  site: 114
+  rfss: 1

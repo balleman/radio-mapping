@@ -1,0 +1,7 @@
+service: P25-115-WYOM30
+site: WYOM30
+range: 20
+callsign: WRBT765
+p25:
+  site: 115
+  rfss: 1
