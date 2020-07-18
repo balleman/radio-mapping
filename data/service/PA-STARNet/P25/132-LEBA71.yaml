@@ -1,0 +1,8 @@
+service: P25-132-LEBA71
+site: LEBA71
+range: 10
+callsign: WQUS875
+p25:
+  site: 132
+  rfss: 1
+color: red

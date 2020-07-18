@@ -5,3 +5,9 @@ callsign: WRBT765
 p25:
   site: 115
   rfss: 1
+adjacent:
+  - LACK53
+  - LUZE04
+  - SULL01
+  - SUSQ86
+  - BRAD41

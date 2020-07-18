@@ -1,0 +1,11 @@
+service: P25-111-COLU01
+site: COLU01
+range: 20
+callsign: WRCB536
+p25:
+  site: 111
+  rfss: 1
+adjacent:
+  - SCHU33
+  - LUZE04
+  - COLU02

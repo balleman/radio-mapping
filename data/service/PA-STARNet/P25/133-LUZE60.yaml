@@ -1,0 +1,11 @@
+service: P25-133-LUZE60
+site: LUZE60
+range: 10
+callsign: WRFM445
+p25:
+  site: 133
+  rfss: 1
+color: blue
+adjacent:
+  - LUZE04
+
