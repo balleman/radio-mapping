@@ -1,0 +1,14 @@
+service: P25-139-SCHU36
+site: SCHU36
+range: 20
+callsign: WPVF387
+p25:
+  site: 139
+  rfss: 1
+color: green
+adjacent:
+  - LEHI06
+  - LUZE04
+  - COLU01
+  - COLU02
+

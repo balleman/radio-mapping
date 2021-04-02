@@ -1,0 +1,13 @@
+service: P25-072-PERR86
+site: PERR86
+range: 15
+p25:
+  nac: 94A
+  site: 72
+  rfss: 1
+color: blue
+adjacent:
+  - SNYD02
+  - PERR01
+  - MIFF35
+
