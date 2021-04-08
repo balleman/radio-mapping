@@ -1,0 +1,31 @@
+service: MADRN-007
+site: MADRN-York
+callsign: WPLY937, WPVH211
+range: 15
+color: blue
+dmr:
+    site: 7
+---
+service: MADRN-009
+site: MADRN-Shippensburg
+callsign: WPMR457
+range: 15
+color: blue
+dmr:
+    site: 9
+---
+service: MADRN-043
+site: MADRN-Waynesboro
+callsign: WQXN596
+range: 15
+color: blue
+dmr:
+    site: 43
+---
+service: MADRN-057
+site: MADRN-McConnellsburg
+callsign: WRAA246
+range: 15
+color: blue
+dmr:
+    site: 57

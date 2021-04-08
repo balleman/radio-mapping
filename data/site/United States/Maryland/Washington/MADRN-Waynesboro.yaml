@@ -1,0 +1,6 @@
+site: MADRN-Waynesboro
+name: Waynesboro
+loc:
+        lat: 39.69639 
+        lon: -77.51250 
+type: tower
