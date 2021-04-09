@@ -1,0 +1,6 @@
+site: MADRN-SummitStation
+name: Summit Station
+loc:
+        lat: 40.53119
+        lon: -76.20106
+type: tower

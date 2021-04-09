@@ -122,7 +122,7 @@ def main():
                         point.style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/shapes/target.png"
                         point.style.iconstyle.scale = 2                        
                         if "callsign" in svc:
-                            point.description += "<br />Callsign: " + svc['callsign']
+                            point.description += "<br />Callsign: " + str(svc['callsign'])
                         if "p25" in svc:
                             p25 = svc['p25']
                             if "nac" in p25:
