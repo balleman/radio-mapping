@@ -94,6 +94,30 @@ color: blue
 dmr:
     site: 12
 ---
+service: MADRN-014
+site: MADRN-Concordville
+callsign: WPLR257, WPVF400, WQUR609
+range: 15
+color: blue
+dmr:
+    site: 14
+---
+service: MADRN-015
+site: MADRN-Reading
+callsign: WPRJ813, WPRX690
+range: 15
+color: blue
+dmr:
+    site: 15
+---
+service: MADRN-016
+site: MADRN-Allentown
+callsign: WPMT607, WPNU846
+range: 15
+color: blue
+dmr:
+    site: 16
+---
 service: MADRN-017
 site: MADRN-RedLion
 callsign: WQOT822
@@ -101,6 +125,14 @@ range: 15
 color: blue
 dmr:
     site: 17
+---
+service: MADRN-018
+site: MADRN-Philadelphia
+callsign: WPVF400, WPVF401, WQTU646
+range: 15
+color: blue
+dmr:
+    site: 18
 ---
 service: MADRN-019
 site: MADRN-BlackMoshannon
@@ -126,6 +158,14 @@ color: red
 dmr:
     site: 21
 ---
+service: MADRN-022
+site: MADRN-LancasterCity
+callsign: WQLK268
+range: 15
+color: blue
+dmr:
+    site: 22
+---
 service: MADRN-023
 site: MADRN-Newport
 callsign: WQSK899
@@ -134,6 +174,14 @@ color: red
 dmr:
     site: 23
 ---
+service: MADRN-024
+site: MADRN-Tannersville
+callsign: WNJL641
+range: 15
+color: blue
+dmr:
+    site: 24
+---
 service: MADRN-026
 site: MADRN-Altoona
 callsign: WNVT290, WPMN285
@@ -141,6 +189,22 @@ range: 15
 color: red
 dmr:
     site: 26
+---
+service: MADRN-027
+site: MADRN-Blairsville
+callsign: WNRC315, WPOX891, WQDR908
+range: 15
+color: blue
+dmr:
+    site: 27
+---
+service: MADRN-028
+site: MADRN-Johnstown
+callsign: WNKG325, WPOX894, WPVH419
+range: 15
+color: blue
+dmr:
+    site: 28
 ---
 service: MADRN-030
 site: MADRN-StateCollege

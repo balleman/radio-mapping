@@ -1,0 +1,6 @@
+site: MADRN-Philadelphia
+name: Philadelphia
+loc:
+        lat: 40.04192
+        lon: -75.23942
+type: tower
