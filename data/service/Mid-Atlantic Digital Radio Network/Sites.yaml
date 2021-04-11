@@ -206,6 +206,14 @@ color: blue
 dmr:
     site: 28
 ---
+service: MADRN-029
+site: MADRN-RochesterMills
+callsign: WNCG479, WPOX895, WPVH423
+range: 15
+color: blue
+dmr:
+    site: 29
+---
 service: MADRN-030
 site: MADRN-StateCollege
 callsign: WNMU682, WPLP404, WPVH408
@@ -230,6 +238,14 @@ color: red
 dmr:
     site: 33
 ---
+service: MADRN-041
+site: MADRN-Dupont
+callsign: WQVL989
+range: 15
+color: blue
+dmr:
+    site: 41
+---
 service: MADRN-043
 site: MADRN-Waynesboro
 callsign: WQXN596
@@ -238,6 +254,22 @@ color: blue
 dmr:
     site: 43
 ---
+service: MADRN-044
+site: MADRN-WilkesBarre
+callsign: WPMI594
+range: 15
+color: blue
+dmr:
+    site: 44
+---
+service: MADRN-045
+site: MADRN-Boyertown
+callsign: WQVL698
+range: 15
+color: blue
+dmr:
+    site: 45
+---
 service: MADRN-046
 site: MADRN-Ashland
 callsign: WQWI685
@@ -245,6 +277,78 @@ range: 15
 color: blue
 dmr:
     site: 46
+---
+service: MADRN-047
+site: MADRN-Hazleton
+callsign: WQWL881
+range: 15
+color: blue
+dmr:
+    site: 47
+---
+service: MADRN-048
+site: MADRN-Mehoopany
+callsign: WQUR273
+range: 15
+color: blue
+dmr:
+    site: 48
+---
+service: MADRN-049
+site: MADRN-EggHarborCity
+callsign: WPVF400, WQYZ562
+range: 15
+color: blue
+dmr:
+    site: 49
+---
+service: MADRN-051
+site: MADRN-Dover
+callsign: WPVF401
+range: 15
+color: blue
+dmr:
+    site: 51
+---
+service: MADRN-052
+site: MADRN-Dagsboro
+callsign: WQYZ885
+range: 15
+color: blue
+dmr:
+    site: 52
+---
+service: MADRN-053
+site: MADRN-Salisbury
+callsign: WQYZ884
+range: 15
+color: blue
+dmr:
+    site: 53
+---
+service: MADRN-054
+site: MADRN-ChurchHill
+callsign: WQZG437
+range: 15
+color: blue
+dmr:
+    site: 54
+---
+service: MADRN-055
+site: MADRN-Catawissa
+callsign: WQZS616
+range: 15
+color: blue
+dmr:
+    site: 55
+---
+service: MADRN-056
+site: MADRN-Waymart
+callsign: WPME254
+range: 15
+color: blue
+dmr:
+    site: 56
 ---
 service: MADRN-057
 site: MADRN-McConnellsburg
@@ -269,3 +373,11 @@ range: 10
 color: blue
 dmr:
     site: 61
+---
+service: MADRN-062
+site: MADRN-ChesapeakeCity
+callsign: WRDM315
+range: 15
+color: blue
+dmr:
+    site: 62
