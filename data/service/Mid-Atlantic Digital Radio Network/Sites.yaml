@@ -146,7 +146,7 @@ service: MADRN-020
 site: MADRN-Lewistown
 callsign: 
 range: 15
-color: red
+color: blue
 dmr:
     site: 20
 ---
@@ -154,7 +154,7 @@ service: MADRN-021
 site: MADRN-Williamsport
 callsign: 
 range: 15
-color: red
+color: blue
 dmr:
     site: 21
 ---
@@ -170,7 +170,7 @@ service: MADRN-023
 site: MADRN-Newport
 callsign: WQSK899
 range: 15
-color: red
+color: blue
 dmr:
     site: 23
 ---
@@ -186,7 +186,7 @@ service: MADRN-026
 site: MADRN-Altoona
 callsign: WNVT290, WPMN285
 range: 15
-color: red
+color: blue
 dmr:
     site: 26
 ---
@@ -218,15 +218,23 @@ service: MADRN-030
 site: MADRN-StateCollege
 callsign: WNMU682, WPLP404, WPVH408
 range: 15
-color: red
+color: blue
 dmr:
     site: 30
+---
+service: MADRN-031
+site: MADRN-Broadtop
+callsign: 
+range: 15
+color: blue
+dmr:
+    site: 31
 ---
 service: MADRN-032
 site: MADRN-Rockton
 callsign: WNQJ673
 range: 15
-color: red
+color: blue
 dmr:
     site: 32
 ---
@@ -234,9 +242,25 @@ service: MADRN-033
 site: MADRN-Ogletown
 callsign: 
 range: 15
-color: red
+color: blue
 dmr:
     site: 33
+---
+service: MADRN-034
+site: MADRN-LoopLookout
+callsign: 
+range: 15
+color: blue
+dmr:
+    site: 34
+---
+service: MADRN-035
+site: MADRN-ButlerKnob
+callsign: 
+range: 15
+color: blue
+dmr:
+    site: 35
 ---
 service: MADRN-041
 site: MADRN-Dupont
@@ -354,7 +378,7 @@ service: MADRN-057
 site: MADRN-McConnellsburg
 callsign: WRAA246
 range: 15
-color: red
+color: blue
 dmr:
     site: 57
 ---
